@@ -31,7 +31,7 @@
 # Versions
 - before: no prob-based ranking on the candidate generation or unsupervised labeling
 - before-19: same as 'before', but uses only the first 19 candidates (for ranking purposes)
-- after: prob-based ranking for both the candidate generation and unsupervised ranking --> NOT currently logged, bad labels that 
+- after: prob-based ranking for both the candidate generation and unsupervised ranking --> NOT currently logged, bad labels that were way too focused on the first few terms
 - after-experimental: same as 'after', but the first 5 topic terms in each topic have their probs equalized (during the candidate generation)
 - prob-based-ranking: initial candidate generation, prob-based unsupervised ranking
 - prob-based-cand-gen: prob-based candidate generation, initial unsupervised ranking

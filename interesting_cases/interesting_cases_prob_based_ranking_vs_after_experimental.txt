@@ -1,0 +1,42 @@
+GOOD:
+
+['agent', 'aggressive', 'spy', 'intensive', 'threatening', 'attendance', 'cancelled', 'thrive', 'canceled', 'constable']
+['threat', 'surveillance', 'counterintelligence', 'the_threats', 'imminent_threat', 'compelled', 'doug_smith_(defensive_lineman)', 'terrorist_threats', 'double_agent', 'foiled']
+['espionage_agent', 'field_agent', 'enemy_agent', 'federal_agent', 'british_agent', 'central_intelligence_agency', 'intelligence_agency', 'agent_provocateur', 'intelligence', 'hostage']
+--> better labels
+
+['term', 'word', 'used', 'use', 'example', 'system', 'would', 'also', 'work', 'may']
+['word', 'system', 'be_used_to', 'simple', 'may', 'principle', 'alternative', 'simplification', 'addition', 'reference']
+['terminology', 'specific', 'workflow', 'computer', 'research', 'methodology', 'system', 'literature', 'requirement', 'combination']
+--> better labels
+
+['president', 'wall', 'initial', 'headline', 'johnson', 'bush', 'nickname', 'concert', 'awesome', 'agenda']
+['the_president', 'lyndon_b._johnson', 'david_johnson_(ohio_politician)', 'joe_biden', 'ted_nugent', 'laura_bush', 'elton_john', 'john_mccain', 'caroline_kennedy', 'george_h._w._bush']
+['the_vice_president', 'the_president', 'vice_president', 'presidential_nominee', 'joe_biden', 'john_connally', 'george_wallace', 'white_house_press_secretary', 'louis_johnson_(politician)', 'lyndon_b._johnson']
+--> more focus on general labels instead of names
+
+
+NEUTRAL:
+
+['private', 'height', 'marine', 'sergeant', 'congratulation', 'elevation', 'altitude', 'lego', 'bb', 'doughnut']
+['elevation', 'latitude', 'altitude', 'observation_deck', 'observation_tower', 'topographic_isolation', 'sergeant_major', 'staff_sergeant', 'first_sergeant', 'master_sergeant']
+['private_first_class', 'marines', 'united_states_marine_corps', 'durham_light_infantry', 'the_marine', 'vaughtia', 'platoon_sergeant', 'royal_marines', 'officer_candidate', 'united_states_navy']
+--> captures the marine topic sooner, but not the whole 'elevation'/'height' one
+
+
+BAD:
+
+['god', 'king', 'cat', 'drive', 'lord', 'bible', 'christian', 'ring', 'hard', 'shall']
+['christianity', 'christ', 'christian_theology', 'holy_spirit_(christianity)', 'eternal_life_(christianity)', 'god', 'holy_spirit_(christian_denominational_variations)', 'king_james_version', 'thou_shalt_not', 'by_god']
+['my', 'christ', 'god_can', 'godhead', 'everlasting_life', 'son_of_god', 'by_the_gods', 'hecate', 'god_the_father', 'goddess']
+--> some useless labels
+
+['ship', 'formula', 'crew', 'automobile', 'ay', 'referendum', 'aye', 'compilation', 'antenna', 'tarmac']
+['formula_ford', 'formula_one', 'formula_two', 'formula_5000', 'formula_racing', 'formula_one_car', 'aviation', 'airship', 'world_rally_championship', 'autogyro']
+['ship', 'q-ship', 'airship', 'warship', 'steamship', 'cargo_ship', 'battleship', 'motor_ship', 'depot_ship', 'sister_ship']
+--> too much focus on a single word
+
+['human', 'animal', 'eat', 'fish', 'bird', 'eating', 'meat', 'sick', 'chicken', 'fat']
+['eating', 'chicken', 'animal', 'animal_fat', 'chicken_(food)', 'raw_meat', 'red_meat', 'dog_meat', 'fish', 'horse_meat']
+['aquatic_animal', 'animal', 'fish', 'raw_meat', 'crayfish', 'catfish', 'goldfish', 'shellfish', 'jellyfish', 'freshwater_fish']
+--> too much focus on species of fish instead of meat

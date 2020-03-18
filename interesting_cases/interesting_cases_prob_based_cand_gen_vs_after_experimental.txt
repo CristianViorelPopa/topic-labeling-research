@@ -1,0 +1,19 @@
+Note: tweaks to the unsupervised algo bring many changes, unlike in the variants with the old candidate generation --> find out WHY
+
+
+GOOD:
+
+['term', 'word', 'used', 'use', 'example', 'system', 'would', 'also', 'work', 'may']
+['system', 'workflow', 'be_used_to', 'simple', 'terminology', 'computer', 'literature', 'information', 'particular', 'addition']
+['terminology', 'specific', 'workflow', 'computer', 'research', 'methodology', 'system', 'literature', 'requirement', 'combination'] 
+--> better labels
+
+
+NEUTRAL:
+
+
+
+
+BAD:
+
+

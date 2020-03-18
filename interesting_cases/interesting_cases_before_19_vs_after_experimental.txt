@@ -1,0 +1,29 @@
+GOOD:
+
+['term', 'word', 'used', 'use', 'example', 'system', 'would', 'also', 'work', 'may']
+['word', 'system', 'be_used_to', 'may', 'simple', 'principle', 'alternative', 'simplification', 'addition', 'reference']
+['terminology', 'specific', 'workflow', 'computer', 'research', 'methodology', 'system', 'literature', 'requirement', 'combination']
+--> better labels
+
+['agent', 'aggressive', 'spy', 'intensive', 'threatening', 'attendance', 'cancelled', 'thrive', 'canceled', 'constable']
+['compelled', 'doug_smith_(defensive_lineman)', 'double_agent', 'special_agent', 'attempt', 'a_warning', 'arrest', 'espionage', 'leo_taylor_(canadian_football)', 'bruce_jones_(american_football)']
+['espionage_agent', 'field_agent', 'enemy_agent', 'federal_agent', 'british_agent', 'central_intelligence_agency', 'intelligence_agency', 'agent_provocateur', 'intelligence', 'hostage']
+--> better labels
+
+
+NEUTRAL:
+
+
+
+
+BAD:
+
+['god', 'king', 'cat', 'drive', 'lord', 'bible', 'christian', 'ring', 'hard', 'shall']
+['christianity', 'christ', 'christian_theology', 'holy_spirit_(christianity)', 'eternal_life_(christianity)', 'god', 'holy_spirit_(christian_denominational_variations)', 'king_james_version', 'thou_shalt_not', 'by_god']
+['my', 'christ', 'god_can', 'godhead', 'everlasting_life', 'son_of_god', 'by_the_gods', 'hecate', 'god_the_father', 'goddess']
+--> bad labels
+
+['ship', 'formula', 'crew', 'automobile', 'ay', 'referendum', 'aye', 'compilation', 'antenna', 'tarmac']
+['formula_ford', 'formula_one', 'formula_two', 'formula_5000', 'formula_racing', 'formula_one_car', 'aviation', 'airship', 'world_rally_championship', 'autogyro']
+['ship', 'q-ship', 'airship', 'warship', 'steamship', 'cargo_ship', 'battleship', 'motor_ship', 'depot_ship', 'sister_ship']
+--> too much focus on a single word

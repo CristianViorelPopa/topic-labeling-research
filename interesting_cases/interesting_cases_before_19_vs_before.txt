@@ -1,0 +1,42 @@
+GOOD:
+
+['dictionary', 'com', 'http', 'definition', 'webster', 'www', 'merriam', 'amp', 'org', 'en']
+['web_browser', 'world_wide_web', 'domain_name_system', 'xml', 'html', 'metadata', 'uniform_resource_identifier', 'whois', 'ipv6', 'data_model']
+['data_dictionary', 'session_initiation_protocol', 'dict', 'annotation', 'web_application', 'https', 'communications_protocol', 'information_model', 'application_layer', 'configuration_file']
+--> 'before_19' doesn't capture the underlying dictionary topic
+
+['law', 'police', 'client', 'officer', 'waiting', 'staff', 'default', 'thesis', 'chief', 'server']
+['web_server', 'proxy_server', 'chief_of_defence_(netherlands)', 'operating_system', 'constable', 'master_of_laws', 'password_management', 'inspector_general', 'inspector', 'deputy_director']
+['police_officer', 'police', 'chief_of_police', 'officer_training', 'chief_of_staff', 'police_rank', 'chiefs_of_staff', 'executive_officer', 'web_server', 'military_police']
+--> 'before' captures the right topic
+
+['latest', 'ensure', 'insurance', 'bitter', 'perfection', 'swallow', 'assurance', 'assure', 'dairy', 'distorted']
+['quality_assurance', 'regulatory_compliance', 'guarantee', 'product_testing', 'not_at_all', 'and_that', 'so_good_(soy_beverage)', 'food_safety', 'quality_management_system', 'juice_(the_grapes_album)']
+['farm_assurance', 'life_insurance', 'title_insurance', 'quality_assurance', 'general_insurance', 'surely', 'imperfectly', 'consumer_protection', 'regulatory_compliance', 'dairy_product']
+--> 'before_19' has a lot of useless labels
+
+['agent', 'aggressive', 'spy', 'intensive', 'threatening', 'attendance', 'cancelled', 'thrive', 'canceled', 'constable']
+['compelled', 'doug_smith_(defensive_lineman)', 'double_agent', 'special_agent', 'attempt', 'a_warning', 'arrest', 'espionage', 'leo_taylor_(canadian_football)', 'bruce_jones_(american_football)']
+['threat', 'surveillance', 'counterintelligence', 'the_threats', 'imminent_threat', 'compelled', 'doug_smith_(defensive_lineman)', 'terrorist_threats', 'double_agent', 'foiled']
+--> 'before' has better top labels
+
+
+NEUTRAL:
+
+['practice', 'religious', 'religion', 'concrete', 'holy', 'muslim', 'gin', 'valued', 'islam', 'islamic']
+['religion', 'abrahamic_religions', 'islamic_culture', 'shia_islam', 'sunni_islam', 'muslim_world', 'christianity', 'sufism', 'ahmadiyya', 'hindu']
+['religion', 'religious_law', 'folk_religion', 'religious_conversion', 'state_religion', 'abrahamic_religions', 'religious_education', 'indian_religions', 'religious_pluralism', 'islamism']
+--> islam is ranked too low for 'before', but maybe too high for 'before_19'
+
+
+BAD:
+
+['available', 'pair', 'tool', 'engine', 'instrument', 'pencil', 'trope', 'scissors', 'cart', 'damned']
+['tool', 'wrench', 'workbench', 'sharpening', 'machine_(mechanical)', 'tweezers', 'blade', 'electric_motor', 'wheel', 'chisel']
+['experimental_musical_instrument', 'two-stroke_engine', 'tool', 'indicator_(distance_amplifying_instrument)', 'toolbox', 'oscilloscope', 'the_rope', 'hand_tool', 'propeller', 'power_tool']
+--> labels are way too specific
+
+['negative', 'positive', 'post', 'question', 'site', 'quot', 'user', 'website', 'medium', 'news']
+['information', 'web', 'social_news', 'social_media', 'opinion', 'web_2.0', 'user-generated_content', 'web_traffic', 'social_networking_service', 'blog']
+['a_positive', 'fansite', 'review_site', 'news_media', 'news', 'web_application', 'information', 'web', 'personalization', 'newsvine']
+--> bad labels

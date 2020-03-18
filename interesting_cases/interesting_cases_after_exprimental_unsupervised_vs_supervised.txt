@@ -1,0 +1,24 @@
+GOOD:
+
+['human', 'animal', 'eat', 'fish', 'bird', 'eating', 'meat', 'sick', 'chicken', 'fat']
+['aquatic_animal', 'animal', 'fish', 'raw_meat', 'crayfish', 'catfish', 'goldfish', 'shellfish', 'jellyfish', 'freshwater_fish']
+['animal', 'aquatic_animal', 'the_animal', 'fish', 'bird', 'eating', 'freshwater_fish', 'predatory_fish', 'chicken', 'mammal']
+--> captures the general theme of animals, rather than focusing on aquatic animals
+
+
+NEUTRAL:
+
+['term', 'word', 'used', 'use', 'example', 'system', 'would', 'also', 'work', 'may']
+['terminology', 'specific', 'workflow', 'computer', 'research', 'methodology', 'system', 'literature', 'requirement', 'combination']
+['computer', 'system', 'be_used_to', 'information', 'application_programming_interface', 'software', 'data_collection', 'particular', 'computing', 'specific']
+--> different topics found, but both have reasonable labels
+
+['people', 'country', 'american', 'america', 'culture', 'north', 'south', 'uk', 'indian', 'chinese']
+['americans', 'americas', 'north_america', 'south_america', 'european_americans', 'latin_americans', 'american_music', 'white_american', 'latin_america', 'chinese_people']
+['japanese_people', 'chinese_people', 'indian_people', 'north_america', 'british_people', 'south_america', 'white_american', 'vietnamese_people', 'turkish_people', 'english_people']
+--> one focuses too much on the main point ('america'), while the other one tries to be as varied as possible
+
+
+BAD:
+
+

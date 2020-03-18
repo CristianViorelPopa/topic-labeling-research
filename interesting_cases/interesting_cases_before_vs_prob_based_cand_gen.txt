@@ -1,0 +1,27 @@
+GOOD:
+
+['president', 'wall', 'initial', 'headline', 'johnson', 'bush', 'nickname', 'concert', 'awesome', 'agenda']
+['the_president', 'lyndon_b._johnson', 'david_johnson_(ohio_politician)', 'joe_biden', 'ted_nugent', 'laura_bush', 'elton_john', 'john_mccain', 'caroline_kennedy', 'george_h._w._bush']
+['presidential_nominee', 'the_president', 'vice_president', 'the_vice_president', 'lyndon_b._johnson', 'lady_bird_johnson', 'louis_johnson_(politician)', 'john_connally', 'david_johnson_(ohio_politician)', 'joe_biden']
+--> better top labels (and even labels overall)
+
+
+NEUTRAL:
+
+['new', 'city', 'york', 'area', 'london', 'track', 'actor', 'television', 'election', 'click']
+['london', 'new_york_city', 'east_london', 'new_york', '24', 'plaistow_(uk_electoral_ward)', 'west_acton', 'dalston_(hackney_ward)', 'town', 'chislehurst_(uk_parliament_constituency)']
+['london', 'central_london', 'greater_london', 'east_london', 'london_road', 'south_london', 'north_london', 'new_york', 'new_york_metropolitan_area', 'upstate_new_york']
+--> labels tend to be better, but there is too much focus on london -> 'new york' is a bigram, this may be fixable by modeling topics with n-grams
+
+['private', 'height', 'marine', 'sergeant', 'congratulation', 'elevation', 'altitude', 'lego', 'bb', 'doughnut']
+['elevation', 'latitude', 'altitude', 'observation_deck', 'observation_tower', 'topographic_isolation', 'sergeant_major', 'staff_sergeant', 'first_sergeant', 'master_sergeant']
+['platoon_sergeant', 'marines', 'sergeant_major', 'staff_sergeant', 'first_sergeant', 'master_sergeant', 'colour_sergeant', 'gunnery_sergeant', 'technical_sergeant', 'private_first_class']
+--> kinda different topics
+
+
+BAD:
+
+['god', 'king', 'cat', 'drive', 'lord', 'bible', 'christian', 'ring', 'hard', 'shall']
+['christianity', 'christ', 'christian_theology', 'holy_spirit_(christianity)', 'eternal_life_(christianity)', 'god', 'holy_spirit_(christian_denominational_variations)', 'king_james_version', 'thou_shalt_not', 'by_god']
+['my', 'christ', 'god', 'shapeshifting', 'everlasting_life', 'by_god', 'prince', 'yaksha', 'hecate', 'goddess']
+--> some useless labels
