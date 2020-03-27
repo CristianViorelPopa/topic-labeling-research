@@ -3,7 +3,7 @@
 This diretory contains topic-related results, including:
 - csv files with the top 10 terms per topic (topics_\<subject\>_new.csv)
 - json files with the top 100 terms, and their respective probability, per topic (topics_\<subject\>_new.json)
-- multiple txt files with relevant sentences/short paragraphs for each topic, of which:
+- multiple txt files with relevant sentences/short paragraphs for each topic. Before these, there are the top 10 topic terms and a blank line after. The variations of these files are:
 	* top 10 sentences (topics_\<subject\>_new_sentences_raw.txt)
 	* top 2 sentences (topics_\<subject\>_new_sentences.txt)
 	* top 2 sentences, with my own modifications (topics_\<subject\>_new_sentences_my_opinion.txt)
