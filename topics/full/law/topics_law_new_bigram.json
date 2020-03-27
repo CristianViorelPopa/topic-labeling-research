@@ -1,0 +1,2816 @@
+[
+    [
+        {
+            "word": "law_school",
+            "prob": "0.04551326"
+        },
+        {
+            "word": "fmla",
+            "prob": "0.03455893"
+        },
+        {
+            "word": "chemical_weapon",
+            "prob": "0.022874482"
+        },
+        {
+            "word": "tommy",
+            "prob": "0.014286616"
+        },
+        {
+            "word": "wd",
+            "prob": "0.013966922"
+        },
+        {
+            "word": "jan",
+            "prob": "0.0138456635"
+        },
+        {
+            "word": "his_bos",
+            "prob": "0.012827355"
+        },
+        {
+            "word": "throne",
+            "prob": "0.011876471"
+        },
+        {
+            "word": "nvidia",
+            "prob": "0.010690862"
+        },
+        {
+            "word": "hk",
+            "prob": "0.009859508"
+        },
+        {
+            "word": "the",
+            "prob": "0.00979921"
+        },
+        {
+            "word": "bb",
+            "prob": "0.008122042"
+        },
+        {
+            "word": "albany",
+            "prob": "0.008080199"
+        },
+        {
+            "word": "grid",
+            "prob": "0.008050818"
+        },
+        {
+            "word": "law_review",
+            "prob": "0.007746028"
+        },
+        {
+            "word": "hitler",
+            "prob": "0.0056359177"
+        },
+        {
+            "word": "and",
+            "prob": "0.0055935704"
+        },
+        {
+            "word": "apparel",
+            "prob": "0.005576253"
+        },
+        {
+            "word": "dec",
+            "prob": "0.004654515"
+        },
+        {
+            "word": "that",
+            "prob": "0.003182031"
+        },
+        {
+            "word": "not_prohibited",
+            "prob": "0.0029692217"
+        },
+        {
+            "word": "th",
+            "prob": "0.002808625"
+        },
+        {
+            "word": "to",
+            "prob": "0.0026826123"
+        },
+        {
+            "word": "of",
+            "prob": "0.0024881521"
+        },
+        {
+            "word": "on",
+            "prob": "0.0023558622"
+        },
+        {
+            "word": "in",
+            "prob": "0.0023287467"
+        },
+        {
+            "word": "sit_on",
+            "prob": "0.0023106353"
+        },
+        {
+            "word": "precursor",
+            "prob": "0.0022388268"
+        },
+        {
+            "word": "munition",
+            "prob": "0.002206622"
+        },
+        {
+            "word": "toxic",
+            "prob": "0.0021900851"
+        },
+        {
+            "word": "is",
+            "prob": "0.0021536786"
+        },
+        {
+            "word": "an_authorized",
+            "prob": "0.0019090635"
+        },
+        {
+            "word": "capture",
+            "prob": "0.0014555772"
+        },
+        {
+            "word": "or",
+            "prob": "0.0013529109"
+        },
+        {
+            "word": "queen",
+            "prob": "0.0013296899"
+        },
+        {
+            "word": "for",
+            "prob": "0.0012552903"
+        },
+        {
+            "word": "this",
+            "prob": "0.0011960355"
+        },
+        {
+            "word": "decibel",
+            "prob": "0.0011813041"
+        },
+        {
+            "word": "student",
+            "prob": "0.0010544079"
+        },
+        {
+            "word": "iron",
+            "prob": "0.0010356386"
+        },
+        {
+            "word": "not",
+            "prob": "0.0009938288"
+        },
+        {
+            "word": "with",
+            "prob": "0.0009790487"
+        },
+        {
+            "word": "wa",
+            "prob": "0.0009781995"
+        },
+        {
+            "word": "bonding",
+            "prob": "0.0009082391"
+        },
+        {
+            "word": "it",
+            "prob": "0.00090186286"
+        },
+        {
+            "word": "wa_unable",
+            "prob": "0.0008126715"
+        },
+        {
+            "word": "you",
+            "prob": "0.0008005304"
+        },
+        {
+            "word": "from",
+            "prob": "0.00073922286"
+        },
+        {
+            "word": "school",
+            "prob": "0.0006796361"
+        },
+        {
+            "word": "if",
+            "prob": "0.00067237724"
+        },
+        {
+            "word": "have",
+            "prob": "0.00063761737"
+        },
+        {
+            "word": "my",
+            "prob": "0.000628547"
+        },
+        {
+            "word": "a",
+            "prob": "0.0006022442"
+        },
+        {
+            "word": "law",
+            "prob": "0.0005931945"
+        },
+        {
+            "word": "by",
+            "prob": "0.00058573956"
+        },
+        {
+            "word": "but",
+            "prob": "0.0005836323"
+        },
+        {
+            "word": "your",
+            "prob": "0.000568083"
+        },
+        {
+            "word": "are",
+            "prob": "0.00053614995"
+        },
+        {
+            "word": "their",
+            "prob": "0.00051509"
+        },
+        {
+            "word": "contract",
+            "prob": "0.00048075328"
+        },
+        {
+            "word": "company",
+            "prob": "0.0004500169"
+        },
+        {
+            "word": "they",
+            "prob": "0.00044431177"
+        },
+        {
+            "word": "court",
+            "prob": "0.00044341962"
+        },
+        {
+            "word": "reseller",
+            "prob": "0.00043519636"
+        },
+        {
+            "word": "case",
+            "prob": "0.00042995086"
+        },
+        {
+            "word": "at",
+            "prob": "0.00039052023"
+        },
+        {
+            "word": "them",
+            "prob": "0.00035080503"
+        },
+        {
+            "word": "be",
+            "prob": "0.00034356807"
+        },
+        {
+            "word": "which",
+            "prob": "0.00034252717"
+        },
+        {
+            "word": "would",
+            "prob": "0.00033893212"
+        },
+        {
+            "word": "any",
+            "prob": "0.00032415742"
+        },
+        {
+            "word": "can",
+            "prob": "0.00030816725"
+        },
+        {
+            "word": "if_you",
+            "prob": "0.00030710408"
+        },
+        {
+            "word": "only",
+            "prob": "0.00030469266"
+        },
+        {
+            "word": "request",
+            "prob": "0.0002971262"
+        },
+        {
+            "word": "ha",
+            "prob": "0.0002949788"
+        },
+        {
+            "word": "work",
+            "prob": "0.0002935631"
+        },
+        {
+            "word": "state",
+            "prob": "0.00027678767"
+        },
+        {
+            "word": "however",
+            "prob": "0.00027677006"
+        },
+        {
+            "word": "to_be",
+            "prob": "0.00026177484"
+        },
+        {
+            "word": "under",
+            "prob": "0.00025164097"
+        },
+        {
+            "word": "is_not",
+            "prob": "0.00024783687"
+        },
+        {
+            "word": "so",
+            "prob": "0.00024562184"
+        },
+        {
+            "word": "all",
+            "prob": "0.00024430518"
+        },
+        {
+            "word": "legal",
+            "prob": "0.0002412995"
+        },
+        {
+            "word": "one",
+            "prob": "0.00023456814"
+        },
+        {
+            "word": "some",
+            "prob": "0.00023073763"
+        },
+        {
+            "word": "also",
+            "prob": "0.0002306161"
+        },
+        {
+            "word": "this_is",
+            "prob": "0.00023035471"
+        },
+        {
+            "word": "being",
+            "prob": "0.00022979027"
+        },
+        {
+            "word": "you_are",
+            "prob": "0.00022746884"
+        },
+        {
+            "word": "it_is",
+            "prob": "0.00022742471"
+        },
+        {
+            "word": "time",
+            "prob": "0.00022674377"
+        },
+        {
+            "word": "an",
+            "prob": "0.00022027167"
+        },
+        {
+            "word": "other",
+            "prob": "0.0002150097"
+        },
+        {
+            "word": "no",
+            "prob": "0.00020857103"
+        },
+        {
+            "word": "about",
+            "prob": "0.00019952907"
+        },
+        {
+            "word": "service",
+            "prob": "0.0001988062"
+        },
+        {
+            "word": "there_is",
+            "prob": "0.00019746077"
+        },
+        {
+            "word": "read",
+            "prob": "0.0001972255"
+        }
+    ],
+    [
+        {
+            "word": "prize",
+            "prob": "0.08793455"
+        },
+        {
+            "word": "merchandise",
+            "prob": "0.057591707"
+        },
+        {
+            "word": "gambling",
+            "prob": "0.04691366"
+        },
+        {
+            "word": "forensic",
+            "prob": "0.021764193"
+        },
+        {
+            "word": "raffle",
+            "prob": "0.017432984"
+        },
+        {
+            "word": "jar",
+            "prob": "0.015083304"
+        },
+        {
+            "word": "criminal_sexual",
+            "prob": "0.014469347"
+        },
+        {
+            "word": "unborn",
+            "prob": "0.0129550025"
+        },
+        {
+            "word": "forensics",
+            "prob": "0.011451976"
+        },
+        {
+            "word": "hungary",
+            "prob": "0.010524612"
+        },
+        {
+            "word": "daddy",
+            "prob": "0.01031367"
+        },
+        {
+            "word": "puff",
+            "prob": "0.010110439"
+        },
+        {
+            "word": "turner",
+            "prob": "0.009873765"
+        },
+        {
+            "word": "the",
+            "prob": "0.009391958"
+        },
+        {
+            "word": "herring",
+            "prob": "0.00740033"
+        },
+        {
+            "word": "numeral",
+            "prob": "0.0063941567"
+        },
+        {
+            "word": "serbia",
+            "prob": "0.004895761"
+        },
+        {
+            "word": "naming",
+            "prob": "0.0047519957"
+        },
+        {
+            "word": "unordered",
+            "prob": "0.0047470042"
+        },
+        {
+            "word": "honey",
+            "prob": "0.004435614"
+        },
+        {
+            "word": "shkreli",
+            "prob": "0.004282339"
+        },
+        {
+            "word": "or",
+            "prob": "0.0039020018"
+        },
+        {
+            "word": "and",
+            "prob": "0.0036359346"
+        },
+        {
+            "word": "of",
+            "prob": "0.003471822"
+        },
+        {
+            "word": "to",
+            "prob": "0.0031424693"
+        },
+        {
+            "word": "in",
+            "prob": "0.0026884056"
+        },
+        {
+            "word": "it",
+            "prob": "0.002595329"
+        },
+        {
+            "word": "is",
+            "prob": "0.0025623008"
+        },
+        {
+            "word": "discard",
+            "prob": "0.002247675"
+        },
+        {
+            "word": "contained_therein",
+            "prob": "0.002200304"
+        },
+        {
+            "word": "william",
+            "prob": "0.0017744247"
+        },
+        {
+            "word": "that",
+            "prob": "0.0017667701"
+        },
+        {
+            "word": "suffix",
+            "prob": "0.0014102915"
+        },
+        {
+            "word": "you",
+            "prob": "0.0011781475"
+        },
+        {
+            "word": "for",
+            "prob": "0.0011750293"
+        },
+        {
+            "word": "conception",
+            "prob": "0.0011650204"
+        },
+        {
+            "word": "child",
+            "prob": "0.0011010974"
+        },
+        {
+            "word": "any",
+            "prob": "0.0011008037"
+        },
+        {
+            "word": "protectable",
+            "prob": "0.00093422545"
+        },
+        {
+            "word": "by",
+            "prob": "0.00084529846"
+        },
+        {
+            "word": "have",
+            "prob": "0.0008170229"
+        },
+        {
+            "word": "are",
+            "prob": "0.0007513498"
+        },
+        {
+            "word": "but",
+            "prob": "0.0007185547"
+        },
+        {
+            "word": "a",
+            "prob": "0.0007042224"
+        },
+        {
+            "word": "not",
+            "prob": "0.0006777707"
+        },
+        {
+            "word": "exporting",
+            "prob": "0.00064073876"
+        },
+        {
+            "word": "law",
+            "prob": "0.0006306632"
+        },
+        {
+            "word": "this",
+            "prob": "0.0006303075"
+        },
+        {
+            "word": "ticket",
+            "prob": "0.00061504263"
+        },
+        {
+            "word": "on",
+            "prob": "0.0006092865"
+        },
+        {
+            "word": "wa",
+            "prob": "0.0005956882"
+        },
+        {
+            "word": "if",
+            "prob": "0.00058888074"
+        },
+        {
+            "word": "so",
+            "prob": "0.0005807568"
+        },
+        {
+            "word": "with",
+            "prob": "0.00057139085"
+        },
+        {
+            "word": "name",
+            "prob": "0.0005426823"
+        },
+        {
+            "word": "sr",
+            "prob": "0.0005149029"
+        },
+        {
+            "word": "numerical",
+            "prob": "0.00051088625"
+        },
+        {
+            "word": "be_permissible",
+            "prob": "0.0004999699"
+        },
+        {
+            "word": "at",
+            "prob": "0.00049288454"
+        },
+        {
+            "word": "your",
+            "prob": "0.0004907101"
+        },
+        {
+            "word": "exe",
+            "prob": "0.00048174665"
+        },
+        {
+            "word": "call_him",
+            "prob": "0.00047350014"
+        },
+        {
+            "word": "state",
+            "prob": "0.0004716683"
+        },
+        {
+            "word": "legal",
+            "prob": "0.0004466893"
+        },
+        {
+            "word": "would",
+            "prob": "0.0004367089"
+        },
+        {
+            "word": "digital",
+            "prob": "0.0004260961"
+        },
+        {
+            "word": "person",
+            "prob": "0.0004256768"
+        },
+        {
+            "word": "which",
+            "prob": "0.0003990189"
+        },
+        {
+            "word": "my",
+            "prob": "0.00037396757"
+        },
+        {
+            "word": "they",
+            "prob": "0.000343632"
+        },
+        {
+            "word": "mailed",
+            "prob": "0.00030642995"
+        },
+        {
+            "word": "it_is",
+            "prob": "0.0003016399"
+        },
+        {
+            "word": "no",
+            "prob": "0.00030087616"
+        },
+        {
+            "word": "court",
+            "prob": "0.00029818527"
+        },
+        {
+            "word": "can",
+            "prob": "0.00029760125"
+        },
+        {
+            "word": "case",
+            "prob": "0.0002920882"
+        },
+        {
+            "word": "from",
+            "prob": "0.00028527563"
+        },
+        {
+            "word": "his",
+            "prob": "0.00028501445"
+        },
+        {
+            "word": "without",
+            "prob": "0.00028205125"
+        },
+        {
+            "word": "when",
+            "prob": "0.0002669891"
+        },
+        {
+            "word": "time",
+            "prob": "0.00026625933"
+        },
+        {
+            "word": "be",
+            "prob": "0.00026414954"
+        },
+        {
+            "word": "if_you",
+            "prob": "0.0002590995"
+        },
+        {
+            "word": "ha",
+            "prob": "0.00024202092"
+        },
+        {
+            "word": "an",
+            "prob": "0.00023830397"
+        },
+        {
+            "word": "also",
+            "prob": "0.00023595763"
+        },
+        {
+            "word": "what",
+            "prob": "0.00023090493"
+        },
+        {
+            "word": "all",
+            "prob": "0.00022562941"
+        },
+        {
+            "word": "their",
+            "prob": "0.00021079903"
+        },
+        {
+            "word": "such",
+            "prob": "0.00020381012"
+        },
+        {
+            "word": "business",
+            "prob": "0.000203595"
+        },
+        {
+            "word": "about",
+            "prob": "0.00020358131"
+        },
+        {
+            "word": "to_be",
+            "prob": "0.0002003698"
+        },
+        {
+            "word": "just",
+            "prob": "0.00019924066"
+        },
+        {
+            "word": "say",
+            "prob": "0.00019824157"
+        },
+        {
+            "word": "he_ha",
+            "prob": "0.000197059"
+        },
+        {
+            "word": "there_is",
+            "prob": "0.00019111655"
+        },
+        {
+            "word": "commenced",
+            "prob": "0.0001902133"
+        },
+        {
+            "word": "would_be",
+            "prob": "0.00018425498"
+        },
+        {
+            "word": "property",
+            "prob": "0.00018389961"
+        }
+    ],
+    [
+        {
+            "word": "country",
+            "prob": "0.37307253"
+        },
+        {
+            "word": "island",
+            "prob": "0.028332785"
+        },
+        {
+            "word": "false",
+            "prob": "0.022460282"
+        },
+        {
+            "word": "italy",
+            "prob": "0.0156173995"
+        },
+        {
+            "word": "vat",
+            "prob": "0.015044513"
+        },
+        {
+            "word": "france",
+            "prob": "0.01446371"
+        },
+        {
+            "word": "lake",
+            "prob": "0.011406458"
+        },
+        {
+            "word": "greece",
+            "prob": "0.011226633"
+        },
+        {
+            "word": "standard_rate_exclusion",
+            "prob": "0.010290643"
+        },
+        {
+            "word": "austria",
+            "prob": "0.009457934"
+        },
+        {
+            "word": "mojang",
+            "prob": "0.008246251"
+        },
+        {
+            "word": "poland",
+            "prob": "0.0079763755"
+        },
+        {
+            "word": "czech_republic",
+            "prob": "0.0071324883"
+        },
+        {
+            "word": "romania",
+            "prob": "0.006484148"
+        },
+        {
+            "word": "belgium",
+            "prob": "0.00643492"
+        },
+        {
+            "word": "cyprus",
+            "prob": "0.0059888465"
+        },
+        {
+            "word": "portugal",
+            "prob": "0.005862893"
+        },
+        {
+            "word": "latvia",
+            "prob": "0.0050513432"
+        },
+        {
+            "word": "eu_country",
+            "prob": "0.004383215"
+        },
+        {
+            "word": "malta",
+            "prob": "0.0037976187"
+        },
+        {
+            "word": "croatia",
+            "prob": "0.0036044363"
+        },
+        {
+            "word": "united_kingdom",
+            "prob": "0.0035076265"
+        },
+        {
+            "word": "netherlands",
+            "prob": "0.0032791668"
+        },
+        {
+            "word": "luxembourg",
+            "prob": "0.0029962535"
+        },
+        {
+            "word": "finland",
+            "prob": "0.0029737265"
+        },
+        {
+            "word": "bulgaria",
+            "prob": "0.0029150518"
+        },
+        {
+            "word": "ireland",
+            "prob": "0.0027965244"
+        },
+        {
+            "word": "e",
+            "prob": "0.0023015107"
+        },
+        {
+            "word": "estonia",
+            "prob": "0.0020660874"
+        },
+        {
+            "word": "denmark",
+            "prob": "0.0018582378"
+        },
+        {
+            "word": "rate",
+            "prob": "0.0018515887"
+        },
+        {
+            "word": "pt",
+            "prob": "0.0017242762"
+        },
+        {
+            "word": "gist",
+            "prob": "0.00058913574"
+        },
+        {
+            "word": "hungary",
+            "prob": "0.0004167909"
+        },
+        {
+            "word": "gp",
+            "prob": "0.0003733819"
+        },
+        {
+            "word": "gb",
+            "prob": "0.00037293477"
+        },
+        {
+            "word": "ee",
+            "prob": "0.00037171773"
+        },
+        {
+            "word": "fo",
+            "prob": "0.0003679217"
+        },
+        {
+            "word": "ve_created",
+            "prob": "0.0003666009"
+        },
+        {
+            "word": "ml",
+            "prob": "0.0003663356"
+        },
+        {
+            "word": "json",
+            "prob": "0.00036498107"
+        },
+        {
+            "word": "ea",
+            "prob": "0.00036439783"
+        },
+        {
+            "word": "pl",
+            "prob": "0.00036265762"
+        },
+        {
+            "word": "github_com",
+            "prob": "0.0003605976"
+        },
+        {
+            "word": "hope_this",
+            "prob": "0.00035635973"
+        },
+        {
+            "word": "pm",
+            "prob": "0.00035403506"
+        },
+        {
+            "word": "any_suggestion",
+            "prob": "0.00035245254"
+        },
+        {
+            "word": "hr",
+            "prob": "0.00031155758"
+        },
+        {
+            "word": "the",
+            "prob": "0.00026349965"
+        },
+        {
+            "word": "and",
+            "prob": "0.00021949575"
+        },
+        {
+            "word": "in",
+            "prob": "0.00012659753"
+        },
+        {
+            "word": "is",
+            "prob": "0.00012276473"
+        },
+        {
+            "word": "their_product",
+            "prob": "7.7709774e-05"
+        },
+        {
+            "word": "that",
+            "prob": "7.160569e-05"
+        },
+        {
+            "word": "of",
+            "prob": "6.547425e-05"
+        },
+        {
+            "word": "or",
+            "prob": "5.604985e-05"
+        },
+        {
+            "word": "to",
+            "prob": "5.4448075e-05"
+        },
+        {
+            "word": "for",
+            "prob": "5.183972e-05"
+        },
+        {
+            "word": "it",
+            "prob": "5.028217e-05"
+        },
+        {
+            "word": "si",
+            "prob": "4.8986676e-05"
+        },
+        {
+            "word": "you",
+            "prob": "4.472671e-05"
+        },
+        {
+            "word": "are",
+            "prob": "4.4551984e-05"
+        },
+        {
+            "word": "if",
+            "prob": "3.3841305e-05"
+        },
+        {
+            "word": "ce",
+            "prob": "3.3694585e-05"
+        },
+        {
+            "word": "this",
+            "prob": "3.0850133e-05"
+        },
+        {
+            "word": "with",
+            "prob": "2.994569e-05"
+        },
+        {
+            "word": "law",
+            "prob": "2.9897548e-05"
+        },
+        {
+            "word": "a",
+            "prob": "2.9673207e-05"
+        },
+        {
+            "word": "so",
+            "prob": "2.747546e-05"
+        },
+        {
+            "word": "fr",
+            "prob": "2.7434451e-05"
+        },
+        {
+            "word": "person",
+            "prob": "2.7106353e-05"
+        },
+        {
+            "word": "contract",
+            "prob": "2.6185131e-05"
+        },
+        {
+            "word": "one",
+            "prob": "2.4680276e-05"
+        },
+        {
+            "word": "at",
+            "prob": "2.4521598e-05"
+        },
+        {
+            "word": "case",
+            "prob": "2.237277e-05"
+        },
+        {
+            "word": "from",
+            "prob": "2.2129312e-05"
+        },
+        {
+            "word": "what",
+            "prob": "2.2125416e-05"
+        },
+        {
+            "word": "can",
+            "prob": "2.0942736e-05"
+        },
+        {
+            "word": "state",
+            "prob": "2.0905527e-05"
+        },
+        {
+            "word": "on",
+            "prob": "2.0144375e-05"
+        },
+        {
+            "word": "not",
+            "prob": "1.9721592e-05"
+        },
+        {
+            "word": "your",
+            "prob": "1.9452784e-05"
+        },
+        {
+            "word": "but",
+            "prob": "1.9283985e-05"
+        },
+        {
+            "word": "some",
+            "prob": "1.8761404e-05"
+        },
+        {
+            "word": "they",
+            "prob": "1.8549425e-05"
+        },
+        {
+            "word": "no",
+            "prob": "1.847953e-05"
+        },
+        {
+            "word": "parking",
+            "prob": "1.8204239e-05"
+        },
+        {
+            "word": "crime",
+            "prob": "1.799924e-05"
+        },
+        {
+            "word": "any",
+            "prob": "1.7840171e-05"
+        },
+        {
+            "word": "by",
+            "prob": "1.7591916e-05"
+        },
+        {
+            "word": "against",
+            "prob": "1.7081104e-05"
+        },
+        {
+            "word": "such",
+            "prob": "1.7061247e-05"
+        },
+        {
+            "word": "which",
+            "prob": "1.6875108e-05"
+        },
+        {
+            "word": "be",
+            "prob": "1.685355e-05"
+        },
+        {
+            "word": "other",
+            "prob": "1.6637452e-05"
+        },
+        {
+            "word": "this_is",
+            "prob": "1.6504842e-05"
+        },
+        {
+            "word": "would",
+            "prob": "1.6323784e-05"
+        },
+        {
+            "word": "work",
+            "prob": "1.6103797e-05"
+        },
+        {
+            "word": "http",
+            "prob": "1.6001057e-05"
+        },
+        {
+            "word": "only",
+            "prob": "1.5608246e-05"
+        }
+    ],
+    [
+        {
+            "word": "trademark",
+            "prob": "0.066813834"
+        },
+        {
+            "word": "name",
+            "prob": "0.038278636"
+        },
+        {
+            "word": "the",
+            "prob": "0.034500312"
+        },
+        {
+            "word": "mark",
+            "prob": "0.02290579"
+        },
+        {
+            "word": "logo",
+            "prob": "0.022229323"
+        },
+        {
+            "word": "in",
+            "prob": "0.018923419"
+        },
+        {
+            "word": "and",
+            "prob": "0.018738734"
+        },
+        {
+            "word": "word",
+            "prob": "0.016947098"
+        },
+        {
+            "word": "or",
+            "prob": "0.015968127"
+        },
+        {
+            "word": "apple",
+            "prob": "0.015825769"
+        },
+        {
+            "word": "is",
+            "prob": "0.015793907"
+        },
+        {
+            "word": "that",
+            "prob": "0.012917404"
+        },
+        {
+            "word": "service",
+            "prob": "0.012730977"
+        },
+        {
+            "word": "of",
+            "prob": "0.012097059"
+        },
+        {
+            "word": "product",
+            "prob": "0.01163549"
+        },
+        {
+            "word": "registration",
+            "prob": "0.011394749"
+        },
+        {
+            "word": "symbol",
+            "prob": "0.010937916"
+        },
+        {
+            "word": "registered",
+            "prob": "0.0097934315"
+        },
+        {
+            "word": "for",
+            "prob": "0.0089536775"
+        },
+        {
+            "word": "good_or",
+            "prob": "0.008651915"
+        },
+        {
+            "word": "use_of",
+            "prob": "0.008650521"
+        },
+        {
+            "word": "to",
+            "prob": "0.008566657"
+        },
+        {
+            "word": "use",
+            "prob": "0.008250832"
+        },
+        {
+            "word": "register",
+            "prob": "0.008134797"
+        },
+        {
+            "word": "good",
+            "prob": "0.008082495"
+        },
+        {
+            "word": "it",
+            "prob": "0.0072549423"
+        },
+        {
+            "word": "brand",
+            "prob": "0.0071143215"
+        },
+        {
+            "word": "consumer",
+            "prob": "0.0069971187"
+        },
+        {
+            "word": "used",
+            "prob": "0.005457557"
+        },
+        {
+            "word": "using",
+            "prob": "0.0054225456"
+        },
+        {
+            "word": "trademarked",
+            "prob": "0.0053419285"
+        },
+        {
+            "word": "confusion",
+            "prob": "0.005177597"
+        },
+        {
+            "word": "a",
+            "prob": "0.004995263"
+        },
+        {
+            "word": "trademark_law",
+            "prob": "0.0049239406"
+        },
+        {
+            "word": "product_or",
+            "prob": "0.0049057114"
+        },
+        {
+            "word": "commerce",
+            "prob": "0.004693046"
+        },
+        {
+            "word": "company",
+            "prob": "0.004689183"
+        },
+        {
+            "word": "the_same",
+            "prob": "0.0045684287"
+        },
+        {
+            "word": "only",
+            "prob": "0.004497805"
+        },
+        {
+            "word": "business",
+            "prob": "0.004470613"
+        },
+        {
+            "word": "trade_mark",
+            "prob": "0.004438608"
+        },
+        {
+            "word": "not",
+            "prob": "0.004431972"
+        },
+        {
+            "word": "it_is",
+            "prob": "0.0043293894"
+        },
+        {
+            "word": "market",
+            "prob": "0.0043040696"
+        },
+        {
+            "word": "selling",
+            "prob": "0.0042080074"
+        },
+        {
+            "word": "have",
+            "prob": "0.0041683153"
+        },
+        {
+            "word": "trademark_infringement",
+            "prob": "0.004168184"
+        },
+        {
+            "word": "inc",
+            "prob": "0.0039182683"
+        },
+        {
+            "word": "for_example",
+            "prob": "0.0038510412"
+        },
+        {
+            "word": "by",
+            "prob": "0.0038291684"
+        },
+        {
+            "word": "your",
+            "prob": "0.0037309784"
+        },
+        {
+            "word": "you",
+            "prob": "0.0037191326"
+        },
+        {
+            "word": "thing",
+            "prob": "0.0035840708"
+        },
+        {
+            "word": "your_name",
+            "prob": "0.0035699543"
+        },
+        {
+            "word": "distinctive",
+            "prob": "0.0035463385"
+        },
+        {
+            "word": "nh",
+            "prob": "0.0032915128"
+        },
+        {
+            "word": "us",
+            "prob": "0.0032587443"
+        },
+        {
+            "word": "acquired",
+            "prob": "0.0030514009"
+        },
+        {
+            "word": "surname",
+            "prob": "0.0030463801"
+        },
+        {
+            "word": "registered_trademark",
+            "prob": "0.0029853843"
+        },
+        {
+            "word": "ha",
+            "prob": "0.002964846"
+        },
+        {
+            "word": "about",
+            "prob": "0.0029097046"
+        },
+        {
+            "word": "if",
+            "prob": "0.002835897"
+        },
+        {
+            "word": "just",
+            "prob": "0.0028349387"
+        },
+        {
+            "word": "are",
+            "prob": "0.0028317177"
+        },
+        {
+            "word": "but",
+            "prob": "0.0027888024"
+        },
+        {
+            "word": "descriptive",
+            "prob": "0.002787093"
+        },
+        {
+            "word": "domain_name",
+            "prob": "0.0027164533"
+        },
+        {
+            "word": "endorsement",
+            "prob": "0.0026880172"
+        },
+        {
+            "word": "generic",
+            "prob": "0.0026275015"
+        },
+        {
+            "word": "com",
+            "prob": "0.002558574"
+        },
+        {
+            "word": "commercial",
+            "prob": "0.002522151"
+        },
+        {
+            "word": "oxford",
+            "prob": "0.002467603"
+        },
+        {
+            "word": "distinctiveness",
+            "prob": "0.0024594192"
+        },
+        {
+            "word": "to_register",
+            "prob": "0.0024495285"
+        },
+        {
+            "word": "to_be",
+            "prob": "0.0024148237"
+        },
+        {
+            "word": "advertising",
+            "prob": "0.0023392607"
+        },
+        {
+            "word": "you_can",
+            "prob": "0.002318363"
+        },
+        {
+            "word": "way_that",
+            "prob": "0.00231205"
+        },
+        {
+            "word": "trademark_holder",
+            "prob": "0.0023088332"
+        },
+        {
+            "word": "meaning",
+            "prob": "0.0023021912"
+        },
+        {
+            "word": "samsung",
+            "prob": "0.0022967882"
+        },
+        {
+            "word": "with",
+            "prob": "0.002280287"
+        },
+        {
+            "word": "geographic",
+            "prob": "0.0022771384"
+        },
+        {
+            "word": "trade_name",
+            "prob": "0.0022417747"
+        },
+        {
+            "word": "trademark_protection",
+            "prob": "0.0022268721"
+        },
+        {
+            "word": "trademark_owner",
+            "prob": "0.0022003683"
+        },
+        {
+            "word": "to_identify",
+            "prob": "0.0021964158"
+        },
+        {
+            "word": "designation",
+            "prob": "0.0021559"
+        },
+        {
+            "word": "liquor",
+            "prob": "0.0021293913"
+        },
+        {
+            "word": "nbsp_nbsp",
+            "prob": "0.0021268139"
+        },
+        {
+            "word": "my",
+            "prob": "0.0021085436"
+        },
+        {
+            "word": "on",
+            "prob": "0.0020992227"
+        },
+        {
+            "word": "microsoft",
+            "prob": "0.0020841807"
+        },
+        {
+            "word": "the_owner",
+            "prob": "0.0020784517"
+        },
+        {
+            "word": "corp",
+            "prob": "0.0020665617"
+        },
+        {
+            "word": "monopoly",
+            "prob": "0.002048991"
+        },
+        {
+            "word": "to_sell",
+            "prob": "0.0020325833"
+        },
+        {
+            "word": "you_are",
+            "prob": "0.0019407413"
+        },
+        {
+            "word": "can_be",
+            "prob": "0.001909462"
+        }
+    ],
+    [
+        {
+            "word": "de",
+            "prob": "0.098780625"
+        },
+        {
+            "word": "french",
+            "prob": "0.06191911"
+        },
+        {
+            "word": "translation",
+            "prob": "0.04424957"
+        },
+        {
+            "word": "la",
+            "prob": "0.03451212"
+        },
+        {
+            "word": "un",
+            "prob": "0.02718115"
+        },
+        {
+            "word": "en",
+            "prob": "0.021328792"
+        },
+        {
+            "word": "nationality",
+            "prob": "0.019602105"
+        },
+        {
+            "word": "el",
+            "prob": "0.019093666"
+        },
+        {
+            "word": "et",
+            "prob": "0.0179508"
+        },
+        {
+            "word": "le",
+            "prob": "0.017753763"
+        },
+        {
+            "word": "se",
+            "prob": "0.01597347"
+        },
+        {
+            "word": "spain",
+            "prob": "0.015213212"
+        },
+        {
+            "word": "translate",
+            "prob": "0.0150848"
+        },
+        {
+            "word": "in_france",
+            "prob": "0.014545902"
+        },
+        {
+            "word": "al",
+            "prob": "0.014358338"
+        },
+        {
+            "word": "de_la",
+            "prob": "0.014025189"
+        },
+        {
+            "word": "inventory",
+            "prob": "0.013903893"
+        },
+        {
+            "word": "pa",
+            "prob": "0.012922436"
+        },
+        {
+            "word": "ce",
+            "prob": "0.012194341"
+        },
+        {
+            "word": "du",
+            "prob": "0.011451482"
+        },
+        {
+            "word": "est",
+            "prob": "0.011218505"
+        },
+        {
+            "word": "article",
+            "prob": "0.011062268"
+        },
+        {
+            "word": "art",
+            "prob": "0.010594148"
+        },
+        {
+            "word": "of",
+            "prob": "0.010453803"
+        },
+        {
+            "word": "que",
+            "prob": "0.010152459"
+        },
+        {
+            "word": "tow",
+            "prob": "0.009820398"
+        },
+        {
+            "word": "par",
+            "prob": "0.00956265"
+        },
+        {
+            "word": "editor",
+            "prob": "0.009383247"
+        },
+        {
+            "word": "in_spain",
+            "prob": "0.007828451"
+        },
+        {
+            "word": "del",
+            "prob": "0.0076984693"
+        },
+        {
+            "word": "inheritance",
+            "prob": "0.007552813"
+        },
+        {
+            "word": "the",
+            "prob": "0.0069851796"
+        },
+        {
+            "word": "une",
+            "prob": "0.0068559134"
+        },
+        {
+            "word": "lamp",
+            "prob": "0.006801127"
+        },
+        {
+            "word": "ex",
+            "prob": "0.0067192465"
+        },
+        {
+            "word": "pour",
+            "prob": "0.006349849"
+        },
+        {
+            "word": "ou",
+            "prob": "0.006275144"
+        },
+        {
+            "word": "por",
+            "prob": "0.0058514024"
+        },
+        {
+            "word": "flashing",
+            "prob": "0.0057674"
+        },
+        {
+            "word": "il",
+            "prob": "0.0056751436"
+        },
+        {
+            "word": "sin",
+            "prob": "0.005429601"
+        },
+        {
+            "word": "and",
+            "prob": "0.005034452"
+        },
+        {
+            "word": "au",
+            "prob": "0.004886327"
+        },
+        {
+            "word": "qui",
+            "prob": "0.0047481535"
+        },
+        {
+            "word": "los",
+            "prob": "0.004693915"
+        },
+        {
+            "word": "droits",
+            "prob": "0.0046240143"
+        },
+        {
+            "word": "si",
+            "prob": "0.0043763127"
+        },
+        {
+            "word": "publication",
+            "prob": "0.004127231"
+        },
+        {
+            "word": "civil",
+            "prob": "0.003997093"
+        },
+        {
+            "word": "heritage",
+            "prob": "0.0038060825"
+        },
+        {
+            "word": "real",
+            "prob": "0.003456246"
+        },
+        {
+            "word": "see_also",
+            "prob": "0.0032199256"
+        },
+        {
+            "word": "don_know",
+            "prob": "0.0031258897"
+        },
+        {
+            "word": "amber",
+            "prob": "0.0027617717"
+        },
+        {
+            "word": "com",
+            "prob": "0.0027193709"
+        },
+        {
+            "word": "kal",
+            "prob": "0.0026913816"
+        },
+        {
+            "word": "herencia",
+            "prob": "0.0026695228"
+        },
+        {
+            "word": "stop",
+            "prob": "0.0026537387"
+        },
+        {
+            "word": "droit",
+            "prob": "0.0025926314"
+        },
+        {
+            "word": "doe",
+            "prob": "0.0025922074"
+        },
+        {
+            "word": "posse",
+            "prob": "0.0025627585"
+        },
+        {
+            "word": "inheritor",
+            "prob": "0.002541397"
+        },
+        {
+            "word": "inventario",
+            "prob": "0.0024650402"
+        },
+        {
+            "word": "towing",
+            "prob": "0.0024175716"
+        },
+        {
+            "word": "right",
+            "prob": "0.0023548745"
+        },
+        {
+            "word": "fiscal",
+            "prob": "0.0023412383"
+        },
+        {
+            "word": "effect",
+            "prob": "0.0023283642"
+        },
+        {
+            "word": "aggression",
+            "prob": "0.0022824227"
+        },
+        {
+            "word": "dans",
+            "prob": "0.0022074059"
+        },
+        {
+            "word": "publicly",
+            "prob": "0.002114779"
+        },
+        {
+            "word": "cause",
+            "prob": "0.0021144857"
+        },
+        {
+            "word": "clark",
+            "prob": "0.0020819972"
+        },
+        {
+            "word": "suffix",
+            "prob": "0.0020760805"
+        },
+        {
+            "word": "art\u00edculo",
+            "prob": "0.0020522051"
+        },
+        {
+            "word": "bienes",
+            "prob": "0.0020504985"
+        },
+        {
+            "word": "con",
+            "prob": "0.0020401848"
+        },
+        {
+            "word": "venezuelan",
+            "prob": "0.002019295"
+        },
+        {
+            "word": "para",
+            "prob": "0.0020036509"
+        },
+        {
+            "word": "truck",
+            "prob": "0.0019056532"
+        },
+        {
+            "word": "benefit",
+            "prob": "0.0018470169"
+        },
+        {
+            "word": "ne",
+            "prob": "0.0018375223"
+        },
+        {
+            "word": "for",
+            "prob": "0.0017133687"
+        },
+        {
+            "word": "personne",
+            "prob": "0.0016575231"
+        },
+        {
+            "word": "tout",
+            "prob": "0.0016340945"
+        },
+        {
+            "word": "invoicing",
+            "prob": "0.0014020156"
+        },
+        {
+            "word": "xi",
+            "prob": "0.001351156"
+        },
+        {
+            "word": "kent",
+            "prob": "0.001273748"
+        },
+        {
+            "word": "or",
+            "prob": "0.0012458551"
+        },
+        {
+            "word": "purely",
+            "prob": "0.0011514762"
+        },
+        {
+            "word": "mate",
+            "prob": "0.0010873177"
+        },
+        {
+            "word": "to",
+            "prob": "0.0010466181"
+        },
+        {
+            "word": "published",
+            "prob": "0.0009912952"
+        },
+        {
+            "word": "link",
+            "prob": "0.0009879925"
+        },
+        {
+            "word": "gazette",
+            "prob": "0.00084760843"
+        },
+        {
+            "word": "possible",
+            "prob": "0.000812847"
+        },
+        {
+            "word": "executive",
+            "prob": "0.0007342795"
+        },
+        {
+            "word": "passed_by",
+            "prob": "0.000729817"
+        },
+        {
+            "word": "is",
+            "prob": "0.000701124"
+        },
+        {
+            "word": "jr",
+            "prob": "0.00069831515"
+        },
+        {
+            "word": "in",
+            "prob": "0.000671668"
+        }
+    ],
+    [
+        {
+            "word": "vehicle",
+            "prob": "0.11969106"
+        },
+        {
+            "word": "traffic",
+            "prob": "0.069874525"
+        },
+        {
+            "word": "turn",
+            "prob": "0.0637741"
+        },
+        {
+            "word": "lane",
+            "prob": "0.0572721"
+        },
+        {
+            "word": "street",
+            "prob": "0.033241976"
+        },
+        {
+            "word": "or",
+            "prob": "0.028281372"
+        },
+        {
+            "word": "driver",
+            "prob": "0.019787999"
+        },
+        {
+            "word": "the",
+            "prob": "0.018325541"
+        },
+        {
+            "word": "turning",
+            "prob": "0.016374165"
+        },
+        {
+            "word": "roadway",
+            "prob": "0.013940555"
+        },
+        {
+            "word": "direction",
+            "prob": "0.013723632"
+        },
+        {
+            "word": "drive",
+            "prob": "0.013589409"
+        },
+        {
+            "word": "center",
+            "prob": "0.011476632"
+        },
+        {
+            "word": "assembly",
+            "prob": "0.009584096"
+        },
+        {
+            "word": "left",
+            "prob": "0.00946364"
+        },
+        {
+            "word": "left_turn",
+            "prob": "0.0092012"
+        },
+        {
+            "word": "car",
+            "prob": "0.008113899"
+        },
+        {
+            "word": "or_imprisoned",
+            "prob": "0.008096689"
+        },
+        {
+            "word": "shall_be",
+            "prob": "0.007050837"
+        },
+        {
+            "word": "any",
+            "prob": "0.006968972"
+        },
+        {
+            "word": "right",
+            "prob": "0.006898007"
+        },
+        {
+            "word": "stat",
+            "prob": "0.0067445864"
+        },
+        {
+            "word": "lease_contract",
+            "prob": "0.006695872"
+        },
+        {
+            "word": "fined_under",
+            "prob": "0.0059472816"
+        },
+        {
+            "word": "for",
+            "prob": "0.005363954"
+        },
+        {
+            "word": "pub",
+            "prob": "0.0052085123"
+        },
+        {
+            "word": "of",
+            "prob": "0.005080831"
+        },
+        {
+            "word": "two_way",
+            "prob": "0.0049882946"
+        },
+        {
+            "word": "whoever",
+            "prob": "0.0049194517"
+        },
+        {
+            "word": "and",
+            "prob": "0.004672927"
+        },
+        {
+            "word": "overthrow",
+            "prob": "0.0045173955"
+        },
+        {
+            "word": "or_both",
+            "prob": "0.004401603"
+        },
+        {
+            "word": "ilcs",
+            "prob": "0.0043745013"
+        },
+        {
+            "word": "passing",
+            "prob": "0.0042458843"
+        },
+        {
+            "word": "in",
+            "prob": "0.003927171"
+        },
+        {
+            "word": "to",
+            "prob": "0.0037730553"
+        },
+        {
+            "word": "destroying",
+            "prob": "0.0035254129"
+        },
+        {
+            "word": "taa",
+            "prob": "0.003345486"
+        },
+        {
+            "word": "way",
+            "prob": "0.0032049618"
+        },
+        {
+            "word": "advocating",
+            "prob": "0.0029746077"
+        },
+        {
+            "word": "any_such",
+            "prob": "0.0029173319"
+        },
+        {
+            "word": "propriety",
+            "prob": "0.0028608441"
+        },
+        {
+            "word": "nexium",
+            "prob": "0.002827167"
+        },
+        {
+            "word": "gecko",
+            "prob": "0.002792732"
+        },
+        {
+            "word": "desertion",
+            "prob": "0.002705243"
+        },
+        {
+            "word": "overtaking",
+            "prob": "0.0026749258"
+        },
+        {
+            "word": "turn_lane",
+            "prob": "0.002654879"
+        },
+        {
+            "word": "acceleration",
+            "prob": "0.0025170085"
+        },
+        {
+            "word": "nostate",
+            "prob": "0.0024550909"
+        },
+        {
+            "word": "violence_or",
+            "prob": "0.00245089"
+        },
+        {
+            "word": "whoever_knowingly",
+            "prob": "0.002378994"
+        },
+        {
+            "word": "the_united",
+            "prob": "0.0023624871"
+        },
+        {
+            "word": "on",
+            "prob": "0.0023372022"
+        },
+        {
+            "word": "willfully",
+            "prob": "0.002276045"
+        },
+        {
+            "word": "by",
+            "prob": "0.0022672703"
+        },
+        {
+            "word": "device",
+            "prob": "0.0022525513"
+        },
+        {
+            "word": "is",
+            "prob": "0.0022404592"
+        },
+        {
+            "word": "that",
+            "prob": "0.002230129"
+        },
+        {
+            "word": "into",
+            "prob": "0.0022081041"
+        },
+        {
+            "word": "destruction_of",
+            "prob": "0.002112167"
+        },
+        {
+            "word": "desirability",
+            "prob": "0.002108176"
+        },
+        {
+            "word": "safe",
+            "prob": "0.0020968185"
+        },
+        {
+            "word": "be_fined",
+            "prob": "0.0020956446"
+        },
+        {
+            "word": "accelerated",
+            "prob": "0.0020910767"
+        },
+        {
+            "word": "overthrowing",
+            "prob": "0.0020532198"
+        },
+        {
+            "word": "reidinger",
+            "prob": "0.0020408935"
+        },
+        {
+            "word": "ineligible_for",
+            "prob": "0.0020241197"
+        },
+        {
+            "word": "government",
+            "prob": "0.002010993"
+        },
+        {
+            "word": "insurrection",
+            "prob": "0.001936588"
+        },
+        {
+            "word": "atty",
+            "prob": "0.0018418164"
+        },
+        {
+            "word": "or_attempt",
+            "prob": "0.0017680273"
+        },
+        {
+            "word": "capitalized",
+            "prob": "0.0017517373"
+        },
+        {
+            "word": "not",
+            "prob": "0.0017179769"
+        },
+        {
+            "word": "this_title",
+            "prob": "0.0017048402"
+        },
+        {
+            "word": "sept",
+            "prob": "0.0016882899"
+        },
+        {
+            "word": "http_www",
+            "prob": "0.0016707056"
+        },
+        {
+            "word": "teach",
+            "prob": "0.0016482788"
+        },
+        {
+            "word": "within",
+            "prob": "0.0016111806"
+        },
+        {
+            "word": "such",
+            "prob": "0.0015824313"
+        },
+        {
+            "word": "society",
+            "prob": "0.0015481095"
+        },
+        {
+            "word": "thereof_or",
+            "prob": "0.0015055808"
+        },
+        {
+            "word": "teaching",
+            "prob": "0.0015049623"
+        },
+        {
+            "word": "except_when",
+            "prob": "0.0014917753"
+        },
+        {
+            "word": "twenty_year",
+            "prob": "0.0014842938"
+        },
+        {
+            "word": "insured",
+            "prob": "0.0014511707"
+        },
+        {
+            "word": "state",
+            "prob": "0.0014223463"
+        },
+        {
+            "word": "with",
+            "prob": "0.0014091205"
+        },
+        {
+            "word": "move_out",
+            "prob": "0.0014002542"
+        },
+        {
+            "word": "side_effect",
+            "prob": "0.001398265"
+        },
+        {
+            "word": "abets",
+            "prob": "0.001395445"
+        },
+        {
+            "word": "another",
+            "prob": "0.0013753428"
+        },
+        {
+            "word": "it",
+            "prob": "0.001310334"
+        },
+        {
+            "word": "organize",
+            "prob": "0.0012091397"
+        },
+        {
+            "word": "if_you",
+            "prob": "0.0012041562"
+        },
+        {
+            "word": "subrogation",
+            "prob": "0.0011522463"
+        },
+        {
+            "word": "from",
+            "prob": "0.0010406214"
+        },
+        {
+            "word": "more_than",
+            "prob": "0.0010352429"
+        },
+        {
+            "word": "force",
+            "prob": "0.0010182919"
+        },
+        {
+            "word": "desert",
+            "prob": "0.0010066316"
+        },
+        {
+            "word": "this",
+            "prob": "0.0010027398"
+        }
+    ],
+    [
+        {
+            "word": "drug",
+            "prob": "0.077839695"
+        },
+        {
+            "word": "acme",
+            "prob": "0.0403675"
+        },
+        {
+            "word": "paul",
+            "prob": "0.034738965"
+        },
+        {
+            "word": "controlled_substance",
+            "prob": "0.031959213"
+        },
+        {
+            "word": "marijuana",
+            "prob": "0.031854875"
+        },
+        {
+            "word": "and",
+            "prob": "0.015458666"
+        },
+        {
+            "word": "fish",
+            "prob": "0.014244331"
+        },
+        {
+            "word": "the",
+            "prob": "0.014132893"
+        },
+        {
+            "word": "narcotic",
+            "prob": "0.0124239875"
+        },
+        {
+            "word": "stgb",
+            "prob": "0.011607064"
+        },
+        {
+            "word": "pond",
+            "prob": "0.0094550485"
+        },
+        {
+            "word": "bodily_harm",
+            "prob": "0.009328365"
+        },
+        {
+            "word": "fishing",
+            "prob": "0.009072413"
+        },
+        {
+            "word": "imdb",
+            "prob": "0.008744665"
+        },
+        {
+            "word": "mobility",
+            "prob": "0.008284145"
+        },
+        {
+            "word": "assault",
+            "prob": "0.008189756"
+        },
+        {
+            "word": "user",
+            "prob": "0.008044283"
+        },
+        {
+            "word": "of",
+            "prob": "0.00792649"
+        },
+        {
+            "word": "medical_marijuana",
+            "prob": "0.0075736004"
+        },
+        {
+            "word": "thug",
+            "prob": "0.0074499813"
+        },
+        {
+            "word": "to",
+            "prob": "0.006975116"
+        },
+        {
+            "word": "or",
+            "prob": "0.0066625318"
+        },
+        {
+            "word": "station",
+            "prob": "0.006642554"
+        },
+        {
+            "word": "lodger",
+            "prob": "0.0064290757"
+        },
+        {
+            "word": "venmo",
+            "prob": "0.0060922727"
+        },
+        {
+            "word": "solo",
+            "prob": "0.006083008"
+        },
+        {
+            "word": "bennett",
+            "prob": "0.0059795585"
+        },
+        {
+            "word": "possession",
+            "prob": "0.0054881875"
+        },
+        {
+            "word": "addicted",
+            "prob": "0.005384556"
+        },
+        {
+            "word": "broadcast",
+            "prob": "0.0053306497"
+        },
+        {
+            "word": "in",
+            "prob": "0.0052175745"
+        },
+        {
+            "word": "possessing",
+            "prob": "0.0049951687"
+        },
+        {
+            "word": "television",
+            "prob": "0.004941673"
+        },
+        {
+            "word": "installment",
+            "prob": "0.004782754"
+        },
+        {
+            "word": "addict",
+            "prob": "0.004536627"
+        },
+        {
+            "word": "contraband",
+            "prob": "0.004409839"
+        },
+        {
+            "word": "unlawful_user",
+            "prob": "0.004350489"
+        },
+        {
+            "word": "firearm",
+            "prob": "0.0040951655"
+        },
+        {
+            "word": "safety_course",
+            "prob": "0.0039792643"
+        },
+        {
+            "word": "the_phrase",
+            "prob": "0.0039741495"
+        },
+        {
+            "word": "is",
+            "prob": "0.003970644"
+        },
+        {
+            "word": "arpaio",
+            "prob": "0.003834269"
+        },
+        {
+            "word": "aforesaid",
+            "prob": "0.0038201918"
+        },
+        {
+            "word": "emily",
+            "prob": "0.0038195085"
+        },
+        {
+            "word": "operate",
+            "prob": "0.003811682"
+        },
+        {
+            "word": "any",
+            "prob": "0.0037668403"
+        },
+        {
+            "word": "allen",
+            "prob": "0.0037245385"
+        },
+        {
+            "word": "baton",
+            "prob": "0.0037089936"
+        },
+        {
+            "word": "hour_shift",
+            "prob": "0.0036477211"
+        },
+        {
+            "word": "fox",
+            "prob": "0.0035778664"
+        },
+        {
+            "word": "rhythm",
+            "prob": "0.0035723925"
+        },
+        {
+            "word": "an_unlawful",
+            "prob": "0.0034803357"
+        },
+        {
+            "word": "methamphetamine",
+            "prob": "0.0033462236"
+        },
+        {
+            "word": "that",
+            "prob": "0.003234166"
+        },
+        {
+            "word": "chuck",
+            "prob": "0.0032178604"
+        },
+        {
+            "word": "use_of",
+            "prob": "0.0030812598"
+        },
+        {
+            "word": "wisconsin",
+            "prob": "0.0030230607"
+        },
+        {
+            "word": "han",
+            "prob": "0.0029711956"
+        },
+        {
+            "word": "battery",
+            "prob": "0.0029274207"
+        },
+        {
+            "word": "water",
+            "prob": "0.0028420447"
+        },
+        {
+            "word": "use",
+            "prob": "0.0027280145"
+        },
+        {
+            "word": "synonymous",
+            "prob": "0.0027031952"
+        },
+        {
+            "word": "drug_test",
+            "prob": "0.0026970285"
+        },
+        {
+            "word": "yellowknife",
+            "prob": "0.002672899"
+        },
+        {
+            "word": "state",
+            "prob": "0.0025891324"
+        },
+        {
+            "word": "groping",
+            "prob": "0.0024865826"
+        },
+        {
+            "word": "advisory",
+            "prob": "0.0024678754"
+        },
+        {
+            "word": "caffeine",
+            "prob": "0.002459296"
+        },
+        {
+            "word": "panel",
+            "prob": "0.0024398908"
+        },
+        {
+            "word": "ada",
+            "prob": "0.0024284434"
+        },
+        {
+            "word": "millennium",
+            "prob": "0.002362954"
+        },
+        {
+            "word": "counterfeit",
+            "prob": "0.0022719323"
+        },
+        {
+            "word": "a",
+            "prob": "0.0022116166"
+        },
+        {
+            "word": "motorboat",
+            "prob": "0.002187824"
+        },
+        {
+            "word": "on",
+            "prob": "0.0020791823"
+        },
+        {
+            "word": "for",
+            "prob": "0.0020403867"
+        },
+        {
+            "word": "attacking",
+            "prob": "0.0020338534"
+        },
+        {
+            "word": "intestacy",
+            "prob": "0.0020169297"
+        },
+        {
+            "word": "kat",
+            "prob": "0.001967419"
+        },
+        {
+            "word": "mobbing",
+            "prob": "0.0019333765"
+        },
+        {
+            "word": "richter",
+            "prob": "0.0019323346"
+        },
+        {
+            "word": "it",
+            "prob": "0.0019007017"
+        },
+        {
+            "word": "assistive",
+            "prob": "0.0018856315"
+        },
+        {
+            "word": "separate_property",
+            "prob": "0.0018493176"
+        },
+        {
+            "word": "prohibited",
+            "prob": "0.001825781"
+        },
+        {
+            "word": "with",
+            "prob": "0.0017309969"
+        },
+        {
+            "word": "addiction",
+            "prob": "0.0017204313"
+        },
+        {
+            "word": "designated_by",
+            "prob": "0.0017018134"
+        },
+        {
+            "word": "may",
+            "prob": "0.001701336"
+        },
+        {
+            "word": "roster",
+            "prob": "0.0016918918"
+        },
+        {
+            "word": "this",
+            "prob": "0.0016885696"
+        },
+        {
+            "word": "his",
+            "prob": "0.0016140192"
+        },
+        {
+            "word": "same_time",
+            "prob": "0.0016051193"
+        },
+        {
+            "word": "under",
+            "prob": "0.0015931717"
+        },
+        {
+            "word": "salon",
+            "prob": "0.0015716826"
+        },
+        {
+            "word": "person",
+            "prob": "0.0015596639"
+        },
+        {
+            "word": "corporation",
+            "prob": "0.001535"
+        },
+        {
+            "word": "programming",
+            "prob": "0.001508137"
+        },
+        {
+            "word": "banc",
+            "prob": "0.0014939279"
+        },
+        {
+            "word": "define",
+            "prob": "0.0014879601"
+        }
+    ]
+]

@@ -1,0 +1,284 @@
+r, recombinant, pylorus, mod, chorion, amnion, jpred, helicobacter, rrss, graphene
+Your 850 parentals ceoms from 425 black/pebbly and 425 red/shiny. 15cM = (recombinants/(recombinants+parentals)*100 recombinants/(parentals+recombinants) = 15/100 This tells you for every 15 recombinants, you have 85 parentals.
+If the chorion completely encloses the amnion then the chorion must break to let the amnion through.
+
+cell, body, blood, cause, also, effect, immune, system, disease, virus
+However, if your REM sleep is disrupted even one night, your body won’t follow its normal circadian sleep cycle (“inner clock”) progression.
+Lab tests for IgG may be increased in multiple myeloma, solitary plasmacytoma, MGUS, lymphoma, CLL, sarcoidosis, cirrhosis, autoimmune diseases, parasitic diseases, chronic infection, and intrauterine contraceptive diseases.
+
+bacteria, bacterial, gram, negative, positive, wall, stain, bacterium, staining, crystal
+On the other hand, Gram negative bacteria, due to a thinner peptidoglycan layer cannot retain crystal violet as well and are more likely to retain safranin.
+I'm assuming that the crystal violet complexes that are retained in the gram positive bacteria's peptidoglycan layers end up being washed away (perhaps from overdehydrtation).
+
+gel, buffer, band, sample, run, electrophoresis, sd, agarose, solution, running
+For gel electrophoresis of DNA, we use TAE or TBE. TAE buffer is cheaper than TBE but it has low buffering capacity; it exhausts faster than TBE buffer and there is a need to change the buffer during gel electrophoresis when electrophoresis longer.
+What is role of EDTA in sample buffer for protein separation for SDS-PAGE. In sample buffer preparation we add EDTA, but if SDS-PAGE is for protein then is it necessary to add EDTA in sample buffer?
+
+etbr, cyp, ferritin, sedimentation, tuna, lithium, clarithromycin, baltic, mag, confocal
+For your information thyroglobulin is 650kDa whereas ferritin is 440kDa. There seems to be some confusion regarding the sedimentation rate of ferritin.
+Clarithromycin inhibits CYP3A. I've read on this publication that every drug that induces CYP3A can reduce the effectiveness of clarithromycin.
+
+blood, pressure, heart, oxygen, flow, vessel, air, volume, increase, muscle
+The diastole consist of this: atrioventricular valves open, atria contract (atrial systole), blood flows from the atria to the ventricles, the atrioventricular valves close.
+For further investigation into the progress of the blood pressure, we will measure a patient's blood pressure in the superior vena cava measured during inhalation and during an exhalation.
+
+hair, follicle, keratin, grey, white, scalp, disulfide, bond, beard, curl
+When I started shaving with a razor, the hair growth thickened. If a razor cuts only the hair, then how does hair thicken and become more rough with a razor shave and not after one using a trimmer?
+I suspect that a straightening iron simply disrupts the present disulfide bonds, but I'm only speculating.
+
+cell, light, water, molecule, neuron, plant, energy, also, muscle, membrane
+It increases the understanding of the classification of the different neurons, but you will inevitably encounter shady areas where things fall apart; consider the fact that the retina is often regarded to be a part of the CNS, because of its embryonic development (Purves, 2002).
+For example, if a vesicle was being transported from the plasma membrane to the Golgi and then to the ER, the first part of this journey would be along the plus end to the minus end of the microtubule, carrier by dyneins; the second part of the journey from Golgi to ER would be from minus and to plus and and therefore carried by kinesis.
+
+vaccine, aa, strain, r_, vaccination, n_, hpv, hit, immunity, attenuated
+The probability to get exactly $n_{AA}$ AA genotypes, $n_{Aa}$ Aa genotypes and $n_{aa}=N-n_{AA}-n_{Aa}$ aa genotypes is $$P\left(N_{AA} = n_{AA}, N_{Aa} = n_{Aa}\right) = \frac{N!
+How about live vaccines? Are inactivated or killed vaccines like IPV damaged by freezing?
+
+a_, x_, p_, bar, pepper, ij, b_, mycelium, frequency, quad
+Linkage disequilibrium D equals $D=x_{11}−p1⋅q1$ where: Haplotype Frequency $A_{1}B_{1} = x_{11}$ $A_{1}B_{2} = x_{12}$ $A_{2}B_{1} = x_{21}$ $A_{2}B_{2} = x_{22}$ and Allele Frequency $A_{1}=p_{1}= x_{11}+x_{12}$ $A_{2} = p_{2}=x_{21}+x_{22}$ $B_{1} = q_{1}=x_{11}+x_{21}$ $B_{2} = q_{2}=x_{12}+x_{22}$ Shouldn't: 1) $D = x_{11}-p_{1}q_{1}$ or $x_{11} = p_{1}q_{1}+D $ 2) $**D= x_{12}-p_{1}q_{2}$ or $x_{12} = p_{1}q_{2}+D**$ 3) $**D= x_{21}-p_{2}q_{1}$ or $x_{21} = p_{2}q_{1}+D**$ 4) $D= x_{22}-p_{2}q_{2}$ or $x_{22} = p_{2}q_{2}+D$ Why do all the papers show: 1) $x_{11}=p_{1}q_{1}+D$ 2) $**x_{12}=p_{1}q_{2}-D**$ 3) $**x_{21}=p_{2}q_{1}-D**$ 4) $x_{22}=p_{2}q_{2}+D$ ex: http://en.
+According to wiki, linkage disequilibrium $D$ equals $$D = x_{11} - p_1\cdot q_1$$ where: $$ \begin{matrix} \text{Haplotype}  \text{Frequency}\\ A_1B_1  x_{11}\\ A_{1}B_{2}  x_{12} \\ A_{2}B_{1}  x_{21} \\ A_{2}B_{2}  x_{22} \\ \end{matrix} $$ and $$ \begin{matrix} \text{Allele}  \text{Frequency}\\ A_{1}  p_{1}=x_{11}+x_{12} \\ A_{2}  p_{2}=x_{21}+x_{22} \\ B_{1}  q_{1}=x_{11}+x_{21} \\ B_{2}  q_{2}=x_{12}+x_{22} \\ \end{matrix} $$ According to Hartl and Clark, linkage disequilibrium $D$ equals: $$D = x_{11}x_{22}-x_{12}x_{21}$$ Question Can you please prove that these two formulations of linkage disequilibrium are equivalent (assuming that they are equivalent)?
+
+spider, name, dinosaur, web, genus, specie, family, taxon, http, venom
+Eotriceratops was a larger species of triceratops so they both were similar in name but different in size Well eotriceratops was a larger ceratopsid but both of them had different predators for example the triceratops horridus was hunted by the T-Rex but for the eotriceratops I don't what predators it had
+As an example, this is the list of the first 20 vernacular names found for Passer domesticus (House sparrow): { "endOfRecords" : false, "results" : [ { "language" : "", "sourceTaxonKey" : 100220560, "source" : "Global Invasive Species Database", "vernacularName" : "English sparrow" }, { "language" : "", "sourceTaxonKey" : 100220560, "vernacularName" : "Europese huismuis", "source" : "Global Invasive Species Database" }, { "vernacularName" : "Gorrion domestico", "source" : "Global Invasive Species Database", "language" : "", "sourceTaxonKey" : 100220560 }, { "source" : "Integrated Taxonomic Information System (ITIS)", "vernacularName" : "GorriÃ³n casero", "language" : "spa", "sourceTaxonKey" : 102101640 }, { "vernacularName" : "Gorrión Común", "sourceTaxonKey" : 123213203, "language" : "spa" }, { "language" : "spa", "sourceTaxonKey" : 101186844, "source" : "The European Nature Information System (EUNIS)", "vernacularName" : "Gorrión Común" }, { "language" : "spa", "sourceTaxonKey" : 114130266, "source" : "Colaboraciones Americanas Sobre Aves", "vernacularName" : "Gorrión casero" }, { "vernacularName" : "Gorrión casero", "source" : "Yanayacu Natural History Research Group", "sourceTaxonKey" : 119245200, "language" : "spa" }, { "vernacularName" : "Gorrión casero", "source" : "Catalogue of Life", "sourceTaxonKey" : 119950016, "language" : "spa" }, { "language" : "swe", "sourceTaxonKey" : 101186844, "vernacularName" : "Gråsparv", "source" : "The European Nature Information System (EUNIS)" }, { "vernacularName" : "Gråspurv", "language" : "dan", "sourceTaxonKey" : 123213203 }, { "vernacularName" : "Gråspurv", "language" : "nob", "sourceTaxonKey" : 123213203 }, { "language" : "deu", "sourceTaxonKey" : 116795880, "vernacularName" : "Haussperling", "source" : "Taxon list of animals with German names (worldwide) compiled at the SMNS", "country" : "DE" }, { "language" : "deu", "sourceTaxonKey" : 100483595, "source" : "Belgian Species List", "country" : "BE", "vernacularName" : "Haussperling" }, { "language" : "deu", "sourceTaxonKey" : 123213203, "vernacularName" : "Haussperling" }, { "sourceTaxonKey" : 101186844, "language" : "deu", "source" : "The European Nature Information System (EUNIS)", "vernacularName" : "Haussperling" }, { "source" : "The Clements Checklist", "vernacularName" : "House Sparrow", "language" : "eng", "sourceTaxonKey" : 113987294 }, { "vernacularName" : "House Sparrow", "source" : "Taxonomy in Flux Checklist", "language" : "eng", "sourceTaxonKey" : 100159046 }, { "source" : "Colaboraciones Americanas Sobre Aves", "vernacularName" : "House Sparrow", "language" : "eng", "sourceTaxonKey" : 114130266 }, { "sourceTaxonKey" : 102101640, "language" : "eng", "vernacularName" : "House Sparrow", "source" : "Integrated Taxonomic Information System (ITIS)" } ], "limit" : 20, "offset" : 0 } Using this type of search: api.
+
+energy, atp, reaction, delta, free, mol, weight, kg, hydrolysis, calorie
+3 mol-1) [Frey,  Arabshahi, 1995], also considerably more negative that that for the hydrolysis of ATP into ADP and Pi Specifics The standard free energy of hydrolysis ($\Delta G^{'o}$) of the $\alpha$,$\beta$-phosphoanhydride of ATP to give AMP and PPi is about - 45 to -50 kJ mol-1 The standard free energy of hydrolysis of the $\alpha$,$\beta$-phosphoanhydride of ADP to give ADP and Pi is about -30 to -34 kJ/mol The standard free energy of hydrolysis of the $\beta$,$\gamma$-phosphoanhydride of ATP to give ADP and Pi is about -32 to -36 kJ/mol.
+In ATP we have two anhydride bonds, each with a Standard Gibbs free energy of hydrolysis ~ -30 kJ / mol and one phosphoesterbond of ~ -20 kJ/ mol, if my notes are correct.
+
+shiny, moderator, bristle, modencode, bower, election, daf, bowerbird, scrap, pity
+We hold regular elections to determine who these community moderators will be. Community moderators are accorded the highest level of privilege on our community, and should themselves be exemplars of positive behavior and leaders within the community.
+F1 females are then mated to males that have red bristles and shiny eyes to produce F2 progeny.
+
+go, ensp, influenza, fetus, ha, inversion, menopause, subtype, subtypes, mid
+ENSP00000270221 GO:0016049 EMP3 163 29 9606. ENSP00000256951 GO:0016049 EMP1 157 14 9606.
+Here some specific examples found in the Cosmic database: CRC-3 large_intestine NS carcinoma adenocarcinoma intrachromosomal inversion 28066 0 2 53774826 53774826 + 2 53775947 53775947 + 21892161 CRC-3 large_intestine NS carcinoma adenocarcinoma intrachromosomal inversion 28072 0 2 60783417 60783417 - 2 60786447 60786447 - 21892161 0006_CRUK_PC_0006_T1_DNA prostate NS carcinoma adenocarcinoma intrachromosomal inversion 113193 0 18 60375963 60375963 + 18 77010169 77010169 - 538 0006_CRUK_PC_0006_T1_DNA prostate NS carcinoma adenocarcinoma intrachromosomal inversion 113314 0 7 153608258 153608258 - 7 153610727 153610727 + 538 As you can see, they have inversions having all of the possible strand orientations, '++','--','+-','-+'.
+
+ch, g_i, f_i, methionine, folate, marsupial, thf, placental, optimality, monotreme
+MTHFR (methylene-THF reductase) converts CH2-THF into CH3-THF. The carbon group can occur in various redox states: CH3-THF (methyl-THF), CH2-THF (methylene-THF), CH-THF (methenyl-THF) or CHO-THF (formyl-THF).
+Eutherians are placental mammals, so all eutherians are placental mammals, but not all mammals are eutherians.
+
+lip, ibd, mathbb, upper, theta, y_, transplant, donor, cutaneous, align
+\end{align*} \begin{align*} \mathbb{E}[G(X_1,Y_1)G(X_2,Y_2)| \text{one IBD}] = \mathbb{E}[(\alpha(X)+\alpha(Y_1)+\delta(X,Y_1))(\alpha(X)+\alpha(Y_2)+\delta(X,Y_2))],\\ =\mathbb{E}[\alpha^2(X)] + 2 \mathbb{E}(\alpha(X) \delta(X,Y_1)) + \mathbb{E} [\delta(X,Y_1)\delta(X,Y_2)],\\ = \frac{1}{2} \sigma_A^2 + 2 \mathbb{E} [ \alpha(X) \mathbb{E}[\delta(X,Y_1) | X] ] + \mathbb{E} [\mathbb{E}[\delta(X,Y_1)|X]\mathbb{E}[\delta(X,Y_2)|X]],\\ = \frac{1}{2} \sigma_A^2.
+Thus: Lip = upper lip (upper cutaneous lip + upper vermilion) + lower lip (lower cutaneous lip + lower vermilion) This is a diagram that depicts the upper lip portion: Source: http://elementsofmorphology.
+
+microgram, grp, milligram, typo, one, would, protein, sequence, also, time
+120 milligrams (120 micrograms) of MK-4 ... 5 milligrams. This is a typo. So, that suggests that the (4,500 micrograms) in the table is correct and that the 45 milligrams is a typo.
+Maximum specific yield = milligram product per gram dry cell weight (DCW). Specific product formation rate Qp = milligram product per gram dry cell weight per hour.
+
+pbmcs, f_a, f_o, cell, light, would, one, also, potential, ion
+Please explain why this multiplicative term is $\sqrt { \frac{1+f_A}{1+f_O}}$ and not something different such as $\frac{f_A f_O}{2}$ for example.
+When I begin the assay, should the PBMCs be activated or not? Even if I use PBS (without any calcium or magnesium ions) to isolate the PBMCs from blood, in the end I resuspend the isolated PBMCs in medium which does contain these ions.
+
+gluteus, minimus, medius, vibrio, spill, catl, armadillo, pangolin, catb, horizon
+, 80% of the strength stemmed from the gluteus medius, and 20% of the strength stemmed from the gluteus medius)
+From what I read on Wikipedia, all functions of the gluteus minimus are mirrored by the gluteus medius.
+
+rf, botulinum, hay, rubella, emf, botulism, bale, carcinogenicity, neurotoxin, encephalitis
+Mumps encephalitis: return with a vengeance. It obviously can do that, causing a rubella encephalitis.
+Botulinum toxin is the neurotoxin protein created when botulism spores grow. There are well documented incidents of botulism in horses who are eating hay, all the references I found were centered around hay in large plastic wrapped bales.
+
+nbsp, ant, colony, queen, worker, nest, potato, trail, aphid, pheromone
+Actin is required for the neurite architecture and is present throughout the shaft (along the direction of the neurite process) See these images.
+Its a Shrew skull.  Hainault Forest Website Photographs by © Brian Ecott
+
+xx, bv, acb, impacting, cm, cell, gene, dna, mutation, effect
+I think it is not, so I got these ratios: No CO and double CO: 42% AcB/acb, 42% acb/acb, 1x CO: 8% Acb/acb, 8% acB/acb
+Based on this definition, the distance from the mean for individual with the following genotype is given by: XX: $a$ Xx : 0 xx: $-a$ This makes more sense using the genetic model: $P=G+E=BV+I+E=A+D+I+E$ (parameters listed at the bottom) In the example, the locus has only an additive effect then D=0 and assuming there is no epistasis then I=0 as well which gives $P=BV+E=A+E$ therefore $BV=A$ In this case $a$ can be computed directly from the BV, with p=f(X) and q=f(x), as: $BV(XX)=2qa$ $BV(Xx)=(q-p)a$ $BV(xx)=-2pa$ Now for the complete case of both additive and dominant effects, i.e.
+
+semen, abstinence, mesoderm, cent, bdnf, coelom, spermatozoon, fulminant, hippocampal, immobilization
+I know that the coelom is derived from mesoderm. I know for sure that the coelom develops within gastrulation and organogenesis, since it is forming from mesoderm.
+In broad way we call it sperm but the motile sperm is precisely called spermatozoon and plural form of spermatozoon is spermatozoa.
+
+surrogate, smile, circumcision, surrogacy, gestational, ssveps, tmao, traditional, foreskin, fertilization
+The wikipedia page on surrogacy highlights two main forms of surrogacy: Traditional Surrogacy and Gestational Surrogacy.
+There are different types of surrogacy, but as you said the most common one are traditional and gestational surrogacy.
+
+hatching, s_f, modulus, s_m, fry, asynchrony, fitness, fittest, homozygote, male
+Does it mean hatching asynchrony has fitness benefits? Or does it mean hatching asynchrony is likely to be selected for?
+What is the bulk modulus of spider silk? What is the shear modulus of spider silk?
+
+antibiotic, resistance, resistant, penicillin, staphylococcus, aureus, grid, ccr, lactamase, methicillin
+Since antibitiotic resistance is causee by transduction of the F factor, is it possible to induce a F+ non antibiotic resistant bacteria into a region of F- resistant bacteria?
+FMRSA (meticillin-resistant Staphylococcus aureus) became resistant to penicillin by a change in its DD-transpeptidase.
+
+tapeworm, proglottids, would, water, saginata, dna, like, body, one, also
+I think a tapeworm is your best bet. For tapeworms specifically, I found this textbook, Animal Physiology: From Genes to Organisms, which claims: Active facultative anaerobes include some parasitic worms such as tapeworms that can survive without oxygen indefinitely...
+Proglottids are Hermaphrodite when mature. There can be 1000-2000 Proglottids in the worm body.
+
+no, calmodulin, guanidine, isothiocyanate, pectoralis, enos, mediation, soreness, cell, brain
+Does it mean that e-NOS and n-NOS are synthesized by mediation of Ca and calmodulin?
+Does it mean that e-NOS and n-NOS are synthesized by mediation of Ca and calmodulin?
+
+buoyant, xdna, neutrally, would, protein, cell, like, get, one, process
+Any shallower, and the lungs expand, making it positively buoyant. Under this model, for a given amount of air taken in at the surface, the animal has a very specific depth D at which it is neutrally buoyant.
+This is for xDNA, I would assume that xRNA behaves comparably if double-stranded.
+
+latin, adjective, noun, singular, suffix, masculine, nominative, genitive, tubercle, declension
+Tuber is the latin word for tuberosity. They are adjective suffixes. They are both nominative nouns.
+Lateralis has the masculine, singular suffix of the nominative 3rd declension. Let's break down each of these anatomical structures to understand the agreement-induced inflections [Source]: os cuneiforme laterale - each of these words is neutral/singular: os = noun, declension 3, nominative, neutral, singular cuneiforme = adjective, declension 3, neutral, singular laterale = adjective, declension 3, nominative, neutral, singular nervus cutaneus antebrachii lateralis - the 2 adjectives match the masculine/singular noun they describe: nervus = noun, declension 2, nominative, masculine, singular cutaneus = adjective, declension 2, nominative, masculine, singular antebrachii = noun, declension 2, genitive, singular lateralis = adjective, declension 3, nominative, masculine, singular Note: you see a shift to the genitive case for antebrachii because in this instance this phrase means "Lateral cutaneous nerve of the forearm.
+
+oncogene, myc, approved, viral, avian, designation, sox, synonym, neuroblastoma, pgc
+3   MYCL2 Approved Symbol:      MYCL2 Approved Name:   v-myc myelocytomatosis viral oncogene homolog 2 (avian) Previous Symbols  Names:   "v-myc avian myelocytomatosis viral oncogene homolog 2" Synonyms:   bHLHe38 Chromosomal Location: Xq22-q28 MYCN Approved Symbol:      MYCN Approved Name:   v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian) Previous Symbols  Names:   NMYC, "v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived" Synonyms:   bHLHe37, N-myc Chromosomal Location: 2p24.3
+With respect to myc, it can refer to the family of MYC transcription factor proteins (of which, c-Myc, L-myc and N-myc are members).
+
+nicotine, bead, leech, silica, bleach, cigarette, tar, lengthening, catnip, smoke
+In a study on cigarette stains, the author speaks of tobacco-tar stains, implicitly acknowledging it is tar and not nicotine (John et al.
+This did work well, but I found that upon adding water to the silica beads, quite a few of the silica gel beads cracked, this was from the silica gel beads absorbing water fast.
+
+hydrophobia, rheobase, population, would, example, human, like, individual, also, time
+So rabies and hydrophobia are distinct and hydrophobia is a symptom of rabies. The person may have hydrophobia.
+My question is what the difference is between rheobase and threshold? Rheobase is defined as "the minimum strength (voltage) of stimulus which can excite the tissue".
+
+uniprot, protein, rat, homolog, ontology, actor, fgf, sarcoma, kras, recipient
+There, you can click on the "Download" link and retrieve this list: MoleculeType Identifier MoleculeName Proteins P31751 UniProt:P31751 AKT2 Proteins P31749 UniProt:P31749 AKT1 Proteins Q9Y243 UniProt:Q9Y243 AKT3 Proteins P16220 UniProt:P16220 CREB1 Proteins Q12778 UniProt:Q12778 FOXO1 Proteins P98177 UniProt:P98177-2 FOXO4 Proteins O43524 UniProt:O43524 FOXO3 Proteins P98177 UniProt:P98177-1 FOXO4 Proteins O15530 UniProt:O15530 PDPK1 Proteins Q92934 UniProt:Q92934 BAD Proteins P46527 UniProt:P46527 CDKN1B Proteins P38936 UniProt:P38936 CDKN1A Proteins Q00987 UniProt:Q00987 MDM2 Proteins P60484 UniProt:P60484 PTEN Proteins Q8WWG1 UniProt:Q8WWG1 NRG4 Proteins P10721 UniProt:P10721 KIT Proteins Q9HCT0 UniProt:Q9HCT0 FGF22 Proteins P15498 UniProt:P15498 VAV1 Proteins P05230 UniProt:P05230 FGF1 Proteins Q15303 UniProt:Q15303-1 ERBB4 Proteins P08620 UniProt:P08620 FGF4 Proteins P42338 UniProt:P42338 PIK3CB Proteins O14944 UniProt:O14944 EREG Proteins O15520 UniProt:O15520 FGF10 Proteins P21802 UniProt:P21802-3 FGFR2 Proteins Q13480 UniProt:Q13480 GAB1 Proteins P55075 UniProt:P55075-1 FGF8 Proteins O00459 UniProt:O00459 PIK3R2 Proteins Q9UEF7 UniProt:Q9UEF7-1 KL Proteins P09619 UniProt:P09619 PDGFRB Proteins Q8WU20 UniProt:Q8WU20 FRS2 Proteins Q86Z14 UniProt:Q86Z14 KLB Proteins O00329 UniProt:O00329 PIK3CD Proteins P11487 UniProt:P11487 FGF3 Proteins Q9GZV9 UniProt:Q9GZV9 FGF23 Proteins P42336 UniProt:P42336 PIK3CA Proteins P42081 UniProt:P42081 CD86 Proteins P35568 UniProt:P35568 IRS1 Proteins P04626 UniProt:P04626 ERBB2 Proteins Q02297 UniProt:Q02297 NRG1 Proteins P12034 UniProt:P12034-1 FGF5 Proteins P56975 UniProt:P56975 NRG3 Proteins Q9NP95 UniProt:Q9NP95 FGF20 Proteins Q02297 UniProt:Q02297-10 NRG1 Proteins P22607 UniProt:P22607-2 FGFR3 Proteins P21802 UniProt:P21802-1 FGFR2 Proteins Q15303 UniProt:Q15303-2 ERBB4 Proteins P62993 UniProt:P62993-1 GRB2 Proteins O60258 UniProt:O60258-1 FGF17 Proteins P11362 UniProt:P11362-1 FGFR1 Proteins P15391 UniProt:P15391 CD19 Proteins Q9Y4H2 UniProt:Q9Y4H2 IRS2 Proteins Q99075 UniProt:Q99075 HBEGF Proteins P21583 UniProt:P21583-1 KITLG Proteins P31371 UniProt:P31371 FGF9 Proteins P27986 UniProt:P27986 PIK3R1 Proteins P22455 UniProt:P22455 FGFR4 Proteins P04085 UniProt:P04085-2 PDGFA Proteins P06241 UniProt:P06241 FYN Proteins P01127 UniProt:P01127 PDGFB Proteins P21802 UniProt:P21802-5 FGFR2 Proteins Q06124 UniProt:Q06124 PTPN11 Proteins P21781 UniProt:P21781 FGF7 Proteins O95750 UniProt:O95750 FGF19 Proteins P21860 UniProt:P21860-1 ERBB3 Proteins O14511 UniProt:O14511 NRG2 Proteins P01133 UniProt:P01133 EGF Proteins O76093 UniProt:O76093 FGF18 Proteins P21802 UniProt:P21802-18 FGFR2 Proteins O43320 UniProt:O43320 FGF16 Proteins P04085 UniProt:P04085-1 PDGFA Proteins P10767 UniProt:P10767 FGF6 Proteins P06239 UniProt:P06239 LCK Proteins Q92569 UniProt:Q92569 PIK3R3 Proteins Q6PIZ9 UniProt:Q6PIZ9 TRAT1 Proteins Q9UEF7 UniProt:Q9UEF7-2 KL Proteins P35070 UniProt:P35070 BTC Proteins P16234 UniProt:P16234 PDGFRA Proteins P33681 UniProt:P33681 CD80 Proteins P22607 UniProt:P22607-1 FGFR3 Proteins P09038 UniProt:P09038 FGF2 Proteins P10747 UniProt:P10747 CD28 Proteins P00533 UniProt:P00533 EGFR Proteins P55211 UniProt:P55211 CASP9 Proteins P22736 UniProt:P22736 NR4A1 Proteins Q6ZVD8 UniProt:Q6ZVD8 PHLPP2 Proteins O60346 UniProt:O60346 PHLPP1 Proteins Q9UKV8 UniProt:Q9UKV8 AGO2 Proteins Q9HCE1 UniProt:Q9HCE1 MOV10 Proteins Q9UPQ9 UniProt:Q9UPQ9 TNRC6B Proteins Q9HCJ0 UniProt:Q9HCJ0 TNRC6C Proteins Q9UL18 UniProt:Q9UL18 AGO1 Proteins Q8NDV7 UniProt:Q8NDV7 TNRC6A Proteins Q9H9G7 UniProt:Q9H9G7 AGO3 Proteins Q9HCK5 UniProt:Q9HCK5 AGO4 Proteins Q96RU7 UniProt:Q96RU7 TRIB3 Proteins Q5T1C6 UniProt:Q5T1C6 THEM4 Proteins Q96B36 UniProt:Q96B36 AKT1S1 Proteins P49841 UniProt:P49841 GSK3B Proteins P49840 UniProt:P49840 GSK3A Proteins O15111 UniProt:O15111 CHUK Proteins Q9BPZ7 UniProt:Q9BPZ7 MAPKAP1 Proteins Q6R327 UniProt:Q6R327 RICTOR Proteins Q9BVC4 UniProt:Q9BVC4 MLST8 Proteins P42345 UniProt:P42345 MTOR Proteins Q9UBS0 UniProt:Q9UBS0 RPS6KB2 Proteins P49815 UniProt:P49815 TSC2
+db, keys = genes, keytype = "SYMBOL", columns = c("ENTREZID", "GENENAME", "GO"))  head(info) SYMBOL ENTREZID GENENAME GO EVIDENCE 1 KRAS 3845 Kirsten rat sarcoma viral oncogene homolog GO:0000165 TAS 2 KRAS 3845 Kirsten rat sarcoma viral oncogene homolog GO:0000186 TAS 3 KRAS 3845 Kirsten rat sarcoma viral oncogene homolog GO:0001934 IMP 4 KRAS 3845 Kirsten rat sarcoma viral oncogene homolog GO:0005515 IPI 5 KRAS 3845 Kirsten rat sarcoma viral oncogene homolog GO:0005525 IEA 6 KRAS 3845 Kirsten rat sarcoma viral oncogene homolog GO:0005737 IDA ONTOLOGY 1 BP 2 BP 3 BP 4 MF 5 MF 6 CC Load the GO.
+
+tip, pipette, ul, ml, rnase, tube, pipetting, volume, bsa, dam
+Do not stir. Gently rock the capped tube until the BSA has dissolved completely.
+Set the pipette to 10 mL, pipette 10 mL into the vial and document the weight. Set the pipette to 5 mL, pipette 5 mL into the vial and document the weight.
+
+would, specie, one, human, like, question, also, time, could, animal
+I know it may seem like "too much philosophy" for biology but the thing is the arguments I put forward actually make sense if taken together and if you want to come to a satisfactory answer to your question (which itself isn't asked in a clear-minded manner according to me), then you need to take the steps I already described and "translate" it into questions which can be answered in more rigorous manner and if they are done (as I suggest here) may be you can agree you have your answer?
+One group expands, a lot of its elements fizzling out but some of them spawning their own subgroups that expand in turn while still being recognizably part of the original group, and so on so forth with the fizzling of the most and spawning of the few, at some point the older groups might be so large and full of different subgroups that they start losing their definition, and basically at some point you realize the whole big mass of elements that now cover the sky includes both A and B, meaning if you roll back the tape you can certainly track how something that looked like A changed over time into something that looked like B, but it's really a very small part of the whole show.
+
+ror, mycobacteria, asd, mz, alveolus, obstruction, discordant, obstruct, epigenomics, castro
+Are acid-fast mycobacteria "obstructing" alveoli or just colonizing? a) cell-mediated hypersensitivity b) obstruction of alveoli by large number of acid-fast mycobacteria I think the right answer is "obstruction of alveoli by large number of acid-fast mycobacteria", but I am not sure if you can say that acid-fast mycobacteria obstruct alveoli.
+I'm familiar with monozygotic twin (MZ) discordance for AD and ASD and the methylome studies done in discordant MZ for those disorders.
+
+potential, ion, channel, membrane, action, sodium, na, voltage, current, potassium
+And the Nernst potentials are (the differences between the K+ and the Na+'s Nernst potential and the membrane potential let the mechanism work): K+ = -74mV Na+ = 55mV Cl- = -60mV I am wondering if the membrane potential is 0mV, whether the K+ and Na+ Nernst potentials still cause the mechanism to work, so can 0mV be a reasonable value?
+They are often referred to as inward/outward (negative/positive respectively) currents as well, due to the direction of the flow of ions.
+
+gluten, laca, glp, dermatol, smilax, topical, bruising, surg, rhizome, pennsylvania
+How is endogenous gluten released from fat? You have been 3 months in gluten free diet.
+I've found that, over time, physical conditioning can reduce and/or eliminate the bruising to the point where even after hard impacts, there is no residual bruising.
+
+temperature, primer, heat, cold, degree, pcr, hot, tm, annealing, body
+It is actually good if both the primers have the same Tm (Melting Temperature) because you would basically want both primers to anneal at your Ta (Annealing Temperature) which is generally set as Tm-5.
+One with Tm 65 degree Celcius (Annealing at 65 degree Celcius) and another with 72 degree Celcius (Annealing at 72 degree Celcius).
+
+colloidal, veggie, guppy, walsh, one, water, mutation, two, paper, like
+I am trying to answer problem 2: Question "Colloidal particles: What are colloidal systems, give an example, what happens to colloidal particles in a liquid medium.
+So what makes those veggies's diuretic nature better than alcohol's? I know alcohol is more harmful than veggies, but I mainly wanted to know how do diuretic veggies help you when infact the diuretic alcohol actually makes you dehyderated?
+
+orf, omega, oil, cyanide, spasm, orthologs, albicans, fish, dha, none
+I have 6 genes of Candida albicans yeast namely orf19. 723 NONE orf19. 723 NONE orf19.
+EPA: DHA: Fish oil contains high levels of eicosapentaenoic acid (EPA; 20:5 omega-3) and docosahexaenoic acid (DHA; 22:6 omega-3), which are omega-3 polyunsaturated fatty acids.
+
+glc, sirt, tia, paresthesia, represent, aminoacids, panic, present, example, blood
+for example SEQRES 1 A 26 GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC SEQRES 2 A 26 GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC SEQRES 1 B 26 GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC SEQRES 2 B 26 GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC GLC In that PDB ID: 1C58 What are this and What are represent the SEQRES?
+Both activate SIRT1, which suppress tumors. SIRT1, Is It a Tumor Promoter or Tumor Suppressor?
+
+crow, corvus, carrion, hooded, corvids, cornix, austria, tentatively, ornithologist, photographed
+After looking through many images of various crow species and their hybrids, I've tentatively identified these as: Carrion crow (Corvus corone) Carrion crow × Hooded crow (Corvus corone × Corvus cornix) Carrion crow × Hooded crow (Corvus corone × Corvus cornix) I initially believed this to be a Hooded crow (Corvus cornix), but the broken coloration on the wings made me think it might actually be a hybrid as well.
+A Hooded Crow Corvus cornix in the garden of Belvedere (Vienna). This does appear to be the hooded crow (Corvus cornix).
+
+glove, cattle, effector, latex, aureum, badger, mealworm, epipremnum, sciatic, nitrile
+What is the evidence that badgers spread tuberculosis to cattle? Also, what is the evidence that badger culling will have a significant effect on the spread of the disease to cattle?
+For some of the applications we do in our clinic/lab, we use thick >6mm nitrile gloves.
+
+paresthesia, torsion, gastropod, mollusc, sinistral, nickel, alloy, metal, cobalt, chromium
+IARC groups nickel and cobalt metals in group 2B and chromium in group 3 (hexavalent chromium is group 1!).
+The torsion evolved only once in the gastropods. Why so many molluscs exhibit sinistral winding?
+
+av, affy, hist, egret, comparision, ccl, flybase, one, aa, human
+But there are also 97 genes which exist in the old Affy U95Av2 platform while not in Affy U133 Plus 2.
+See the images for comparision: Breeding cattle egret with colored feathers. Nonbreeding cattle egret, completely white.
+
+regret, also, system, brain, would, body, dna, one, see, question
+And the best way to express "regrets" is to feel the "regrets". What other advantages might "regrets" have?
+In Graham Bell's book Selection, it's written: To some it may be a cause of regret that the natural world cannot be understood in terms of a single set of rules and laws, but at least, so far as we know, the whole of the natural world can be understood in terms of just two general systems, and no more.
+
+silicon, tubulin, retinol, cisplatin, retinoic, silicone, retinoids, dislocation, tuba, alpha
+This is not so easy to answer, since alpha-tubulin has at 10 known genes in this family (data from Ensembl): TUBA1A tubulin, alpha 1a TUBA1B tubulin, alpha 1b TUBA3E tubulin, alpha 3e TUBA3D tubulin, alpha 3d TUBA4A tubulin, alpha 4a TUBAL3 tubulin, alpha-like 3 TUBA1C tubulin, alpha 1c TUBA3C tubulin, alpha 3c TUBA8 tubulin, alpha 8 TUBAL3 tubulin, alpha-like 3 You can go on the site linked above and choose any of the proteins.
+1% Retinoic Acid topical treatment? 1% Retinoic Acid treatment (and a 2% Retinol treatment to a 0.
+
+tim, markup, ebolavirus, cyc, clk, sbml, zaire, outbreak, fatality, fruitfly
+The known species of Ebola includes: Zaire ebolavirus (or just ebolavirus) Sudan ebolavirus Bundibugyo ebolavirus Tai ebolavirus (only one known human case) Reston ebolavirus (can infect but does not seem to cause disease in humans) Zaire ebolavirus is the deadliest strain (with Sudan second), and also the one that is causing the current outbreak.
+SBML is refer to as SYSTEM BIOLOGY MARKUP LANGUAGE why we should called as MARKUP LANGUAGE?
+
+lb, ft, rpm, initi, metre, kg, rotor, weigh, rnapii, centrifugal
+* ( initi(:,2) - initi(:,1) ) ) -( . * ( initi(:,2) - initi(:,1) ) ) - ( . 1,2) + power(initi(:,1),2) ); r(:,2) = - r(:,1) .
+7 m (22 ft) and can weigh over 1. 3 lb). 44 lb). 3 ft) long and 2 centimetres (0.
+
+glucose, fruit, sugar, mm, insulin, fat, lipid, acid, fructose, glycogen
+Why doesn’t the corpus luteum degenerate immediately after the LH surge, then, whereafter FSH and LH levels are so low?
+Glycerol is not lipid (short chain polyol, so it is polar and water soluble), but fatty acids (amphiphilic) and triglycerides (hydrophobic) are.
+
+mhcii, pufas, mhci, xenon, oblong, hyaline, cell, ventilator, conidium, one
+My question: the phrase "oblong to Allantoids"; Is the word oblong valid for this context?
+How do cells know whether they should grow the hyaline cartilage? What are the key molecules that trigger the synthesis of hyaline cartilage?
+
+ladybug, sinew, spot, cell, gene, answer, question, different, number, specie
+The record-holder for most spots is the 24-spot ladybug ( Subcoccinella 24-punctata), which has 24 spots, of course.
+com/sinew sinew = tendon https://en. com/tendon/sinew : Sinew is a synonym of tendon.
+
+retrovirus, ibs, lentiviruses, gag, lentivirus, env, pol, capsid, cell, pathogenesis
+Lentiviruses have an overlap between gag and pol, and a gap between pol and env.
+I am not very familiar with the relationship between retrovirus and lentiviruses.
+
+milk, cholesterol, fat, lactose, ldl, horn, fatty, phylum, lipoprotein, hdl
+Althaea officinalis (marshmallow) Anchusa officinalis (bugloss) Archangelica officinalis (angelica) Asparagus officinalis (asparagus) Avicennia officinalis (mangrove) Bistorta officinalis (European bistort) Borago officinalis (borage) Buddleja officinalis (pole butterflybush) Calendula officinalis (pot marigold) Cinchona officinalis (quinine) Cochlearia officinalis (scurvygrass) Corallina officinalis (a seaweed) Cornus officinalis (cornelian cherry) Cyathula officinalis (ox knee) Cynoglossum officinale (houndstongue) Euphrasia officinalis (eyebright) Fumaria officinalis (fumitory) Galega officinalis (goat's rue) Gratiola officinalis (hedge hyssop) Guaiacum officinale (lignum vitae) Hyssopus officinalis (hyssop) Jasminum officinale (jasmine) Laricifomes officinalis (a wood fungus) Lavandula officinalis (lavender) Levisticum officinale (lovage) Lithospermum officinale (gromwell) Magnolia officinalis (magnolia) Melilotus officinalis (ribbed melilot) Melissa officinalis (lemon balm) Morinda officinalis (Indian mulberry) Nasturtium officinale (watercress) Paeonia officinalis (common paeony) Parietaria officinalis (upright pellitory) Primula officinalis (cowslip) Pulmonaria officinalis (lungwort) Rheum officinale (a rhubarb) Rosa gallica 'Officinalis' (apothecary rose) Rosmarinus officinalis (rosemary) Salvia officinalis (sage) Sanguisorba officinalis (great burnet) Saponaria officinalis (soapwort) Sepia officinalis (cuttlefish) Sisymbrium officinale (hedge mustard) Spongia officinalis (bath sponge) Stachys officinalis (betony) Styrax officinalis (drug snowbell) Symphytum officinale (comfrey) Taraxacum officinale (dandelion) Tormentilla officinalis (tormentil) Valeriana officinalis (valerian) Verbena officinalis (vervain) Veronica officinalis (speedwell) Zingiber officinale (ginger)
+The mother and grandmother of the actual Mitochondrial Eve were living before Mitochondrial Eve, and thus are less recent than she is.
+
+gene, rna, would, also, sequence, dna, one, selection, eye, nbsp
+From those I've examined, this species seems most visually similar to yours. For example, see InfoFlora*: Vaccinium gaultherioides Bigelow, © Konrad Lauber – Flora Helvetica – 2012 Haupt Bern You can see the prevelance of this species throughout the Swiss alps in the below range map (also from InfoFlora): ______________________________________enter preformatted text here * the national data center for the Swiss flora I don't know the flora of the Alps personally and I feel you post lacks enough detail for me to confidently pick and choose among many Vaccinium candidates.
+" But I guess we have bonafide promoter regions if we take say 1000bp neighbourhoods about our true binding sites.
+
+gene, dna, protein, one, sequence, would, two, chromosome, mutation, cell
+In short, a mutation can refer to An event narrow sense broad sense An allele definition based on ancestral/derived states definition based on frequency Before going into the details of these definitions, it is important to first define a few other terms.
+The basic steps of ChIP-Seq are: Crosslinking proteins to DNA - this fixes the proteins in their natural positions Nuclease digestion - this removes regions that are unbound to protein; nucleases are sterically hindered from digesting protein-bound DNA Immunoprecipitation - this allows isolation of the target protein by binding it to a selective antibody Sequencing to determine the bound DNA sequence Mapping the reads to the reference genome Why so many reads?
+
+ligand, receptor, price, z_i, n_i, r_i, tot, w_i, saccade, rl
+It's interesting that you are asking for the fraction of ligand bound to receptors ($[RL]/[L]_{tot}$).
+When there is a mixture of multiple ligands and receptors where each ligand and each receptor can interact with eachother, this is not so simple.
+
+synesthesia, neighbor, br, inclusive, syn, spelled, synaesthesia, grapheme, altruist, nmeth
+Forms of Synesthesia: Grapheme-color synesthesia Chromesthesia Spatial sequence synesthesia Number form Auditory-tactile synesthesia Misophonia Mirror-touch synesthesia Lexical-gustatory synesthesia There are many more other forms of synesthesia.
+Forms of Synesthesia: Grapheme-color synesthesia Chromesthesia Spatial sequence synesthesia Number form Auditory-tactile synesthesia Misophonia Mirror-touch synesthesia Lexical-gustatory synesthesia There are many more other forms of synesthesia.
+
+iso, percentile, gapdh, protein, would, human, one, also, two, light
+6 95th percentile: 51. 6 506 Interscye 5th percentile: 32. 7 50th percentile: 47.
+Fold-Change = Log2[(Iso2/GAPDH)/(Iso1/GAPDH)] 2. I have an Excel sheet with optical density measurements I obtained using ImageJ; it looks something like this: Lane Iso1 Iso2 GAPDH 1 149.
+
+one, would, like, also, plant, specie, let, acid, may, even
+From those I've examined, this species seems most visually similar to yours. For example, see InfoFlora*: Vaccinium gaultherioides Bigelow, © Konrad Lauber – Flora Helvetica – 2012 Haupt Bern You can see the prevelance of this species throughout the Swiss alps in the below range map (also from InfoFlora): ______________________________________enter preformatted text here * the national data center for the Swiss flora I don't know the flora of the Alps personally and I feel you post lacks enough detail for me to confidently pick and choose among many Vaccinium candidates.
+" But I guess we have bonafide promoter regions if we take say 1000bp neighbourhoods about our true binding sites.
+
+http, data, file, www, sequence, gt, database, org, lt, ncbi
+ent files are PDB format: The archival PDB files will be distributed with the reserved conventional names, in the form pdbentry_id.
+I would like to filter out reads from my files in a sequential manner, thus I would like to align to a first reference genome, then use the generated SAM/BAM file to extract the mapped reads with samtols view -F4, re-generate fastq files and align those to another reference genome.
+
+hplc, fplc, cell, trait, like, plant, time, would, animal, many
+What exactly are differences in HPLC and FPLC (fast protein liquid chromatography) instruments, and why would FPLC be a better technique than HPLC to use with proteins?
+The only difference between FPLC and HPLC is the amount of pressure the pumps apply to the column.
+
+veg, dialect, coda, vegetarian, dna, one, also, rna, different, question
+Below are couple of links which I found depicted this in authors perception: Egg Non-Veg (a proof) Egg is veg Types of vegetarian If it is veg why products are marked with red dots Is there any biological proof to consider White Eggs either as vegetarian or non-vegetarian?
+A lot of fruit and veg are green when unripe and become brightly coloured when they are ready to eat (obviously not true for all, but most fruit/veg does).
+
+mutagen, carcinogen, carcinogenic, hd, mutagenic, al_, iarc, carcinogenesis, residue, oncogenic
+cc, there is a mapping between atom lebels: Atom_fallback_data atom_fallback_data_[]= {{Residue::AL_CD1, Residue::AL_CD}, {Residue::AL_1HA, Residue::AL_HA}, {Residue::AL_1HB, Residue::AL_HB}, {Residue::AL_1HD, Residue::AL_HD}, {Residue::AL_1HE, Residue::AL_HE}, {Residue::AL_1HZ, Residue::AL_HZ}, //{Residue::AL_1HH, Residue::AL_HH}, {Residue::AL_1HD1, Residue::AL_1HD}, {Residue::AL_2HD1, Residue::AL_2HD}, {Residue::AL_3HD1, Residue::AL_3HD}, {Residue::AL_INVALID, Residue::AL_INVALID}}; It means that AL_CD1 is deliberately converted to AL_CD or for example AL_1HA to AL_HA.
+Not all mutagens carcinogens. I'm no expert on the matter, but just quoting from Wikipedia: Mutagens are not necessarily carcinogens, and vice versa.
+
+photoreception, extraretinal, time, also, one, population, size, would, level, specie
+" by Humancharger justify the extraretinal photorecetpion? Why would evolution have lead to extraretinal photoreception in mammals?
+arrangement with the receptor cell behind a screen of several other layers not hinder the process of photoreception by blocking a lot of incident light and hence the formed image?
+
+meiosis, egg, secondary, oocyte, sperm, primary, ovum, division, ii, follicle
+3 hrs before ovulation, the Pre ovulatory Follicle (with the secondary oocyte inside) is arrested in the metaphase of Meiosis II and is extruded out of the ovary - a process called as Ovulation.
+After ovulation, each oocyte continues to metaphase of meiosis II. Which follicle is arrested in the metaphase II of oogenesis?
+
+rh, hydrogen, peroxide, incompatibility, rhesus, mother, miscarriage, tfr, pregnancy, rifampicin
+O- should be the universal donor not O+because when rh- blood is given to rh+ person ,the rh+ person can not make antibodies against rh- blood because there are no rh antigens in the rh- blood.
+If Rh- mother has Rh+ baby, the mother can become sensitized during first pregnancy and then if subsequent fetuses are also Rh+, there can be eryhtroblastosis foetalis.
+
+spata, digitalis, arrhythmia, f_a, f_c, f_b, cardioversion, wildebeest, intoxication, sporadic
+31 SPATA6 --- 1p33 SPATA12 --- 3p14. 31 SPATA9 --- 5q15 SPATA19 --- 11q25 SOHLH1 --- 9q34.
+This is why, digitalis intoxication is relative contraindication to electric cardioversion of atrial fibrillation/flatter.
+
+seed, plant, flower, diploid, hybrid, gamete, pollen, symmetry, parent, produce
+do Nascimento, Sílvia Castro, John Perkins,Sally Perkins, João Loureiro in Jornadas Portuguesas de Genética, Coimbra, Portugal; 05/2011 Weighing in: Discovering the ploidy of hybrid elepidote rhododendrons by Sally Perkins, John Perkins, José Monteiro de Oliveira, Mariana Castro, Sílvia Castro, João Loureiro in Rhododendrons, Camellias and Magnolias, Royal Horticultural Society, Editors: Simon Maughan, pp.
+Note: We crossed Rhododendron flammeum (diploid) X Rhododendron atlanticum (tetraploid) to produce triploid seedlings.
+

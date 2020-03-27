@@ -1,0 +1,352 @@
+ball, red, cointegration, urn, egg, stationary, rural, urban, green, governance
+I use a Dickey-Fuller test to test for stationarity and concluded that both of my series are non-stationary.
+I might be wrong but from what you write, it seems you've been given a "classical" introduction to econometrics: You've covered IVs and Diff-in-diff but apparently only in passing, and causal inference does not look like it was the core of the classes you've taken.
+
+army, na, organization, meal, industrial, resident, prize, restaurant, weak, attack
+Although I am not a macroeconomist, I am confident to say that search models recognized as a key ingredient to explain unemployment in equilibrium.
+The other question is whether there is any effect colloquially similar to the 'magical chairs' game in which the latest resident to move into a region of increased popularity will not reap the rewards obtained by the prior residents?
+
+country, rate, currency, exchange, price, export, good, usd, u, foreign
+Assuming China has a 30% inflation rate, while USA and Lebanon have 0 inflation rate, then the fact that the inflation rate differential between China and USA is 30%, while the Chinese nominal exchange rate was devalued by only 20%, implies that in real terms, the Chinese currency (relative to both the USD and Lebanese Pound) has actually appreciated by approximately 10%=30%-20%, leading to Chinese exports looking more expensive to Americans and Lebanese, and American and Lebanese imports looking cheaper to the Chinese.
+Furthermore, before having a deficit, the US has had a surplus for a very long time, so it is natural it would eventually have a deficit.
+
+price, market, agent, model, bid, asset, stock, auction, expectation, seller
+This is the very general statement that can be found from here and there: Investopedia: This principle is called the Efficient Market Hypothesis (EMH), which asserts that the market is able to correctly price securities in a timely manner based on the latest information available.
+In general, the difference between the fundamental value of an asset and its market price constitutes, to some degree, bubble behavior.
+
+career, bring, pursuing, frac, utility, anymore, mathbf, would, q_, p_
+So let's say career A will bring him a utility of 10 and career B a utility of 9.
+Here's the abstract: "The careers of MBAs from a top US business school are studied to understand how career dynamics differ by gender.
+
+steel, soybean, c_a, signaling, t_k, mutant, beer, spence, separating, majority
+Because of this multiplicity a large literature on equilibrium refinements, such as the intuitive criterion or divinity, has emerged.
+For example, "single-dipped" preference profiles (the vertical mirror image of "single-peaked" profiles) also produce transitive majority preferences.
+
+theta, prime, varepsilon, sim, pr, lambda, rule, omega, receiver, domain
+\begin{align*} \int_{\underline{\theta}}^{\bar{\theta}}{u(\theta) dF(\theta)}  = \Big[ u(\theta)F(\theta) \Big]_{\underline{\theta}}^{\bar{\theta}} - \int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\bar{\theta})F(\bar{\theta})-u(\underline{\theta})F(\underline{\theta})-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\bar{\theta})-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \text{ since } F(\bar{\theta})=1, F(\underline{\theta})=0\\  = u(\underline{\theta})+(u(\bar{\theta})-u(\underline{\theta}))-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{u'(\theta) d\theta}-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{v_{\theta}(q(\theta),\theta) d\theta}-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \text{ since } u'=v_{\theta}\\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{(1-F(\theta)) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{\dfrac{1-F(\theta)}{f(\theta)} v_{\theta}(q(\theta),\theta) dF(\theta)} \\  = \int_{\underline{\theta}}^{\bar{\theta}}{u(\underline{\theta})dF(\theta)}+\int_{\underline{\theta}}^{\bar{\theta}}{\dfrac{1-F(\theta)}{f(\theta)} v_{\theta}(q(\theta),\theta) dF(\theta)} \\  = \int_{\underline{\theta}}^{\bar{\theta}}{\Big[u(\underline{\theta})+\dfrac{1-F(\theta)}{f(\theta)} v_{\theta}(q(\theta),\theta) \Big]dF(\theta)} \end{align*}
+$$ Then for $\varepsilon^{\prime}$ sufficiently small, $$x - \varepsilon (1, 1) + \varepsilon^{\prime}(-1, 1) \prec x \prec x + \varepsilon (1, 1) + \varepsilon^{\prime}(-1, 1)$$ by continuity (and for small $\varepsilon^{\prime}$ these points are once again contained in $X$).
+
+mathbf, vert, distribution, capm, cauchy, eu, member, dutch, component, matrix
+But do not take what i am saying for granted: if you really want to know how abusive maintaining your economic interpretations would be, it's all a matter of visualizing/diagnozing the relative weights of your components, e.g.
+$t(y,−\mathbf{x})+(1-t)(y,−\mathbf{x'}) \in Y \implies (ty+(1-t)y, -t\mathbf{x}-(1-t)\mathbf{x'}) \in Y \implies (y,-t\mathbf{x}-(1-t)\mathbf{x'}) \in Y $ Which is just equivalent of saying that: $t\mathbf{x}+(1-t)\mathbf{x'} \in V(y)$ because both $\mathbf{x}$ and $\mathbf{x'}$ are in $V(y)$.
+
+p_s, coke, can, c_s, p_l, c_l, peter, alice, pln, foreign
+Could anyone help me understand the forward bid and ask for PLN/RON for the next 3 months.
+Calculate all initial endowments from which trades lead to $(C_S, C_L, P_S, P_L) = (3, 3, 3, 7)$ as the Walrasian equilibrium.
+
+apple, tariff, biggr, candle, i_i, clothes, kid, product, mu_u, xyz
+The Apple Airpods, Apple Watch and accompanying Apple Watch bands and the Apple Homepod are all products subject to the higher tariffs beginning Sunday.
+If so, what are the tariffs for importing 'candles' from these States? I am wondering where I can find information on tariffs when importing scented candles from States like China, India, Vietnam, Thailand into the U.S.?
+
+sigma_, turnover, ldots, digit, coordinate, decimal, tenure, underlined, n_, monotone
+Is tech giants turnover cheap or unavoidable ? How do they manage turnover costs, generally speaking ?
+x^1_1x^2_1\ldots x^n_1x^1_2x^2_2\ldots x^n_2x^1_3x^2_3\ldots x^n_3\ldots$. The number $f(x)$ will start with the first few decimal digits of $x^1$.
+
+discounting, sigma_a, sigma_b, r_d, commerce, hyperbolic, exponential, bob, wheat, interstate
+Section A gives a summary of this doctrine's development and states: Modern precedents rest upon two primary principles that mark the boundaries of a State’s authority to regulate interstate commerce.
+In footnote [7] of Marx's Capital, T. 1, Sec 1, after ... , p. c. Barbon, t. » (N.
+
+wto, dispute, retaliation, certainty, concession, defendant, resolution, illustrate, nuance, panel
+) Following an arbitration, If defendant stays idle, or if a compliance panel (and/or the AB [Appellate Body], as the case may be) pronounce on the inadequacy of adopted measures, then defendant might be facing retaliation.
+200 dollars with 50% certainty or 100 dollars with absolute certainty both positevely and negatively.
+
+df, np, h_t, missing, print, vegan, manufacturing, data, food, post
+You believe that after 2015, there is a stronger incentive to do something different at quarter end, so the average basis should be different on month end days during that period.
+” Electrical equipment, appliances and components makers noted that the “economy seems to be softening,” adding that “tariffs have caused much confusion in the industry.
+
+airbnb, price, hotel, rental, increase, rent, city, elastic, revenue, omega
+Simple supply and demand economics would suggest that the huge increase in the supply of rooms to rent by Airbnb should have reduced the price of rental significantly in those cities where Airbnb is most popular.
+1Associate head of the School for Aviation and Security at Buckinghamshire New University Note 1: This question does not belong on Aviation.
+
+pi, coffee, sugar, price, s_w, share, unit, broker, buy, one
+At coffee bar $B$ however, they only sell one unit of coffee with one unit of sugar in a bundle, the price of which is equal to $p_3$.
+Brokers might help set up such purchases, but historically they existed as a way to buy equities without using a broker.
+
+http, www, com, textbf, banana, pdf, water, apartment, org, price
+I know that $E(\textbf{x} e) = E(E(\textbf{x} e|\textbf{x})) = E(\textbf{x} E(e|\textbf{x}))$ (by law of iterated expectations and conditioning theorem, respectively), so imposing the assumption that $E(e|\textbf{x}) = \textbf{0}$ yields the implication that $E(\textbf{x} e) = \textbf{0}$.
+The Australian dollar, often viewed by traders as a proxy for the Chinese economy, gained 0.
+
+box, player, machine, z_, joe, s_j, s_i, choose, offer, envy
+The machine's only goal is to predict the player's move correctly, but it does not actually have a defined payoff for making the correct prediction.
+But with fairness preferences, player 2 will actually decline low positive offers as unfair.
+
+price, would, good, cost, one, market, model, example, also, question
+Having been around members of all these organizations, I found them all to be out of touch although I would say that ideally, Libertarianism makes more sense to me these days, but grabbing on to an ideology is never a good way to develop a full and healthy understanding of economics and our world today.
+Mises’s answer is that economics is the science of human action… It is this assessment of economics as an a priori science, a science whose propositions can be given a rigorous logical justification, which distinguishes Austrians, or more precisely Misesians, from all other current economic schools.
+
+price, producer, risk, would, utility, unit, demand, sell, dollar, p_
+From a Cato Institute article by Steve Hanke1 (emphasis added): The Economist’s most recent infraction on Zimbabwe’s hyperinflation appeared in the May 2016 issue.
+As you can see, there's an inverse relationship with the equilibrium price being right in the middle: Producing 5 units with 5 buyers buying each of them at 5 dollars per unit.
+
+br, leftward, israel, shift, cyclic, lm, asian, rer, balassa, xx
+Are there any growth metrics on which Israel was ahead of either Hong Kong, Singapore, South Korea or Taiwan in the second half of XX century?
+In the next level i found the balassa samuelson adjusted rate of rer with linear regression, but for the next level i have to subtract balassa samuelson adjusted rate of rer from numerical value(Rer-BSRer), but i cannot conduct this on r that i cannot subtract value that was found by linear regression.
+
+capitalism, m_r, wood, merchant, rice, ring, ph, corporate, argues, peasant
+1st-year: MWG's $\textit{Microeconomic Theory}$ An example for corporate finance would be lke: MBA-level: ~ Corporate Finance Theory-specific: ~ Ph.D.
+It led to a proto-industrialization, the development of a decentralized putting-out system coordinated by merchants, and later the establishment of (nonmechanized) factories, which introduced division of labor in the production procedure.
+
+treatment, service, member, article, gat, commitment, limitation, ijt, mfn, supplier
+The GATS covers four modes of supply: (1) cross-border supply; (2) supply through the movement of consumers to the location of the supplier; (3) supply though the establishment in a country of the commercial presence of legal entities from another country; and (4) the supply through natural persons of one country in the territory of another.
+As I understand it countries negotiate free trade agreements in services using the WTO GATS.
+
+car, pool, fish, common, boot, cheap, durable, rival, couple, gdp_
+A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
+What Smith says about them makes them sound as if they are not nails. 004 oz , which sounds smaller than a nail.
+
+de, dealer, primary, york, n_u, transformation, la, s_, allowed, participate
+The following Treasury services enable various categories of investors to participate directly: TreasuryDirect accounts: Individuals and various types of entities including trusts, estates, corporations, partnerships, etc. ...
+) Ordinal data allows for any monotonic transformation of the data &mdash; also called "order-preserving" transformations.
+
+w_l, rho, manager, t_l, t_m, w_m, company, gt, varepsilon_t, b_x
+Extra Notes: • the manager’s outside option= the manager wage in the economy •the manager is going to run his own company if he establishes one.
+Did anyone actually suffer such punishment? According to Chang Ha-Joon (2007), in (South) Korea, violation of foreign exchange controls could be punished with the death penalty.
+
+coalition, stagnation, secular, core, natural, steady, hart, ownership, cap, launched
+uk/articles/euets-fees-charges-and-civil-penalties International trading schemes depend on international law.
+The incomplete contracting approach to the theory of the firm (sometimes called the property rights approach or the GHM model) was developed in the following two papers: Grossman, S.J.
+
+frac, function, x_, partial, p_, beta, equation, right, alpha, left
+and $\{L_t\}_{t \in [0,T]}$ is a $( \mathscr F_t , \mathbb P)$ martingale where $$L_t := \exp(-\int_0^t \theta_s dW_s - \frac 1 2 \int_0^t \theta_s^2 ds)$$ Let $\mathbb Q$ be the probability measure defined by $$Q(A) = \int_A L_T dP \ \forall A \in \ \mathscr F$$ or $$L_T = \frac{d \mathbb Q}{d \mathbb P}$$ Then $\{W_t^Q\}_{t \in [0,T]}$ defined by $$W_t^Q := W_t + \int_0^t \theta_s ds$$ is standard $\mathbb Q$-Brownian motion.
+Therefore, we should also have $ f(k,n_2) = c_2 $ I believe Edit 3 : My profit maximisation gives me : $ \frac{\alpha}{1-\alpha} n_2 w = k q $ Edit 4 after @X recommendation : So I do the lagrangian and derivatives, which gets me : $ \frac{1}{c_1} = \lambda p_1 $ $ \frac{\beta}{c_2} = \lambda p_2 $ $ \beta = \lambda w $ $ p_1 = q $ After computing, I find : $ c_1 = \frac{p_1 \bar y + w n_2 - \pi}{p_1(1+\beta)} $ and $ x = k = \bar y - c_1 = \frac{\beta p_1 \bar y - w n_2 + \pi}{p_1(1+\beta)} $ But still having trouble regarding my original issue, $ n_2 $ : I did , according to your advices : $ \frac{\alpha}{1-\alpha} n_2 w = k q $ $ \frac{\alpha}{1-\alpha} n_2 \frac{\beta}{\lambda} = \frac{\beta p_1 \bar y - w n_2 + \pi}{p_1(1+\beta)} p_1 $ $ \frac{\alpha}{1-\alpha} n_2 \beta p_1 c_1 = \frac{\beta p_1 \bar y - w n_2 + \pi}{(1+\beta)} $ $ \frac{\alpha}{1-\alpha} n_2 \frac{\beta}{1+\beta}(p_1 \bar y + w n_2 - \pi) = \frac{\beta p_1 \bar y - w n_2 + \pi}{(1+\beta)} $ $ \frac{\alpha}{1-\alpha} n_2 \beta(p_1 \bar y + w n_2 - \pi) = \beta p_1 \bar y - w n_2 + \pi $ $ n_2 \beta(p_1 \bar y + w n_2 - \pi) = \frac{1-\alpha}{\alpha} \frac{\beta p_1 \bar y - w n_2 + \pi}{\beta(p_1 \bar y + w n_2 - \pi)} $ Still pretty stupid as results ...
+
+fuel, airline, truck, flight, plane, passenger, price, airport, burn, macro
+Car prices haven’t gone up due to the majority of auto makers profits being from the truck and SUV market.
+) Question I hope I did not over-simplify the matter, and I would like to understand what is the regulation the article refers to and what is the logic behind the perceived "more prone to volatility?"
+
+circ, xt, x_a, x_n, t_n, excludable, andrew, t_a, fish, pk
+PK\circ gk) \sim (P2\circ g2, ((1-P2)\circ ((P1/1-P2)\circ h1,(P3/1-P2)\circ g3,..
+$(t_N(x_N)$ $$q’(x_N)(t_N(x_N)-kx_N)+q(x_N)[t’_N(x_N)-k]=0$$ $$t_N(x_N)={q’(x_N)kx_N-q(x_N)[t’_N(x_N)-k]\over q’(x_N)}$$ Similar for Andrew $$t_A(x_A)={q’(x_A)kx_A-q(x_A)[t’_A(x_A)-k]\over q’(x_A)}$$
+
+space, theta_i, beta, m_zx, alpha_k, m_zu, ex, s_t, ir, location
+$$ Also we define $$h_i(\theta_{-i}) = - \frac{1}{N-1} \sum_{i\neq j}\xi_j(\theta_j)$$ Now I want to check whether is it true or not that this mechanism satisfies ex post individual rationality.
+Thus $E(s_z^2) = \frac{E[(M_zX\beta + M_zu)^T(M_zX\beta + M_zu)]}{n-r} = \frac{1}{n-r}( E[(M_zX\beta)^T(M_zX\beta)] + E[(M_zX\beta)^T(M_zu)] + E[(M_zu)^T(M_zX\beta)] + E[(M_zu)^T(M_zu)]) = \frac{1}{n-r}( E[(M_zX\beta)^T(M_zX\beta)] + 2E[(M_zX\beta)^T(M_zu)] + E[(M_zu)^T(M_zu)]) = \frac{1}{n-r}( E[||M_zX\beta||_2^2] + 2E[\beta^TX^TM_zu] + E[(M_zu)^T(M_zu)]),$ as $(M_zX\beta)^T(M_zu) = (M_zu)^T(M_zX\beta) = \beta^TX^TM_z^TM_zu = \beta^TX^TM_zu \hspace{.
+
+oilinos, changer, tonne, would, inflation, rate, example, delta, good, growth
+In Oilonia the currency is oilinos and the main moneychanger is Bancoilio. "Could we borrow the 4 million oilinos?
+However, if the government takes away from the market 1,000 tonnes, then the supply curve will shift left by that amount, resulting in a new equilibrium with 4,000tonnes @ \$2.
+
+s_i, cheese, sigma_i, s_, lambda_i, sandwich, eating, pi, p_, cheaper
+In this example, we can think of cheese (x) and crackers (y) as perfect complements, but cheese will be a perfect substitute for a cracker and cheese sandwich.
+By linearity of the payoff function you have, $\forall s_{-i}\in S_{-i}$: $$ \pi(\sigma_i',s_{-i})=p_{s_i}\pi(s_i',s_{-i}) + (1-p_{s_i})\pi(\Lambda_i,s_{-i})  p_{s_i}\pi(s_i,s_{-i}) + (1-p_{s_i})\pi(\Lambda_i,s_{-i}) = \pi(\sigma_i,s_{-i}) $$ where $\Lambda_i$, loosely speaking, denotes the residual combination of strategies played in $\sigma_i$, apart from $s_i$, inherited by $\sigma_i'$ too.
+
+dealer, tau_, gambling, db, θ_, rf, tractor, da, h_u, car
+So knowing $GDPc = \frac{GDP}{pop}$ you can write: $$ \tau_{GDPc} = \frac{\frac{GDP(t)}{pop(t)} - \frac{GDP(t-1)}{pop(t-1)}}{ \frac{GDP(t-1)}{pop(t-1)}}$$ With the definition of the rate of change, you write $$pop(t)= pop(t-1)*(\tau_{pop}+1) $$ You can then simplify the $pop(t-1)$ term in the previous equation and you get $$\tau_{GDPc} = \frac{1}{\tau_{pop}+1}\left[\frac{GDP(t)-GDP(t-1)}{GDP(t-1)}-\tau_{pop}\right] $$ $$\tau_{GDPc} = \frac{1}{\tau_{pop}+1}\left[\tau_{GDP}-\tau_{pop}\right]$$ It is indeed different than Brandon marcus answer.
+Also note how the input of unskilled labor in the manufacturing sector has been replaced by $H_u^m=H_u-H_u^f$, that is to say, the manufacturing sector uses all the unskilled labor that is left over from the farming sector (we assume that the stock of unskilled labor ($H_u$) is fixed for the period of study).
+
+p_x, p_y, l_, r, frac, omega, refugee, c, p_z, change
+Suppose we have two goods, price changes in the two are independent; having seen this question I am considering why the change in total Consumer Surplus is the sum of the change in Consumer Surplus for the two goods separately (if this is true)?
+I get that the Hicksian and Marshallian demand functions are $x^* = \frac{p_y}{p_x} y = \frac{I}{2 p_x} $ respectively.
+
+token, z_t, q_t, buy, meme, sell, curve, λ_, enthusiast, sa
+I just taught my students that signalling is useless in Matching Pennies and Rock, Paper, Scissors.
+Ultimately, whilst this game is being played, these memes are also being curated themselves: more tokens bonded to a meme is a signal that is a funnier meme than a meme with fewer bonded tokens.
+
+seed, framing, chance, richer, certain, choice, random, thaler, today, imagine
+I therefore suggest instead the following, because it retains the symmetry of imagining in both framings: Positive framing of certain outcome Imagine you are \$50 richer than you are today.
+These functions are deterministic algorithms that produce numbers that can pass for random.
+
+ethical, hospital, charity, affordable, patient, visit, colony, organization, coordination, care
+Accountable Care Organizations were created by the Affordable Care Act in 2011 in order to improve quality of care and reduce costs for patients and are part of a change from fee-for-service payments towards value-based payments in healthcare.
+The guiding objectives are grounded on moral and altruistic behavior, but as humans are collectively more selfish in reality, this does not work too well.
+
+sargent, alpha_, hansen, lars, robustness, thomas, gun, delta, cesdata, ln
+I would like to have a primer on how the current slowdown of the German economy is affecting its partners, for instance France, Spain and Italy.
+Lars Hansen and Thomas Sargent, two leading macroeconomists, push the field forward as they set about answering this question.
+
+demanded, quantity, dp, price, dq, change, elasticity, demand, inelastic, perfectly
+Then $\varepsilon_p$ is not well-defined (you divide by zero), but you can think of a sequence of very flat declining lines that approach the horizontal demand such that $dP/P\rightarrow 0$ and $\varepsilon_p \rightarrow \infty$.
+6 %ΔQDm = -6% Pm2 = £55 QDm2 = 940 Import Spending = £51,700 Trade balance = +£300 In this case if the sum of the elasticities equals 1, there has been an improvement in the trade balance, but I would have expected the trade balance to have been unchanged.
+
+remittance, exclude, bad, individual, unable, noise, com, excludability, public, w_i
+It is pretty clear to me what $W_{i,j}$ is (for instance, the weights in kernel matching).
+For a public good, non-excludability is normally taken to mean that the provider of the good is unable to exclude individuals from benefiting from the good .
+
+glass, bottle, fund, manager, kahneman, daniel, typical, etf, helping, recycling
+I think this Quora discussion on the fund manager illusion of validity told most of the story.
+My understanding is, glass will breakdown into sand. Therefore could I make the case that not recycling my glass bottle is helping with employment.
+
+p_n, cdots, faire, laissez, p_, ideal, dc, woman, era, see
+There is an ongoing project to try and estimate how close a society is to the ideal, see the indices of economic freedom by the Heritage Foundation and the Fraser Institute.
+Pick any set of non-negative $p_1,\dots,p_n$ such that $p_1+\cdots+p_n=1$. The convex combination of degenerate lotteries $L^1,\dots,L^n$ with the $p_i$'s can be written as \begin{align} p_1L^1+\cdots+p_nL^n=p_1(1,0,\dots,0)+\cdots+p_n(0,\dots,0,1)\\ =\bigl(p_1(1)+p_2(0)+\cdots+p_n(0),\;\dots,\;p_1(0)+\cdots+p_{n-1}(0)+p_n(1)\bigr)\\ =(p_1,\dots,p_n).
+
+gen, emp, sd, h_, active, usury, re, capitalism, null, alternative
+res * variance egen sdreer = sd(dreer) gen varreer = sdreer^2 egen sdr = sd(dr) gen varr = sdr^2 egen sdres = sd(dres) gen varres = sdres^2 * inverse variance gen oreer=1/varreer gen or=1/varr gen ores=1/varres * emp gen emp= oreer*(dreer)+or*(dr)+ores*(dres) egen muemp= mean(emp) egen sdemp= sd(emp) gen two_sdemp= 2*sdemp gen two_sdemp_pmu=two_sdemp+muemp gen cc=0 replace cc=1 if emp=two_sdemp_pmu replace cc=0 if emp==.
+In this case, you reject $H_0$ in favor of $H_1$ if your t-value (not the absolute t-value, but the t-value itself) is bigger than the one-tailed critical value.
+
+interval, non, song, succsim, lagged, aggregator, rivalry, riding, offshore, excludability
+Yet there is also non-excludability: Even if someone loses the bidding war, they can listen to the song chosen by the other person.
+returns are excluded to avoid simultaneity problems” However what is the rationale for lagging?
+
+utility, function, preference, individual, choice, axiom, allocation, ordinal, m_, expected
+I’ve been trying to think of social welfare functionals which meet all of Arrow’s conditions–––unrestricted domain, weak Pareto, independence of irrelevant utilities, and non-dictatorship (see this entry for definitions)–––plus (invariance with regard to) absolute-scale full-comparability (AFC).
+WARP/SARP differ from GARP in that the former presumes the availability of infinitely many choice data to build a choice function with, whereas GARP only requires a finite set of choice data.
+
+col, weighting, state, wage, mw, iota, r_m, singer, humane, aw
+I assume that weighting COL in MW particularly is better than weighting COL in average wage (AW), because, although there are few families with extremely high wages, their wages bias AW extremely upwards, while MW is less effected from such extreme cases.
+Note the projection matrix $P_{\iota} = \iota(\iota'\iota)^{-1}\iota'=\frac{1}{n}\iota\iota'$, and $P_{\iota}y=\bar{y}$.
+
+announcement, chapter, ic, state, realized, mwg, agent, compatibility, kehoe, incentive
+B introduces IC for truthful implementation Krishna (2010) chapter 5 is similar to the previous MWG chapter, but draws out more implications of IC.
+I am working with a Realized GARCH model. I have am having some trouble understanding a concept: Paper: Realized GARCH: A Complete Model of Returns and Realized Measures of Volatility, Hansen  Haung "A key feature of the Realized GARCH framework is a measurement equation that relates the observed realized measure to latent volatility".
+
+a_, epsilon, u_, cdot, e_, ilo, big, case, time, block
+(A) find the functions $a^*_3(a_1, a_2, \epsilon)$ and $a^*_4(a_1, a_2, \epsilon)$ such that $\forall (a_1,a_2,\epsilon)\in A_1\times A_2\times E$ $$ \begin{cases} a_3^*(a_1, a_2,\epsilon)\in argmax_{a_3(\cdot)}u_1(a_1, a_2, a_3(a_1, a_2,\epsilon), a_4(a_1, a_2,\epsilon))\\ a_4^*(a_1, a_2,\epsilon)\in argmax_{a_4(\cdot)}u_2(a_1, a_2, a_3(a_1, a_2,\epsilon), a_4(a_1, a_2,\epsilon))\\ \end{cases} $$ (B) find $(a_1^*, a_2^*)\in A_1\times A_2$ such that $$ \begin{cases} a_1^*\in argmax_{a_1}E_{P_{\epsilon}}\Big[u_1(a_1, a_2, a^*_3(a_1, a_2,\epsilon), a^*_4(a_1, a_2,\epsilon),\epsilon)\Big]\\ a_2^*\in argmax_{a_2}E_{P_{\epsilon}}\Big[u_2(a_1, a_2, a^*_3(a_1, a_2,\epsilon), a^*_4(a_1, a_2,\epsilon),\epsilon)\Big]\\ \end{cases} $$ A subgame perfect Nash equilibrium is $$a_1^*, a_2^*, \underbrace{a_3^*(a_1,a_2,\epsilon)}_{\text{Function of 3 arguments}}, \underbrace{a_4^*(a_1,a_2,\epsilon)}_{\text{Function of 3 arguments}}$$?
+I find it by backward induction: (A) find the functions $a^*_3(\cdot)$ and $a^*_4(\cdot)$ such that $\forall (a_1,a_2)\in A_1\times A_2$ $$ \begin{cases} a_3^*(a_1, a_2)\in argmax_{a_3(\cdot)}u_1(a_1, a_2, a_3(a_1, a_2), a_4(a_1, a_2))\\ a_4^*(a_1, a_2)\in argmax_{a_4(\cdot)}u_2(a_1, a_2, a_3(a_1, a_2), a_4(a_1, a_2))\\ \end{cases} $$ (B) find $(a_1^*, a_2^*)\in A_1\times A_2$ such that $$ \begin{cases} a_1^*\in argmax_{a_1}u_1(a_1, a_2, a^*_3(a_1, a_2), a^*_4(a_1, a_2))\\ a_2^*\in argmax_{a_2}u_2(a_1, a_2, a^*_3(a_1, a_2), a^*_4(a_1, a_2))\\ \end{cases} $$ Question: a subgame perfect Nash equilibrium is $$ \{a_1^*, a_2^*, \underbrace{a^*_3(\cdot), a^*_4(\cdot)}_{\text{Functions}}\} $$ or $$ \{a_1^*, a_2^*, \underbrace{a^*_3(a_1^*), a^*_4(a_2^*)}_{\text{Point in the image set of the functions $a^*_3(\cdot), a^*_4(\cdot)$}}\} $$ ?
+
+meat, p_xx, p_yy, get, side, add, industrial, organic, insensitive, ration
+25/p_yy$$ Multiply both sides by $p_xx p_yy$, you get: $$0. 75p_xx$ to both sides, you get: $$0.
+As "Eco-meat-eater" you do vote with your wallet and maybe convince your grocery store to add more environmentally friendly meat to its assortment.
+
+hat, cohort, pd, red, g_x, pf, alpha_, ytm_n, security, steven
+"Returns paid to early social security cohorts. , and Ronald Lee. , Robert Gillingham, and John S.
+We've already found $\frac{\partial E(Y_1|N,I)}{\partial I}$ above, so we need to calculate $\frac{\partial E(Y_1|N,I)}{\partial N}$ $=\hat{\alpha_1}+2\hat{\alpha_2}N+\hat{\alpha_5}I$ From here $\frac{\partial E(Y_1|N,I)}{\partial I}|_{N=N^*,I=I^*}=\frac{\partial E(Y_1|N,I)}{\partial N}|_{N=N^*, I=I^*}$ $\hat{\alpha_3}+2\hat{\alpha_4}I^*+\hat{\alpha_5}N^*=\hat{\alpha_1}+2\hat{\alpha_2}N^*+\hat{\alpha_5}I^*$ $\rightarrow (\hat{\alpha_5}-2\hat{\alpha_2})N^*=(\hat{\alpha_1}-\hat{\alpha_3})+(\hat{\alpha_5}-+2\hat{\alpha_4})I^*$ $\rightarrow N^*=\frac{(\hat{\alpha_1}-\hat{\alpha_3})+(\hat{\alpha_5}-+2\hat{\alpha_4})I^*}{(\hat{\alpha_5}-2\hat{\alpha_2})}$ I bet the optimal irrigation and fertilizer decision would equate the marginal product of fertilizer per dollar spent on fertilizer with the marginal product of irrigation per dollar spent on irrigation which would be $\frac{\hat{\alpha_3}+\hat{\alpha_4}+\hat{\alpha_5}N}{P_{irrigation}}=\frac{\hat{\alpha_1}+2\hat{\alpha_2}N+\hat{\alpha_5}I}{P_{fertilizer}}$
+
+risk, xsp, cad, premia, recycling, hedging, manager, preferential, usd, personal
+, Lewis (1995)) Consequently, much of the literature has focused on explaining conditional currency risk premia by ruling out asymmetries (e.g.
+In this risk chart they show that XSP has both kinds of risks, because the hedging is imperfect so XSP still has currency risk.
+
+id, xx, df, al, year, lt, state, paste, xtreg, merge
+To merge them into a company-state level panel data (repeated the variables in DF1) as Art's answer suggests: idx - match(paste(DF2$ID, DF2$Year), paste(DF1$ID, DF1$Year)) for (v in c('x1', 'x2', 'x3')) DF2[[v]] - DF1[idx,v] Full example: DF1 - data.
+The two propositions here are: EMH: I can't predict which stocks will do better than average.
+
+q_, firm, q_i, pi_, p_, response, best, profit, dq_, cournot
+Then, you solve Firm 1's profit maximization, with Firm 1 correctly anticipating the responses of the subsequent two firms: \begin{equation} \max_{q_1}\; \bigl(16-q_1-q_2^*(q_1)-q_3^*(q_1,q_2)\bigr)q_1.
+Let $\pi_1(q_1, q_2), \pi_2(q_1, q_2)$ denotes firm 1's profit and firm 2's profit respectively when firm 1 produces $q_1$ and firm 2 produces $q_2$.
+
+j_, composite, neighborhood, tenant, province, bike, sharing, lot, spread, gentrification
+At first glance it would appear to be a horrible model: lots of liability, lots of maintenance, lots of criminality and endless opportunity for annoyance through dumped bikes causing inconvenience.
+Part of the process of gentrification is that (typically) younger, hipper bohemian types move into a formerly low-rent neighborhood, and in virtue of their mere presence (and those of the businesses they frequent/establish/work at) they make the neighborhood more desirable.
+
+voting, n_l, q_l, q_n, n_n, c_n, clarke, w_h, product, pi_n
+If $\pi_n(N-1, 1)  \pi_l(N, 0)$, each of the $N$ firms sells $q_l^* = Q_l(N,0)/N$ of product $l$ where $Q_l$ satisfies $(7)$ and no firms sell product $n$.
+As such a Vickrey-Clarke-Groves auction applied to a Cardinal Voting would provide incentive compatibility.
+
+power, strong, d_i, calculator, plant, mwh, nbsp, form, news, problem
+The response to the two versions of problem 10 were markedly different: 68 percent of respondents were willing to make an extra trip to save \$5 on a \$15 calculator; only 29 percent were willing to exert the same effort when the price of the calculator was \$125. ...
+It's only when the spot price is negative for more than six hours, renewable power producers are not guaranteed the minimum price anymore.
+
+swiss, franc, pizza, textrm, pop, russia, broker, watch, u, forex
+Let's assume the Forex broker gives the ambassador some Swiss Francs and off he goes and gets the watch.
+It doesn't seem to me that there were any substantive differences between the Bretton Woods regime and the gold standard, as seen in the early 1970s, when Richard Nixon was forced to remove the US Dollar from its gold peg.
+
+kkt, condition, ii, maximum, global, coal, qualification, theorem, slater, marriage
+Indeed, the KKT conditions (i) and (ii) cannot be necessary---because, we know (either by Weierstrass, or just by inspection as you have done) a solution to $(*)$ exists while (i) and (ii) has no solution in $\{ g \leq 0 \}$.
+I am looking for an overview as most of the introduction to matching talks about the work done in the Marriage market, Job Matching which is axiomatic.
+
+ticket, movie, energy, crop, eta, tx, bread, price, kg, p_j
+5kg}{kWh} \approx 277\frac{kg}{tx}$ If the whole energy used for bitcoin was produced in germany one bitcoin transaction would have a carbon footprint of 277kg.
+More generally, what is required of a numeraire? Real aggregate demand is $$ C = \left(\sum_j c_j^{(\eta-1)/\eta}\right)^{\eta/(\eta-1)} $$ and labor supply is inelastic, so the budget constraint is $ \sum_j p_j c_j = W $ and the demand function is $$ c_j^{*} = \frac{C P^{\eta}}{p_j^{\eta}} $$ where $$ P = \left(\sum_j p_j^{1-\eta} \right)^{1/(1-\eta)} $$ is the ideal price index.
+
+player, game, strategy, equilibrium, payoff, probability, t_, nash, theta, action
+If we consider the definition of a Nash Equilibrium,and carefully consider the strategy sets for each player, we can see there are at least 10 Pure Strategy Nash Equilibria: $$(s_1^*,s_2^*) \in \{(0,8),(1,7),(2,6),(3,5),(4,4),(5,3),(6,1),(7,1),(8,0),(8,8-s_1)\}.
+\documentclass{standalone} \usepackage{istgame} \begin{document} \begin{istgame}[font=\scriptsize] \setistmathTF*001{textsc} % input mode changer \setistgrowdirection{-45} % direction %% tree \xtdistance{10mm}{20mm} \istroot(1){1} \istb{Out}[l]{(1,0)}[b] \istb{In}[a] \endist \istroot(2)(1-2){2} \istb{Out}[l]{(0,2)}[b] \istb{In}[a] \endist \istroot(3)(2-2){1} \istb{Out}[l]{(3,1)}[b] \istb{In}[a] \endist \istroot(4)(3-2){2} \istb{Out}[l]{(2,4)}[b] \istb{In}[a] \endist \istroot(5)(4-2){1} \istb{Out}[l]{(5,3)}[b] \istb{In}[a] \endist \istroot(6)(5-2){2} \istb{Out}[l]{(4,6)}[b] \istb{In}[a]{(7,5)}[r] \endist \end{istgame} \end{document} For the another example: \documentclass{standalone} \usepackage{istgame} \begin{document} \begin{istgame}[font=\scriptsize] %% for arrows (optional) \xtShowArrows \xtShowEndPoints[ellipse node] \xtHideTerminalNodes %% some more optional settings \setistEllipseNodeStyle{15pt}[blue!
+
+tax, income, wealth, saving, rate, inequality, consumption, government, household, increase
+They also find that dropping the wealth taxes didn't change this pattern, however, they attribute this to an "equalizing force": One important confounding reason why wealth inequality has stabilized in Denmark (despite wealth tax cuts) is likely to be the sharp rise of pension wealth, from around 50% of national income in the late 1980s to 178% in 2014.
+A major concern is also that a substantial share of the private wealth of the top 1% is invested in productive firms which employ millions of people.
+
+homothetic, psi_u, matched, nu, nu_s, twice, seller, forall, au, ay
+Here's another way, using the same notation as Adam, to get to the same result: $$P(\text{another match | being matched}) = P(\text{searching twice | being matched})\cdot P(\text{another match | searching twice}) $$ Now, $$P(\text{searching twice | being matched}) = \frac{P(\text{searching twice and being matched})}{P(\text{being matched})} \\ = \frac{\psi_u 2 \nu_s}{(1+\psi_u)\nu_s} $$ $$P(\text{another match | searching twice}) = \frac{P(\text{another match and searching twice})}{P(\text{searching twice})} \\ = \frac{\psi_u \nu}{\psi_u} $$ So, $$P(\text{another match | being matched}) = \frac{\psi_u 2 \nu_s}{(1+\psi_u)\nu_s}\frac{\psi_u \nu}{\psi_u} = \frac{2\psi_u\nu}{(1+\psi_u)}$$
+Are there any works covering this property? A Homothetic Utility is where $$ \forall x,y, \forall a \in \mathbb{R}_+: \ u(ax,ay)=au(x,y) $$ (or its monotonic transformation).
+
+sigma, widetilde, trump, t_j, exposure, white, certificate, align, retirement, end
+If there is any segregation in economic enterprise between the races then it may be rational for whites to seek education and blacks to not.
+Thus the intended effect of emission right certificates would be undermined. If a company emits more than it is allowed to it pays a fine (to the country where the pollution occurs).
+
+c_, period, m, mr, consumption, youth, decline, linguistic, dollar, axis
+A my attempt: a) for A: $C_2^A=(Y_1^A-C_1^A)(1+r) + Y_2^A$ for borrow this becomes: $C_2^A=(C_1^A-25,000)(1+200/100)+15,000$ or, $ C_2^A=3C_1^A-60000$ for lend this becomes: $C_2^A=(25,000-C_1^A)(1+0/100)+15,000$ or, $C_2^A=40,000-C_1^A$ my idea was to supersede one over the other and draw the kinked budget line but the borrow budget line in this case is totally below the x-axis and similarly for Mr.B.
+I am not interested in the overall impact pay-to-play has on all youth sport participants.
+
+lifetime, unfunded, npv, technology, sf, funded, bedroom, arch, relocation, integrate
+When does the liability become funded or unfunded? And if it is unfunded, at what point does it become funded?
+Technology C, which has a lifetime of 25 years. Technology B, which has a lifetime of 20 years.
+
+ice, cream, participant, reward, tau, cereal, time, rl, l_a, varepsilon_
+05, reward decay rate is 1 each turn and the tn = 30. First participant wins at t10 and claims a reward of (100 - 10 * 1) = 90.
+Should we set the seed in the random number generator in each period $\tau$, such that all $I$ iterations of evaluating $y_{\tau+1}$ use the same error term $\varepsilon_{\tau+1}$ when computing this forecast?
+
+year, gdp, value, data, variable, would, price, capital, time, growth
+For example, in the release notes for quarterly GDP of the US economy (see link above), towards the end there is a section called "Updates to GDP", which contains: BEA releases three vintages of the current quarterly estimate for GDP: "Advance" estimates are released near the end of the first month following the end of the quarter and are based on source data that are incomplete or subject to further revision by the source agency; “second” and “third” estimates are released near the end of the second and third months, respectively, and are based on more detailed and more comprehensive data as they become available.
+For example, let: -INT is an 0/1 indicator variable to use in the interaction -AVG_Overall is an average value of variable X for all individuals in groups A and B -AVG_A is the average value of variable X for individuals in group A ONLY -AVG_B is the average value of variable X for individuals in group B ONLY -Y is the dependent variable Is it appropriate to estimate the following regression?
+
+monthly, percentage, f_t, decimal, mdp, formula, zone, target, yearly, expressed
+As far as i understand in the Krugman target zone model the following equation describes the behaviour of the exchange rate within and outside a target zone $s_t = f_t + \alpha E_t(ds_t/dt)$.
+The monthly payment formula is based on the annuity formula. Since the quoted yearly percentage rate is not a compounded rate, the monthly percentage rate is simply the yearly percentage rate divided by 12; dividing the monthly percentage rate by 100 gives r, the monthly rate expressed as a decimal.
+
+would, x_, value, lambda, price, demand, could, one, function, model
+So there appears to be a discrepancy between two different measures of "economic profit".
+I would look at the financial economics, financial intermediation, banking, finance, handbooks.
+
+l_k, aircraft, movement, cap, cup, subset, pregnant, type, collective, negative
+For each type $l$, we know the number of movements, $n_{l}$, and the overall runway costs, $c_{l}$, associated with type $l$ aircrafts.
+You take a pregnancy test if the pregnancy test gives a positive result when you are not pregnant then this is a false positive, a Type I error when the null hypothesis $H_0$ is in fact true but has been rejected by the test if the pregnancy test gives a negative result when you are pregnant then this is a false negative, a Type II error when the null hypothesis $H_0$ is in fact untrue but has not been rejected by the test So in a statement of being a true/false positive/negative test, the true/false part is about the accuracy of the test while the positive/negative part is about the result of the test rather than being the real situation
+
+cooky, logically, ingredient, demonstrate, isnt, equipment, price, laborer, checking, generates
+Bottom line we can demonstrate it, but its logically consistent enough for us to take it for granted.
+What I believe it happens it's part of what is earnt by a person or group is lost by other and other part isnt.
+
+err, ride, n_j, phone, trump, apple, donald, ytm, tariff, president
+Apparently Trump had personally promised Tim Cook back in June that Apple phones would not be affected.
+Suppose the shock to $n_j$ is totally exogenous for simplicity. Is there a causal framework that allows me to estimate the impact of $n_j=1$?
+
+mathcal, information, set, distribution, decision, signal, p_, structure, action, underline
+\\ \end{aligned} $$ Let $\mathcal{Q}^*$ be the collection of all optimal strategies of the choice problem above, that is $$ \mathcal{Q}^*\equiv \Big\{\mathcal{P}_{Y|V}: \forall v\in \mathcal{V}, \forall y \in \mathcal{Y}\\ \hspace{6cm}\underbrace{P_{Y}(y|v)0 \Rightarrow u(y, v) \geq u(\tilde{y},v)\text{ } \forall \tilde{y}\neq y}_{\text{This is not a linear constraint because of the form "IF ...
+A one-player BCE of the game described is a probability distribution $P_{Y,V}\in \Delta(\mathcal{Y}\times \mathcal{V})$ such that: 1) $\forall v \in \mathcal{V}$ $$\sum_{y\in \mathcal{Y}}P_{Y,V}(y,v)=P_V(v)$$ 2) $\forall y\in \mathcal{Y}$ and $\forall \tilde{y}\neq y$ $$ \sum_{v\in \mathcal{V}} [u(y,v)-u(\tilde{y},v)] \times P_{Y,V}(y,v)\geq 0 $$ Let $\mathcal{P}$ be the set of BCE.
+
+v_i, v_, bidder, u_i, m_i, textbf, expected, dv_, distribution, geq
+From here, we get that \begin{equation} \begin{split} u_i(v_i)  \geq v_iq(v_i^{'})-m_i(v_i^{'})\\ =v_iq(v_i^{'})-m_i(v_i^{'}) + v_i^{'}q(v_i^{'}) - v_i^{'}q(v_i^{'}) \\ = (v_i - v_i^{'})q(v_i^{'}) + (v_i^{'}q(v_i^{'})-m_i(v_i^{'}))\\ = (v_i - v_i^{'})q(v_i^{'}) + u_i(v_i^{'}), \,\,\, or, \\ u_i(v_i)-u_i(v_i^{'})  \geq (v_i - v_i^{'})q(v_i^{'})\,\,\,\,\,\,\,\, -(1) \end{split} \end{equation} Similarly, we can get $$u_i(v_i^{'})-u_i(v_i) \geq (v_i^{'} - v_i)q(v_i)\,\,\,\,\,\,\,\, -(2)$$ From $(1)$ and $(2)$, we get that $$(v_i - v_i^{'})q(v_i^{'}) \leq u_i(v_i)-u_i(v_i^{'}) \leq (v_i - v_i^{'})q(v_i)$$ Given the above expression, is it possible to write the expected utility function as $$u_i(v_i) = u_i(a) + \int_a^{v_i}q_i(t)\, dt,$$ for any distribution.
+That is the reason why you can write $$u_i(v_i) \geq u_i(v_i^{'}) = v_iq(v_i^{'})-m_i(v_i^{'})$$ instead of $\widetilde u_i (v_i^{'},v_i) = v_iq(v_i^{'},v_i)-m_i(v_i^{'},v_i)$.
+
+one, rate, utility, market, price, good, currency, unit, government, would
+So there appears to be a discrepancy between two different measures of "economic profit".
+I would look at the financial economics, financial intermediation, banking, finance, handbooks.
+
+capitalism, industrial, agrarian, keynesianism, mercantilism, revolution, exploitation, century, th, difference
+What's the difference between "industrial capitalism" and "agrarian capitalism" and "mercantilism" and the "industrial revolution" and the 20th century ideas of "Keynesianism"?
+You are talking about the inverse of the exploitation rate. Surplus value = exploitation rate x use value Wages = (1/exploitation rate) x use value
+
+amp, x_, hline, boldsymbol, text, quad, array, qquad, begin, end
+Therefore, $$ \boldsymbol X_1^* = \left(\boldsymbol I -\boldsymbol X_2 \left(\boldsymbol X_2^T\boldsymbol X_2\right)^{-1}\boldsymbol X_2^T\right)\boldsymbol X_1.
+6} = y(x*,x*)\qquad(27)$ $\quad c(x_1,x_2) = 20(x_1 + x_2) + x_1^2 + x_2^2$ $\quad = 20[(\sqrt{x_1} - \sqrt{x_2})^2 + 2\sqrt{x_1x_2}] + (x_1 – x_2)^2 + 2x_1x_2$ $\quad \boldsymbol{} 2[20\sqrt{x_1x_2}) + (\sqrt{x_1x_2})^2] = c(x*,x*)\qquad(28)$ Thus the input combination $(x*,x*)$ yields the same output at lower cost than $(x_1,x_2)$, and so the latter does not correspond to a point on the LRAC.
+
+beta_i, borrowed, bin, constrain, prod_, gamma_j, constrained, np_j, geary, gamma_i
+But, why is private debt linked in the background as a variable that influences this borrowing constrain, i.e.
+I'm having trouble showing Roy's identity for the following Stone-Geary utility function: $$U(x)=\prod_{i=1}^n\left(x_i-\gamma_i\right)^{\beta_i}$$ where $\sum \beta_i=1$ and $\gamma_i$ is the minimal consumption of $x_i$.
+
+q_b, c_b, c_g, q_g, pi, y_b, y_g, x_b, c_, cointegrated
+$ x_g$ and $ x_b $ is the quantity of state contingent claims, while $ q_g$ and $ q_b$ is the price of these state contingent claims.
+However, crucial caveat here is that this holds only asymptotically and only for $R^2$ close to unity.
+
+money, rate, bank, interest, inflation, would, bond, government, debt, central
+Too low, and the opposite happens: sell bonds; less money; less excess reserves; more borrowers; higher interest rates; lower inflation.
+Or more aptly, they may believe the only way you can pay this interest is by printing money, decreasing the value of money and potentially leading to inflation or a runaway zimbabwe situation So the destruction of currency reduces the financial liabilities of a central bank, benefitting its balance sheet.
+
+currency, mathop, loc, usd, village, restriction, s_y, kr, quote, convertible
+Assume that the confidence the board does not reduce and neither does it ability to maintain USD reserves.
+Currency pairs quotes work such that one unit of the base currency can be exchanged for quoted amount of the quote currency (hence the name "quote currency").
+
+carbon, vat, fee, strictly, prefers, price, year, indifferent, map, value
+0) // Carbon Fee SAFE_GUARD Carbon_Fee = Carbon_Fee + $10; -----HR 763 Default Worst Case Scenario Carbon Fee Worst Case Scenario Carbon Fee It seems to me that the price elasticity of demand for gasoline might be a good worst case scenario proxy for the price elasticity of demand for carbon.
+) A trivial example of a SCR that is incomplete or violates the unrestricted domain condition is that which maps each of profiles 1–8 to the preference "strictly prefer $B$ to $A$", but fails to map profile 9 to any preference.
+
+bike, tuition, healthcare, mdash, pi_l, pi_h, offering, college, announce, company
+Sometimes, companies that are essentially still under the control of the founders &mdash; even though they have done an initial public offering and are now publicly traded &mdash; will do a secondary offering in which the company itself purchases stock from the founders, and sells that stock on the market, rather than actually issuing new stock.
+For as long as I can remember people in the US have complained about the high cost and trajectory of college tuition and healthcare expenditures.
+
+cost, curve, tc, mc, production, function, leisure, labor, param, substitution
+"substitution patterns between exchange transplants and other transplant outcomes" would, I think, be better phrased as "patterns of substitution of exchange for other transplant outcomes".
+Suppose (for contradiction) that SR cost curve is above the LR cost curve at point $x$ on LR cost curve.
+
+nu, eta, exp, adequately, skipping, stealing, zimbabwe, startup, yielding, gravity
+9) is (I'm skipping the content of the $\exp()$ expression for brevity): $ \frac{1}{r+\nu+g_h + g_w} \left(\eta'(S)w(0) \exp(\cdot) + \eta(S) w(0) (r + \nu - g_w)\exp(\cdot)\right) \overset{!
+Natural resources and gravity determines trade. It is not fdi or portfolio investment and includes travel expenses and things not adequately tracked; For 5, any sort of anti western government expropriating assets, like Zimbabwe, uses that to fund it's balance of payments.
+
+advertising, fa, ca, bop, oa, ka, cola, u_i, increasing, pepsi
+The second equation follows from the first: $CA + KA = FA \wedge OA \neq 0 \Rightarrow FA - OA = CA +KA -OA \neq CA +KA$.
+Ideally I would have posed this as a clarificatory comment, but I lack the reputation level to post one.
+
+model, var, dsge, forecast, sample, amp, forecasting, parameter, chance, shock
+And the results of this paper are not amazing for DSGE: Two forecasting exercises have been implemented on US quarterly economy data: the first one considering a simple forecasting one-step-ahead strategy with different samples, and the second a h-steps ahead evaluation with a rolling forecasting estimation.
+To see this, consider the outcomes of the Allais paradox: $$M^T=\begin{bmatrix} 1  0  0  0 \\ 1  1  0  0 \\ 1  5  0  0 \\ 1  0  1  0 \\ 1  1  1  0 \\ 1  5  1  0 \\ 1  0  0  5 \\ 1  1  0  5 \\ 1  5  0  5 \\ 1  0  1  5 \\ 1  1  1  5 \\ 1  5  1  5 \end{bmatrix}$$ Where each column represents one of the four gambles.
+

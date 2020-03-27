@@ -1,0 +1,912 @@
+camera, photo, would, one, like, get, take, time, good, picture
+If the answer is yes, then it's probably worth quite a bit of money (and in fact, I'd suggest starting beyond so-called "entry level" cameras — see Are there disadvantages to a prosumer camera for a beginner, aside from cost?).
+I have observed the following when attending first meetings as a professional retoucher: Clients like to talk about their Company, their vision, their pain-points and what they need from a photographer/Photo Retoucher (some of these points relate to non-business Customers too) Once they have provided their information, they like to better understand me and at this point, along with any hard copy Portfolio, I find it very reassuring to also show them any relevant qualifications, certifications and awards that I have achieved.
+Better in that, you will likely be more pleased with outcomes; you will be able to look at a work you did and know how to make it better next time; and veiwers will respond to it more positively- meaning- they will likely spend more time looking at it- and perhaps come back to it, and perhaps find reasons to look at it again and again and again- which is kind of the point.
+But, if you're serious about earning a living from photography then there are other things that are initially more important: making sure you can deliver what you promise in all likely conditions is one, and ensuring you have the appropriate business and marketing skills to run a small commercial enterprise is a close second.
+The books that mattdm suggests are excellent starting points, but I don't believe it's possible to become a really good photographer without frequent interaction with fellow photographers.
+If going after the business side of things isn't something you want to do, you can try to get involved with a local photography business, but you would need to look in to what their specific educational and experience requirements are.
+At this point I will speak to the person, and say "The bride and groom have asked me to take these photographs, would you mind stepping to one side until the official one has been taken, after that point you can take as many as you like" They will normally stop and do as they are asked, the tip here is to say that the bride and groom/ event organisers have asked you to do the job, so it sounds like the orders are coming from them and not you/me the photographer.
+) Some indicators that you would likely benefit from a workshop: You see pre- and post-workshop examples of previous students' work, where you feel the before photos are representative of your current skills, but the after photos are just outside your reach.
+I want to feel confident to get them to look the way I want them to -- under time pressure, and I think that confidence will translate to a happy subject and a good synergy.
+I make extra money through photography by developing personal relationships with potential clients, and using the internet as more of a portfolio guiding people rather than as a primary money maker by itself.
+
+flash, camera, shutter, speed, mode, use, exposure, light, manual, set
+If you use the add-on 622 TTL/HSS triggers, you'll have full TTL/HSS/power control over the new TTL speedlight, but you lose power control over the YN-560IV (which can only be power-controlled from a YN-560-TX).
+Keep in mind that radio triggers, like optical systems and sync cables, also come in manual-only and TTL/HSS/remote-power control flavors.
+The terminology is confusing, because of the two separate types of optical slave modes: "dumb" for see-flash-fire-flash tripping, or "smart" CLS full-TTL-bells'n'whistles tripping.
+Where the complication comes in is that most of the cheap radio triggers used for flash can do double-duty as shutter remotes as well, by using a short cable to plug into the camera's cable release port.
+TTL metering isn't getting that pre-flash, so it's metering a very low light level, and the auto-exposure in the camera is setting a very slow shutter speed to accommodate this low light level.
+With a CLS-compatible Nikon flash on the hot shoe or even if using an SU-800 optical controller or a set of radio triggers that are fully CLS/i-TTL compatible to control a CLS flash capable of Auto FP you should be able to use the 1/250 s sync off camera.
+If, however, you don't have this capability, other methods would include using a PC sync cable or add-on "dumb" optical slaves (which may require hotshoe adapters for either/both your camera and flash), a TTL cable, or radio triggers.
+Since you're going to need to set the flash power manually in this case, you might find Manual mode will allow you the most control.
+If you are looking to trigger using a cable or the hot-shoe, and the flash trigger voltage is unsafe for your camera's hot shoe - you'll need something like the Wein Safe Sync Hot Shoe adapter.
+You'll need to set the flash power and zoom head manually via the controls on the flash.
+
+radiation, temp, mr, dose, rggb, rfusca, encounter, radioactive, ionizing, sick
+The lowest dose of possibly cancer-causing ionizing radiation is 10,000 times more, and the lowest possibly deadly dose of ionizing radiation is about 2 million times more, than the amount of radiation you get off of a radioactive lens at its surface.
+How radioactive are they? com/radiation/ http://xkcd. I read that lens makers used to use radioactive glass to increase the refractive index property of their lenses.
+Typical lens radiation was apparently approaching 1 mR/hr at the surface of the lens and tapers off rapidly with distance.
+CR2 WB RGGB Levels As Shot : 2270 1024 1024 1520 WB RGGB Levels Auto : 2270 1024 1024 1520 WB RGGB Levels Measured : 2267 1023 1024 1518 WB RGGB Levels Daylight : 2245 1024 1024 1425 WB RGGB Levels Shade : 2595 1024 1024 1197 WB RGGB Levels Cloudy : 2422 1024 1024 1299 WB RGGB Levels Tungsten : 1660 1075 1075 2222 WB RGGB Levels Fluorescent : 1960 1024 1024 1945 WB RGGB Levels Kelvin : 2245 1024 1024 1425 WB RGGB Levels Flash : 2485 1024 1024 1273 Camera Temperature : 18 C Color Temperature : 5200 Color Temp As Shot : 4955 Color Temp Auto : 4955 Color Temp Measured : 4955 Color Temp Daylight : 5200 Color Temp Shade : 7000 Color Temp Cloudy : 6000 Color Temp Tungsten : 3200 Color Temp Fluorescent : 3776 Color Temp Kelvin : 5189 Color Temp Flash : 6310 NB: Windows users: double-check that you use double-quotes, not single quotes.
+1 mSv of ionizing radiation is equivalent to about three chest x-rays. Quote from NASA: Astronauts are exposed to ionizing radiation with effective doses in the range from 50 to 2,000 mSv.
+Everything gives off infrared radiation, and the hotter something is, the more radiation it produces.
+jpg; do composite temp. png ${f} -compose Plus temp. convert -size 100x100 canvas:black temp.
+As example, after import i have image with temp=3400, then i have decreased temp to 3000, but when i'm trying apply some preset, preset increases not adjusted value(3000), but value(3400).
+I can't confirm this, but I would expect it to use the "Color Temp As Shot" or "Color Temp Auto" values recorded in the EXIF data.
+Some of NASA moon photography shows visible signs of degradation due to background radiation.
+
+color, print, paper, profile, printer, negative, printing, space, colour, srgb
+Inkjet printers are made for printing photos (Not as good quality as a photo printer, but they can still print photos.).
+I assume I also need a paper trimmer, but should I use A4 paper? If I use A4 paper, do I need to make 2 cuts?
+MOV 87295 kbit/s [ML stopped] MVI_0142_ISO400. MOV 84523 kbit/s [ML Stopped] MVI_0166_ISO320.
+I would expect commercial Giclee printers to use pigment inkjet inks. There are two types of inks for inkjet printers.
+Baryta paper is a paper base (usually natural fiber) with a Barium Sulfate coating.
+I have Ilford HP5 Plus 400, I believe this is one of the standard BW films. C-41 is the standard color equivalent to what BW process?
+Laser based Inkjet based systems have in general terms more color range than offset and laser.
+They have Kodak metallic paper available for Pro users who choose Bay Photo as their printer.
+Laser printers are not really known for their photo print quality or gamut. Current ink jet printers using UltraChrome HDR or Lucia EX support wide gamut up to Adobe RGB area, and cover over 90% of the Pantone solid color set.
+I am interested in printing some black and white photos and can't decide on the type of paper to print my photos on.
+
+cz, skinned, seagull, cbr, miksang, use, photography, lens, camera, one
+6 --cBr 0. 6, --cBr 0. cz/2i/t/e5b9f2d80b http://2i. cz/2i/t/0b571c36e5 http://2i.
+' What is Miksang photography? Does Miksang photography have any grounding in art history (e.g.
+) Phenomenology is about learning to see through our eyes rather than through our thoughts, as is Miksang.
+] What are some tips, tricks and things to look out for when photographing dark-skinned people, especially (but not exclusively) when lighter-skinned people are in the same frame?
+If you are near somewhere where seagulls hang out, they make perfect models for practicing, especially if you have an assistant with seagull treats!
+There are cbz and cbr readers on android and ios as well as linux, mac and windows.
+com/miksang. The word "Miksang" is Tibetan for "Good Eye". For a reasonable explanation, see the resource: http://miksang.
+Miksang is not intended to be a "marketing" tool. I have taken classes in Miksang Levels 1  2.
+I've been using my grandfather's Seagull DF-1ETM (Chinese equivalent of the Minolta SRT 101) and on some of the photos, the left edge would be under-exposed.
+I have been trying to take photos off a cliff edge of seagulls flying around. I am relatively new to this, and on a sunny day when I go to take these photos, the seagull I'm trying to capture always ends up like a white blob.
+
+canon, eos, ii, mark, model, iii, rebel, camera, digital, fuji
+I put together a translation table in this answer: EOS 1100D = EOS Rebel T3 = EOS Kiss X50 EOS 1000D = EOS Rebel XS = EOS Kiss F EOS 650D = EOS Rebel T4i = EOS Kiss X6 EOS 600D = EOS Rebel T3i = EOS Kiss X5 EOS 550D = EOS Rebel T2i = EOS Kiss X4 EOS 500D = EOS Rebel T1i = EOS Kiss X3 EOS 450D = EOS Rebel XSi = EOS Kiss X2 EOS 400D = EOS Rebel XTi = EOS Kiss X EOS 350D = EOS Rebel XT = EOS Kiss N EOS 300D = EOS Rebel = EOS Kiss
+13 (July 11, 2013): EOS-1D C / EOS 6D / EOS M EOS-1D X / 1D Mark III / 1Ds Mark III / 1D Mark IV EOS 40D / 50D / 5D Mark II / 5D Mark III / 7D / 60D / 60Da EOS Rebel XSi / 450D EOS Rebel XS / 1000D EOS Rebel T1i / 500D EOS Rebel T2i / 550D EOS Rebel T3i / 600D EOS Rebel T4i / 650D EOS Rebel T3 / 1100D EOS Rebel T5i / 700D, EOS Rebel SL1 / 100D (Newly supported models) Current (April 24, 2018) model compatibility charts you can find here.
+0621, which is supposed to provide codecs to power Windows Live Photo and Windows Explorer for the following cameras: Canon: EOS 1000D (EOS Kiss F in Japan and the EOS Rebel XS in North America), EOS 10D, EOS 1D Mk2, EOS 1D Mk3, EOS 1D Mk4, EOS 1D Mk2 N, EOS 1Ds Mk2, EOS 1Ds Mk3, EOS 20D, EOS 300D (the Kiss Digital in Japan and the Digital Rebel in North America) , EOS 30D, EOS 350D (the Canon EOS Kiss Digital N in Japan and EOS Digital Rebel XT in North America), EOS 400D (the Kiss Digital X in Japan and the Digital Rebel XTi in North America), EOS 40D, EOS 450D (EOS Kiss X2 in Japan and the EOS Rebel XSi in North America), EOS 500D (EOS Kiss X3 in Japan and the EOS Rebel T1i in North America), EOS 550D (EOS Kiss X4 in Japan, and as the EOS Rebel T2i in North America), EOS 50D, EOS 5D, EOS 5D Mk2, EOS 7D, EOS D30, EOS D60, G2, G3, G5, G6, G9, G10, G11, Pro1, S90 Nikon: D100, D1H, D200, D2H, D2Hs, D2X, D2Xs, D3, D3s, D300, D3000, D300s, D3X, D40, D40x, D50, D5000, D60, D70, D700, D70s, D80, D90, P6000 Sony: A100, A200, A230, A300, A330, A350, A380, A700, A850, A900, DSC-R1 Olympus: C7070, C8080, E1, E10, E20, E3, E30, E300, E330, E400, E410, E420, E450, E500, E510, E520, E620, EP1 Pentax (PEF formats only): K100D, K100D Super, K10D, K110D, K200D, K20D, K7, K-x, *ist D, *ist DL, *ist DS Leica: Digilux 3, D-LUX4, M8, M9 Minolta: DiMage A1, DiMage A2, Maxxum 7D (Dynax 7D in Europe, α-7 Digital in Japan) Epson: RD1 Panasonic: G1, GH1, GF1, LX3 This codec pack should help out quite a bit for Win-64 users.
+Along with Canon EOS 600D (Rebel T3i / Kiss X5 Digital), Canon EOS 1100D (Rebel T3 / Kiss X50 Digital), Fuji FinePix S200 EXR, Fuji FinePix F550 EXR, Fuji FinePix HS20 EXR, Fuji FinePix X100, Hasselblad H4D-40, Kodak EasyShare Z990, Nikon D5100, Olympus E-PL1s, Olympus XZ-1.
+Canon have different names for cameras in different parts of the world, so let's start with a translation table for those: EOS 1100D = EOS Rebel T3 = EOS Kiss X50 EOS 1000D = EOS Rebel XS = EOS Kiss F EOS 600D = EOS Rebel T3i = EOS Kiss X5 EOS 550D = EOS Rebel T2i = EOS Kiss X4 EOS 500D = EOS Rebel T1i = EOS Kiss X3 EOS 450D = EOS Rebel XSi = EOS Kiss X2 EOS 400D = EOS Rebel XTi = EOS Kiss X EOS 350D = EOS Rebel XT = EOS Kiss N EOS 300D = EOS Rebel = EOS Kiss The numbering system on the left is intended to tell you how advanced the cameras are.
+Online shopping, I found an offer for a lens for "Canon Digital EOS Rebel SL1 (100D), T5i (700D), T4i (650D), T3 (1100D), T3i (600D), T1i (500D), T2i (550D), XSI (450D), XS (1000D), XTI (400D), XT (350D), 1D C, 70D, 60D, 60Da, 50D, 40D, 30D, 20D, 10D, 5D, Mark II, III, 1D X, 1D C, 1D Mark IV, 1D(s)Mark III, 1D(s)Mark II(N) , 5D Mark 2, 5D Mark 3, 7D, 6D Digital SLR Cameras.
+This is the list of cameras that Lightroom supports: Canon * EOS 5D * EOS 5D Mark II * EOS 1D Mark II * EOS 1Ds Mark II * EOS 1D Mark III * EOS 1Ds Mark III * EOS 1D Mark IV * EOS 7D * EOS 500D (Rebel T1I(EOS /Kiss X3 Digital) * EOS 450D (Rebel XSI/EOS Kiss X2) * EOS 1000D (Rebel XS/EOS Kiss F) * EOS 350D (Rebel XT/EOS Kiss Digital N) * EOS 400D (Rebel XTi/EOS Kiss Digital X) * EOS 20D * EOS 30D * EOS 40D * EOS 50D Nikon * D3 * D3s * D3x * D90 * D200 * D300 * D300s * D700 * D5000 Edit: Found some more Nikon models listed on this page: * D2X * D2Hs * D2H * D2Xs * D100 * D80 * D70s * D70 * D60 * D50 * D40X * D40 Most of these are very expensive so I'm looking for cheaper alternatives that could offer similar quality and resolution of photos.
+According to wikipedia it is the EOS Kiss X4 in Japan and EOS Rebel T2i in North America.
+Canon DSLR manufacturer stated shutter life expectancies: Canon EOS Digital Rebel XS / 1000D 100,000 Canon EOS Digital Rebel T1i / 500D 100,000 Canon EOS Digital Rebel XSi / 450D 100,000 Canon EOS Digital Rebel XTi / 400D 50,000 Canon EOS Digital Rebel XT / 350D 50,000 Canon EOS 70D 100,000 Canon EOS 60D 100,000 Canon EOS 50D 100,000 Canon EOS 40D 100,000 Canon EOS 30D 100,000 Canon EOS 20D 50,000 Canon EOS 7D 150,000 Canon EOS 6D 100,000 Canon EOS 5D Mark III 150,000 Canon EOS 5D Mark II 150,000 Canon EOS 5D 100,000 Canon EOS 1D X 400,000 Canon EOS 1D Mark IV 300,000 Canon EOS 1D Mark III 300,000 Canon EOS 1D Mark II N 200,000 Canon EOS 1DS Mark III 300,000 Canon EOS 1DS Mark II 200,000 source: www.
+The Canon EOS 1D Mark IV is a flagship 16. 1 megapixel APS-H DSLR from Canon released in 2007.
+
+light, image, exposure, color, camera, iso, white, noise, one, use
+The only way to avoid overexposure messing with your colours is to set the histogram to show all three colour channels (red, green and blue) and to check that none of the graphs is bunched up at the right-hand side, which would indicate a colour maxing out.
+Thus, even though the R and B channels always are fully recoverable by drastically changing white balance or color settings (which may not be desirable), they may still appear clipped in the final result (appearing as so-called "nuclear colors").
+You might need to shift color temperature a little bit so that the middle greys in your images have a slightly bluish tint and will thus respond to the blue channel in the HSL tool.
+Conversely two objects that have significantly different color under good lighting may look the same color under very narrow spectrum light such as the light emitted by the sodium vapor lamps used for many streetlights.
+So, if you have to think of it in exposure terms, if you take a picture that encompasses black and white, and if you were to expose the black so it appeared as middle gray, and then exposed the white so it appeared as middle gray, the difference in your exposures would be whatever the sensor's dynamic range is.
+Even though an object in a shadow looks darker, it actually would look a lot darker than it actually does without the brain modifying the brightness in its post processing.
+If we meter a scene at ISO 800, then we look up that result EV in the standard EV chart, to find the row of Equivalent Exposure settings to be correct in that light at that ISO.
+Finally a practical answer: You may not realize by eye if you have adequate raw DR for a given scene, and only find out in post processing when it is too late.
+Often when I see people process multiple exposures manually, they will take the most correctly exposed image and blend in another image that captures the areas that were outside of the default image (for example the sky).
+In case of direct sunlight, the presence of a secondary light source acting as fill light with different color temperature (albeit a few stops weaker than main light) is going to skew hue in shadow areas to be different from sunlit areas.
+
+solstice, yay, lens, camera, mm, canon, photo, time, get, would
+So lots of Golden Hour shooting time (yay! From that point until the solstice, the minimum height of the sun above the horizon increases from day to day, then it decreases again until the sun finally dips below the horizon some days or weeks after the solstice.
+Yay! 137. click Help > Check for updates. To update in Picasa... com/picasa/answer/53209 I have the 6D and that darn pink overlay is gone.
+yay fun ! What on earth do I do with the numbers on the back - already worked out I need to shoot full manual on the cam - but figured this would be ok on indoor photoshoots where the lighting dosn't change or even macro with extension tubes - might be harder more of a challenge How do I use this promising bit of kit - or do I sell and get a TTL when I can afford it
+Yay for the 350D! It works very nicely for pictures of your children. I can't help but mention that you really should check out a fixed 50mm lens.
+I have been using one lens for about a year without cleaning it yet and recently got a new zoom one for Christmas (yay!).
+8 IS II today (YAY) and I knew it had a tripod ring, but I thought it also had camera strap attachment points on the tripod ring like some other heavy lenses do, but this one does not.
+I'm wearing glasses, so I'm thinking: "Yay, I'll be able to shoot with my bare eye and see the whole viewfinder with ease!
+Yay for Digic4. 12mp is more than acceptable for probably 95% of all pictures taken in the world, 95% of which, probably will never see print anyway, so 3mp would have been enough :D
+By the time of the Summer solstice you would be shooting right around noon, and at the end of your year you would be shooting slightly later each evening as the sunset occurs slightly earlier in the evening.
+Yay!! com/photos/quatrecouleurs flickr. com/p/BihGX6FDFuZ/ Flickr : https://www.
+
+content, fill, warp, warping, istock, addon, refinement, hawk, kite, intriguing
+One way would be to use the content aware tools such as content aware fill. Increase your canvas size, select the new area with a selection tool, and Edit> Fill> Content Aware Fill.
+Content-Aware In this particular case, I would expect excellent results from the fill with content aware.
+Main = 2 Fill = 1 Illuminated by Main + Fill = 2 + 1 = 3 Illuminated by fill only = 1 So for (Main + fill): fill of 3:1 you want Main:fill of 2:1 or 1 stop.
+You will be paid within 30 days after your content has been licensed, or after iStock has been paid for your licensed content, and only after you have accrued at least $100 USD of licensed content, after Royalty Deductions.
+;)) Tutorial on Content Aware Fill: New in CS5 - Content Aware Fill A turorial on puppet warp can be found here: New in Photoshop CS5 - Puppet Warp Quick Tip: Use Puppet Warp in Photoshop CS5 to Tweak Your Images Finally, there is Content Aware Fill.
+I agree that I have no rights to the Content, and all rights to the Content belong to the Photographer / Filmmaker ...."
+Both have content-generation tools that can fill in the area of the cable with content generated from its surroundings.
+For example, my 17-55 fills the sensor on my d800e when set at 45mm to 55mm. Similarly, my Tokina 12-24 and 11-16 fill the FX sensor at their longer focal lengths.
+The content-aware uses an algorithm to pick what to fill with. Content-aware is faster when it works, but clone stamp gives you more fine grained control and can handle more difficult situations.
+Plus, you can fill in the sky and other non-important areas with Content-Aware Fill to make it rectangular.
+
+lens, mm, sensor, focal, length, image, distance, camera, field, size
+Such a depth-of-filed table works out to: Distant point in sharp focus 30 1/2 feet -- near point in sharp focus 6 feet.
+With constant aperture zoom lenses the increase in magnification between the location of the physical aperture diaphragm and the front of the lens is enough to enlarge the size of the entrance pupil and maintain the f-number ratio.
+But, if you keep the subject distance the same, and have cropped the original image by 2x, and decide that you no longer need cropping due to the teleconverter, then m_s is doubled by the teleconverter but due to less cropping, the width/height/diagonal of the actually used sensor piece are doubled as well, so blur disc size as a percentage of the actually used sensor piece diagonal stays the same.
+So if one sensor is 36 x 24 mm (FF), and the other is 24 x 16 mm (cropped smaller), then if the lens is set to 1:1, one scene view is 24 mm tall and the other scene view is 16 mm tall.
+A 50mm lens means the lens to image distance is 50mm (about 2 inches) when the camera is imaging a distant subject.
+If used on a medium format camera using the 6 x 6 frame size with exposed dimensions of 56 x 56 mm, a 250mm lens would have an "effective focal length" of about 135mm, because it would give the same diagonal angle of view as a 135mm lens on a FF camera with a format size of 36 x 24 millimeters.
+This is due to the fact that, regardless of the aspect ratio of the lens, in order to allow the entire sensor to be covered by the virtual image cast by the lens the usable image circle must be at least as wide in diameter as the length of the sensor's diagonal measurement.
+Because things such as microscopes and binoculars tend to magnify things significantly, the angle of view that a wide field microscope or wide field pair of binoculars is still fairly narrow compared to what we refer to as wide angle camera lenses.
+There are several characteristics of an objective which define the sizes of objects: the equivalent focal length is the focal length of an objective which yields the same FoV on the 35mm film frame; the Field of View (FoV) defines the sizes of object on the recorded image, it is calculated from sensor dimensions and focal length and is defined as the angle between things appearing at opposite corners.
+Full frame sensor size is 35mm x 24mm and that would mean a lens with 34mm focal length is considered wide-angle lens and anything shorter than 24mm is then ultra-wide angle for a full frame camera.
+
+battery, charge, cell, capacity, charger, life, aa, cycle, charged, charging
+They have a low discharge rate when not in use and seem to have a longer lifespan than the other rechargeable batteries I have.
+And a 3 year shelf life to 70% capacity. LSD capacity is about 2000 mAh compared to about 2600 mAh from the top reputable AA NimH standard cells.
+Digital cameras usually use proprietary lithium ion cells, or may take AA cells (where rechargeable low-self-discharge NiMH is usually preferred, but one-use batteries may be used in a pinch).
+High power AA rechargable NiMh batteries - 2500mAh lots of power as long as you charge them before each use.
+NiMH batteries have a fully charged voltage that is lower than a standard alkaline AA.
+You probably want a name-brand high capacity NI-MH rechargeable. The higher capacity the better and to improve their lifespan use a "peak-detecting" charger, that will avoid damaging the batteries.
+Most battery vendors use the low discharge battery to eliminate the need to charge the batteries prior to use.
+Sanyo Enloop are the best known variety of these shelf stable rechargeables, but other brands include: Duracell Rechargeable "Pre-charged" Energizer 'Recharge" Rayovac "Hybrid"
+The battery charger that comes with your camera indicates when the battery is fully charged.
+But the recharge time get longer and longer and longer and longer. Rechargeable NiMH batteries, like the Sanyo Eneloop, operate at a lower voltage, 1.
+
+lens, mm, image, like, filter, layer, would, use, canon, photo
+5-5x. 8 2. 5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+float, int, startup, lytro, cleanup, shutdown, unsigned, trey, char, surrealistic
+Here's the C struct from a 2003 CodeProject: typedef struct tag_ExifInfo { char Version [5]; char CameraMake [32]; char CameraModel [40]; char DateTime [20]; int Height, Width; int Orientation; int IsColor; int Process; int FlashUsed; float FocalLength; float ExposureTime; float ApertureFNumber; float Distance; float CCDWidth; float ExposureBias; int Whitebalance; int MeteringMode; int ExposureProgram; int ISOequivalent; int CompressionLevel; float FocalplaneXRes; float FocalplaneYRes; float FocalplaneUnits; float Xresolution; float Yresolution; float ResolutionUnit; float Brightness; char Comments[MAX_COMMENT]; unsigned char * ThumbnailPointer; unsigned ThumbnailSize; bool IsExif; } EXIFINFO; I adapted the program to rename image files the way I wanted them but Nikon Transfer does the job for me now.
+Trey Ratcliff (http://www. Additionally, I am a fan of the "surrealistic" style of HDR and that is right in Trey's wheelhouse.
+I would thoroughly recommend a read of Trey Ratcliff's excellent HDR tutorial. The bit about post processing with layer masks as a step after all the Photomatix malarky was a real eye-opener for me, and has had a massive effect on my HDR efforts.
+com/lytro/lytro-illum-professional-light-field-camera/ 5 - 77. 8 mm lens and 1-inch sensor http://lightfield-forum.
+Is there a reason to clean the sensor at startup, shutdown, (or both) automatically?
+LFR --focus FLOAT into the command line. I have Lytro Power Tools installed using the manual.
+It's part of this section: int main(int argc, char *arg[]) { if(argc  2) { fprintf(stderr, "usage: %s input.
+Is there a reason to clean the sensor at startup, shutdown, (or both) automatically?
+I too dive down when snorkelling and down to around 5m it still works ok to make the camera float up, however, I have also used it while scuba diving down to ~12m and at this point the foam in the strap is compressed to such an extent that it no longer has the bouyancy to float the camera.
+Trey Ratcliff has an app, Stuck on Earth that does the virtual scouting aspect of what you want.
+
+gel, cto, velcro, light, use, flash, lens, photo, get, mm
+I only use about three gels (CTO and 1/2 CTO mainly, occasional fluoro) which I keep - plus a spare of each - in an envelope, with velcro dots already attached; I have velcro felt on the sides of my flashgun.
+Are all CTO gels and gels of a color, like red, rated to give the same color? What makes a gel (or gel set) good and bad?
+What situations would you use a CTS gel instead of a CTO? The CTS seems to be a bit yellower than CTO.
+Just to fill this out a bit, there's also the HONL Photo Gel Sampler Kit, which includes several cuts of CTO and CTB along with a few effects gels and a mounting system for your speedlight for about $22-30 (currently, depending on the retailer).
+(I say gel, but it's colored plastic). com/collections/packages/products/magmod-basic-kit2) Kits have a lot of different gels and a gel holder that need not be used with any other modifier.
+The CTO and CTS series gels have the both have the same amount of color temprature correction power (e.g.
+I've noticed that CTO gels come in a few varieties, examples here and here. Question Is there a way to know which power CTO gel you need to make the shot or is that more of an artistic choice?
+Gels come in large sheets that you cut down to fit your application. Rosco and LEE are perhaps the best known gel manufacturers, at least in the US.
+A full CTO will effect the light coming form the flash more than 1/4 CTO. It depends upon the gel, of course.
+For balancing flash with fluorescents, Rogue suggests the following: Plus Green gels are used in combination with CTO gels to color balance flash to fluorescent ambient light sources.
+
+eclipse, pad, swab, adhesive, gently, fluid, risky, pec, nervous, wand
+Too much fluid on the swabs can cause more problems than the dust the swabs are made to remove.
+I suggest you get a kit that includes the basic rubber wand, fluid and pec pads, then replace the fluid and pads as they run out.
+Use Photographic Solutions Eclipse fluid and their swabs and use 2 drops of fluid on each side of the swab.
+The pad is then cleaned using adhesive paper which is more sticky than the pad.
+behance. I saw this picture on Behance. original picture credits - Kremer Johnson Behance : https://www.
+The pad gets stuck in the film indents; have to unfold/refold the pad to get a fresh clean surface; resoak with Pec-12.
+com/products/eclipse-optic-fluid/ If you are asking about sensor (really the filter in front of the sensor) cleaning solutions -- such as "Eclipse" ...
+I then use the same sensor swabs and eclipse fluid as I use for the sensor. I think I also cut off a bit of the sensor swab since it was a bit too large.
+This is a japanese brand of Chloroprene Rubber adhesive - so any synthetic rubber based adhesive should do the job (search "synthetic rubber adhesive" on ebay to find plenty of reasonably priced options).
+Use dry microfiber cleaning cloths, or - if you must use a liquid - try the PEC-pads, which are disposable microfiber wipes with the PEC-12 solution already on them.
+
+file, image, raw, lightroom, photo, jpeg, use, photoshop, software, data
+When we want additional editing in the future, we DISCARD that first expendable JPG output copy, and we edit our list of changes, and then we OUTPUT a new JPG copy for whatever other purposes, which replaces the first expendable JPG copy.
+Catalog on external drive (or two computers sharing images) If you want to have a selection of images available for editing when disconnected, then you should take advantage of LR's 'Export as Catalog' function.
+You need to make sure you have backups of the image files themselves, since LR does not create copies of these images, nor does it edit or change the images in any way.
+You now can import that whole catalogue into another Lightroom catalogue (possibly on another machine), and you will get back your virtual copies.
+The beauty of Bridge and Camera Raw is that You can choose to save your edits as a JPG or a TIFF file or close the file and it will save the edits as nondestructive, (if you have it set up in the preferences ) it will save the edits in a sidecar file and only apply the edits when you open the file in bridge but will not change the original RAW file.
+If you wish to remove images from the LR catalog itself, but still have them available in the future in LR, the best way to do this is the select the images or folders, then "Export as Catalog" and then delete them from the primary catalog.
+You can choose to save a jpg or a tiff with those edits applied and that will make a new file that is different then the RAW and have the edits applied permanently to those respective files Or you can choose "open image" and it will open in Photoshop with those edits, and you can make other changes, then saving it from photoshop will save it as a PSD file with the camera raw edits AND any changes you made in Photoshop.
+If you want to simply use your laptop with Lightroom to manage/edit photos you're creating while on vacation, and when you return home you want to merge those into your main Lightroom catalog, do the following: Install Lightroom on your laptop Create a new Lightroom catalog on your laptop While on vacation, keep all of your photos in a known folder structure.
+Unfortunately, I've tested DNG files edited with Lightroom, in Corel Aftershot, and Raw Therapee and neither appear to be able to recognise the adjustments, which is not surprising given that the adjustment parameters the different programs use are quite different, even if they do similar things.
+In this way I could just select a batch of RAW files in LR, click export, select "sidecar JPEG" and then LR would copy the already existing JPEG files to a directory of my choice.
+
+bull, ctein, lens, photo, aperture, mm, one, light, like, take
+Ctein (who has multiple decades of experience and is a master printmaker) has written that ti's all bull.
+Celebrity photographies copyrights My sister  I took a picture with a pro bull rider, do I need their permission to share the photo on my blog?
+And in the two years since this question was asked and Ctein did his print sale, mirrorless cameras have only gotten better.
+Red Bull recently partnered with Nokia and ran a competition to push the limits of photography using their Lumia range of smartphones
+Hopefully, you'd get more bulls running through for more chances on that one. ) A running bull in that light, you could get closer to it, change your ISO to a bit lower, and pop a flash on it.
+2 Bulls-Eye, Model D. For now I have wiped the camera down with a cotton swab, is this sufficient?
+If you notice, in the lower right corner is the following text: Canon data © Christian Bull There are a few well known sources for independent measurements of camera sensor quantum efficiency.
+The Red Bull channel has a video showing how easy it is to take the photographs and produce an excellent result in their YouTube video "How to make lenticular images - Red Bull Illume" - viewing that provides numerous references to other videos offering the same advice.
+First, I strongly recommend Ctein's book on photo restoration. Added - RM Ctein's book - "Digital Restoration From Start To Finish".
+(Post Exposure, Second Edition 2011) To put this into perspective, CTEIN states later in the paragraph that paper normally only needs to produce 30 lp/mm of resolution.
+
+ycbcr, col, bespoke, image, lens, use, would, color, filter, may
+I am curious about the YCbCr color model for representing grayscale images. Can someone provide a detailed explanation of how image data is encoded as YCbCr, when it might be used over another encoding format, and what additional capabilities it may offer over other encoding formats?
+But now as some new requirement, I need to store the final output file in YUV/YCbCr format.
+If you happen to have access to Matlab (and know a little about how to use it), you could use the rgb2ycbcr function in the image processing toolbox to convert your images in entirety to YCbCr.
+An example of some of the collection sets and smart collections I have: Landscapes (set) Mountains (set) Stormy Mountainscapes (col) Clear Sky Mountainscapes (col) Sunset/Sunrise Mountainscapes (col) Waterscapes (set) Standing (set) Large Bodies (col) Small Bodies (col) Flowing (set) Rivers (col) Creeks  Brooks (col) Waterfalls (col) Skyscapes (col) Astrophotography (set) Milky Way (col) Constellations (col) Nebula (col) I have only begun to really use smart collections.
+How can I batch change all CMYK photos to YCbCr with minimal loss of quality? My photo viewing program is saying they are all CMYK format but other ones which are looking OK are YCbCr format.
+You can get a frame intended for 3 landscape 4x6" photos and then get a bespoke mount.
+com/de/Blog/Col-de-la-Musique I especially like color and detail of these images.
+I used the "Inside Lightroom COL Cross Processed" preset. It also looks like there's a white texture added to several of the images.
+Is there any YCbCr color-picker so that I can better understand the color space?
+Technique 1: We use Bespoke Software which Tethers our Laptop to the Camera we then have a spreadsheet of names.
+
+avisynth, camera, light, lens, image, one, use, need, canon, get
+Is AVISynth easy to learn? This sounds like a job for AVISynth (or the Linux alternative AVXSynth).
+The MVTools plugin for AVISynth performs frame interpolation. AviSynth (sourceforge) is a script based video editing tool.
+If it cannot read the input (H264 (lite)), look at AviSynth+ffshowtryouts (free; with AviSynth installed you create a file that serves as streaming file container for the video to be opened with VirtualDub, ffdshow does decode silently).
+) AviSynth aside, the google search keywords you want are "timelapse deflicker".
+All the fancy padding doesn't really help anything, seems to take a lot of space, and severly limits the flexibility.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+
+lens, mm, camera, get, image, one, good, would, focus, canon
+5-5x. 8 2. 5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+interpolation, dispersion, digic, inc, sraw, fluorite, ud, mraw, chrominance, avenue
+210 Ward Avenue Suite 200 Honolulu, HI 96814 tel: (808) 522-5930 Canon USA Inc.
+Karsh's own book, Karsh: A Biography in Images, is about the best there is for that.
+Evidently sRaw is a 2 x 2 aggregation but with some chrominance subsampling; mRaw is likely a bona fide resampling (involving local interpolation), with heavier chrominance subsampling.
+Actually there are many similarities between a Snapdragon and DIGIC chip. ARM is a family of RISC processors and Snapdragon and DIGIC chips both utilize the ARM instruction set.
+It is the default interpolation. AHD interpolation is the Adaptive Homogeneity-Directed interpolation.
+usa. Unfortunately for your specific DIGIC III question its mostly about the advantages of DIGIC IV :p
+Finally, sRAW1/mRAW and sRAW/sRAW2 are compressed using a lossless compression algorithm.
+This phenomenon is called "dispersion". In the late 1970s, Canon also developed special optical glass lens elements with very low dispersion index called Ultra-low Dispersion (UD) glass lens elements, and in 1990s an upgrade version of UD glass, called Super UD glass, was developed.
+Canon goes beyond ED glass in some of its L lenses with fluorite, which has the lowest known level of dispersion, but fluorite elements are fragile and extremely expensive to manufacture and incorporate into a lens (especially if very large, as in the Canon EF 1200mm lens).
+I'm interested in comparing the camera readable chrominance change to what a person can actually see.
+
+filter, light, lens, glass, nd, front, element, reflection, stop, uv
+You can also use two polarising filters to get the same effect as a variable neutral density filter, only that the light gets polarised also.
+Purple is the welders glass remember welders glass is specially designed to protect our eyes not reduce light transmission as is a nd filter, and is also often seen when stacking cheap nd filters bought from ebay and the like as well.
+In addition to the ND filters Karel mentions, a circular polarizer will also reduce the light by 2 stops and, as an added bonus, cut down certain types of glare and reflection from things like glass, water, and other bright surfaces.
+So the first marking is ND2 follow by ND4, ND8, ND16, ND32, ND64, ND100, ND256, and ND400.
+For some reflections, like in a glass surface or a water surface, the reflected light will be polarised, but that is specific to that kind of reflection, that doesn't happen for all reflected light.
+At a specific angle the polarising filter will let through 0% of the reflected light, and 50% of the rest of the light.
+If all of the light shining on the filter is polarized in one direction and the filter is turned to allow light polarized 90° from that direction, virtually none of the light shining on the filter will pass through.
+Especially so if the uppermost surface of the reflective material is translucent: Most translucent plastic materials shift polarization.
+If you are using a graduated ND filter or a polarizer, you must weigh the benefits of the filter versus the benefit of not having a reflection.
+I don't have a solar filter but I have a 10 stop, 8 stop, 4 stop and a 2 stop ND filters can I take the 10 stop + 8 stop and combine them to make a 18 stop filter or the 10 stop + 4 stop + 2 stop to make a 16 stop filter to photograph a solar eclipse and it not destroy my camera?
+
+street, bresson, cartier, henri, lens, mm, angle, get, like, lot
+id=98name=Cartier-Bresson,Henri Henri Cartier-Bresson I like street photography a lot and therefore Henri Cartier-Bresson is my hero: http://www.
+"Henri Cartier-Bresson: The Man, The Image  The World" is a great book. Another book to consider is "Henri Cartier-Bresson: The Modern Century" which was printed to accompany the MoMA exhibit by the same name.
+I want to learn about Henri Cartier-Bresson's work. I specifically want to be able to look at a lot of his images, rather than reading a biography or critique.
+See this for more information about street photography: What is difference between Street Photography and Travel Photography?
+: Samuel Beckett Henri Cartier-Bresson Richard Nixon One unusual aspect of her work is the way her height (she's quite short) lends a characteristic angle to some of her portraits, e.g.
+(See: "phenomenology"; Phenomenology of Perception by Merleau-Ponty; Cartier-Bresson; Phenomenology and Photography blog by Knut Skjærven.
+The "father" of photojournalism and street photography is Henri Cartier-Bresson and the linked Wiki page I've provided leads to further information about him, his work, and his style.
+If one were to take a similar path as Henri Cartier-Bresson in shooting candid street photography today, should they be concerned about laws or other realistic norms of today?
+com/10-tips-for-the-aspiring-street-photographer Worth a read, and obviously comes decorated with some lovely street scenes :-) http://digital-photography-school.
+What you should pick when you get to that point will depend on your taste, but if you have even an inkling of interest in street photography or photojournalism, there are worse places to start than this: Magnum Magnum (hardcover - paperback here) 400 photographs from the Magnum archives: Henri Cartier-Bresson, Martin Parr, Alec Soth, and many others.
+
+tripod, head, camera, use, right, release, mount, weight, one, need
+S Sunwayphoto clamps have an adjustment for exactly this reason All SUNWAYFOTO Lever-Release clamps are user-adjustable, can fit plates from different manufacturers as RRS,Markins, Arca-swiss, Acratech etc.
+However, some heads has more knobs, for example Sirui G-10KX has four - pan locking, main locking, friction and plate locking.
+All laws will vary by jurisdiction, and you'd be best advised to speak to a qualified lawyer if you intend to sell or publish your pictures; but in general, if you're in a public place, then you can take a photo of whatever you like (as long as you're not breaking other laws, such as those dealing with public nudity).
+There are two major clamp/plate types (maybe more) commonly seen: Manfrotto and Arca-Swiss.
+The tripod head / quick release plate is the one having the screw, and the camera has screw threads.
+It can vary a lot by jurisdiction though, so you should check with a local lawyer, but I would not be at all surprised if your verbal sale did not constitute a sale of the copyright unless it was specifically discussed and even then, without paperwork to back it up, it may not hold depending on jurisdiction.
+Photographs, paintings, drawings, sculptures, created by an employee in the course of employment (on-the-clock), are covered by a common-law copyright.
+Any event that requires a ticket or is held on private property isn't truly a "public" event, and the property holders or event organizers can set their own rules.
+Tripod heads usually come with the large thread, but can be used on tripods with a small thread using an adapter (often included, otherwise easily available):
+If your photo is unique enough, and the painting isn't, it would be illegal to sell copies.
+
+index, disk, ricoh, shell, activate, dn, adox, bk, fw, diskutil
+I can't remember where I got this script from, but here is what I use: try do shell script "DISKS=($(diskutil list | grep ^\\/)) for ((index=0 ; index  ${#DISKS[*]} ; index++ )) do (diskutil info ${DISKS[index]} | grep HS-SD) done" activate application "iPhoto" end try try do shell script "DISKS=($(diskutil list | grep ^\\/)) for ((index=0 ; index  ${#DISKS[*]} ; index++ )) do (diskutil info ${DISKS[index]} | grep Compact) done" activate application "Adobe Lightroom 3" end try try do shell script "DISKS=($(diskutil list | grep ^\\/)) for ((index=0 ; index  ${#DISKS[*]} ; index++ )) do (diskutil info ${DISKS[index]} | grep KODAK) done" activate application "iPhoto" end try try do shell script "DISKS=($(diskutil list | grep ^\\/)) for ((index=0 ; index  ${#DISKS[*]} ; index++ )) do (diskutil info ${DISKS[index]} | grep CANON) done" activate application "Adobe Lightroom 3" end try The term after 'grep' would be some way of identifying the device or card type; in this example, 'HS-SD' refers to an SD card 'Compact' to a CompactFlash card, 'KODAK' and 'Canon' to the brand of camera (when the camera is attached directly via USB).
+Ricoh Theta S is the upgraded version of Ricoh Theta which was mentioned by szulat.
+One disk is kept off site in case your house burns down. This method works great under linux with a little shell scripting!
+It’s called clam shell simply because you rig two softboxes as a giant gaping clam shell.
+If you're on a mac, I've found it faster to copy each card to disk via a Finder copy, and then import everything from disk in one import session.
+But with working disks, you can trivially copy your data from the old slow 60GB disks to a new 2TB disk, and then in a few years, copy from the old 2TB disks to whatever 100TB or 2PB disks that are cool then.
+adox. Adox MCC paper http://www. jpg Adox MCC paper; the resurrected version of the Agfa paper we used at school.
+That is a pretty small variation but it can mean that if you put two disks behind one another at significant distance such that the second disk is covered completely by the first disk viewed from the front of the lens, that if you now focus on the first disk, the defocusing blur from the second disk will be visible around the edges of the first disk even if the disk "proper" is hidden.
+Certain Ricoh GelJet Printers (the e3300N, e3110DN, e7700N, GX7000 and GX5050) have micro-piezo printheads, which make them perfect for the dye sublimation decorating market.
+This hard disk is not a backup, it will be my archive. Which disk cluster size shall I choose?
+
+positive, john, copper, gelatine, emsp, doe, joseph, presumed, chloride, sir
+Your example is in fact worse than you realize: the rule keywords contain words John Doe will find photos with the keyword John Irvin Doe, John Joseph Doe, John Doe, as well as partial matches like Jane Doe and John Smith.
+I now have it set up like this: Smart collection: John Doe Keywords contain words John Doe Smart collection: John Irvin Doe Keywords contain words John Irvin Doe Smart collection: John Joseph Doe Keywords contain words John Joseph Doe This works fine for Irvin and Joseph, but "John Doe" will then work as a container matching all of them.
+There should be some tabs across the top of the page that say something like &emsp;&emsp;&emsp;Name&emsp;&emsp;&emsp;&emsp;Date modified&emsp;&emsp;&emsp;&emsp;Type&emsp;&emsp;&emsp;&emsp;Size Right click to the right of Size One of the options should be 'Date Created' Select this to add a new tab Click on the tab Date Created.
+A glass positive is a form of heliography that used glass plates "sensitized" with silver chloride, rather than a silver-surfaced copper plate.
+Etch the plate in a ferric chloride. Transfer the gelatine layer onto a copper plate.
+The Daguerreotype was the first practical photographic method (1835) yielded a positive image on a silver plated copper plate.
+com/John-Hedgecoe/e/B000AQTS4S or http://www. qsort=page=2matches=107author=John+Hedgecoebrowse=1aid=2148670
+Their John Deere tractor fabric is very popular (I used to sell it). They are unlikely to object to the use of your own photographs of John Deere tractors, but they are likely to object to use of the John Deere logo outside of a photographic context, or use of the John Deere colours (yellow and green) as part of your fabric design.
+John Wright http://www. I was especially inspired by John's recent guest post on Scott Kelby's blog.
+Obviously slide film produces positive transparencies; has anything produced positives directly onto some sort of photographic paper or reflective material when developed (other than Polaroid and other instant film types)?
+
+compact, powershot, sx, h, canon, ixus, camera, elph, rome, model
+The CHDK (Canon Hack Development Kit) adds RAW capabilities to Canon powershot digital cameras, according to the FAQ: It is likely that any Canon Powershot based on the DIGIC II, DIGIC III or DIGIC 4 platforms can be supported The current list of supported cameras from that same FAQ with the firmware version: A410: 100e, 100f A420: 100b A430: 100b A450: 100d A460: 100d A470: 100e, 101a, 101b, 102c A480: 100b A490: 100d, 100e, 100f A495: 100d, 100e, 100f A530: 100a A540: 100b A550: 100c A560: 100a A570: 100e, 101a A580: 100c, 101b A590: 100e, 101b A610: 100d, 100e, 100f A620: 100f A630: 100c A640: 100b A650: 100d A700: 100b A710: 100a A720: 100c A800: 100b, 100c A810: 100b, 100d, 100e A1000: 100a, 100b A1100: 100a, 100b, 100c A1200: 100a, 100b, 100c A1300: 100b, 100d, 100e A1400: 100b A2000: 100a, 100b, 100c A2100: 100a A2200: 100b, 100c, 100d A2300: 100c, 100e, 100f A2400: 100c, 100d, 100e A2500: 100a A2600: 100c, 100d A3000: 100b, 100c, 100d A3100: 100a, 100b, 100d A3200: 100a, 100c, 100d A3300: 100a, 100c, 100d A3400: 100f, 101a, 101b A4000: 100c, 101a, 101b, 102a D10: 100a, 100b D20: 100b D30: 100a G1X: 100e, 100f, 100g, 101a G7: 100e, 100g, 100i, 100j G9: 100d, 100f, 100g, 100h, 100i G10: 102a, 103b, 104a G11: 100f, 100h, 100j, 100k, 100l G12: 100c, 100e, 100f, 100g G15: 100b, 100e IXUS30 (SD200): 100k IXUS40 (SD300): 100j, 100k IXUS50 (SD400): 101a, 101b IXUS55 (SD450): 100b, 100c, 100d IXUS60 (SD600): 100a, 100d IXUS65 (SD630): 100a IXUS70 (SD1000): 100c, 101a, 101b, 102a IXUS75 (SD750): 100b, 101a, 101b, 102a IXUS80 (SD1100): 100c, 101a, 101b IXUS85 (SD770): 100a, 100b IXUS90 (SD790): 100c, 100d, 100e IXUS95 (SD1200): 100b, 100c IXUS100 (SD780): 100b, 100c IXUS105 (SD1300): 100b, 100c, 100d IXUS110 (SD960): 100b, 101d, 101f, 101g IXUS115 (ELPH100HS): 100c, 101a, 101b, 101c IXUS120 (SD940): 100e, 101a, 102c, 103b, 103c IXUS125 (ELPH110HS): 100d, 100e, 101a IXUS130 (SD1400): 100a, 100c IXUS132 (ELPH115): 100b IXUS135 (ELPH120): 100b IXUS140 (ELPH130): 100a, 100b IXUS150 (ELPH140): 100c IXUS160 (ELPH160): 100a, 100b IXUS200 (SD980): 100c, 101c, 101d IXUS220 (ELPH300HS): 100c, 101a, 101c, 101d, 101e, 101g IXUS230 (ELPH310HS): 100a, 100b, 100e IXUS240 (ELPH320HS): 100c, 100d, 101a, 102a IXUS255 (ELPH330HS): 100f, 100h IXUS300 (SD4000): 100d IXUS310 (ELPH500HS): 100a, 101a, 101b, 101c IXUS700 (SD500): 101a, 101b IXUS750 (SD550): 100f, 100g, 100h IXUS800 (SD700): 100b, 101a, 101b IXUS850 (SD800): 100d, 100e IXUS860 (SD870): 100c IXUS870 (SD880): 100e, 101a, 102b IXUS900 (SD900): 100c IXUS950 (SD850): 100c IXUS960 (SD950): 100c, 100d IXUS970 (SD890): 100b, 100c, 100d, 100f IXUS980 (SD990): 100e, 101b IXUS1000 (SD4500): 100b, 100d, 100f, 101a, 102b IXUSIZOOM (SD30): 100f, 100g, 100h IXUSW (SD430): 110a Powershot N: 100a Powershot N Facebook: 100a S2IS: 100e, 100f, 100g, 100i S3IS: 100a S5IS: 101a, 101b S80: 100g S90: 100c, 101a, 101b, 101c S95: 100e, 100h, 100i, 100k S100: 100d, 100e, 101a, 101b, 102a S110: 101b, 102b, 103a SX1: 200h, 201a SX10: 100c, 101a, 101b, 102b, 103a SX20: 100f, 102b, 102c, 102d SX30: 100e, 100h, 100l, 100m, 100n, 100p SX40HS: 100d, 100f, 100g, 100i SX50HS: 100b, 100c SX100IS: 100b, 100c SX110IS: 100b SX120IS: 100b SX130IS: 101c, 101d, 101f SX150IS: 100a SX160IS: 100a SX170IS: 100a, 101a SX200IS: 100c, 100d SX210IS: 100c SX220HS: 100a, 101a, 101b, 101c, 101e SX230HS: 100c, 101a, 101b, 101c, 101e SX240HS: 100a, 100c, 101a SX260HS: 100b, 100c, 101a SX500IS: 100c, 100d, 100e SX510HS: 100a, 100c, 100d, 101a SX520HS: 100b, 100c SX530HS: 100c TX1: 100g, 101b
+You can see that Canon PowerShot ELPH 320 HS (IXUS 240 HS) and Canon PowerShot A2300 are both listed as 5x cameras but the focal length of the earlier model is 24 – 120 mm whereas the later is 28 – 140 mm.
+I tried to find a matching CHDK version for my Canon PowerShot SX540 HS. The tool ACID tells me: No official builds are available for this camera See What could I do to get CHDK working on this camera?
+I have been looking at the Fujifilm Finepix HS25 EXR and Canon Powershot SX510 HS, however I don't know which one will be better for my needs.
+Other Canon PowerShot SX# IS cameras do not have filter threads. What is an appropriate set of filters for a Canon PowerShot SX30 IS?
+What should I do about Canon PowerShot Lens error, restart camera? I have a PowerShot SX20is that started to throw this error out of the blue: Lens Error Restart Camera Any suggestions what can be done here?
+In addition to suggestions by Itai, There are two new similar cameras available they are Canon Powershot SX150 IS and Canon Powershot SX160 IS.
+Canon PowerShot SX20 IS Canon PowerShot SX30 IS This cameras cost is $ 429. This camera (Canon SX20IS) use four batteries AAA and have a zoom of 20X, and has just been replaced by the new Canon SX30IS have 35x of optical zoom.
+I have a Canon SX230 HS. It's a good compact camera but I would like something better.
+But I now see that the PowerShot SX260 HS has been launched at a similar price and wondered what the difference is.
+
+card, sd, cf, camera, reader, write, adapter, computer, speed, dsc
+I have an SD and a CF card in my camera. Once the CF card is full, it switches to the SD card.
+A 32 GB SD Card can drain a camera battery much faster than a 8 GB SD Card?) May I know if a Class 10 SD card can drain a camera battery much faster than a Class 4 SD card?
+k=sd+card+reader The card readers are not expensive. I would try accessing your photos by putting the card in an external card reader on a computer.
+I'm unsure if I should buy a CF-SD adapter for my camera (replacing one that just died) or a CF-PCI adapter for my laptop and a new CF card.
+The CF card costs several times more than the SD card. Do CF cards have any significant advantage over SD cards in any way?
+The same you have to do with your pc, because some PCs have sd reader on USB 2.
+Buy an SD card reader for a couple of bucks. Insert your camera memory card into the reader.
+Remove the SD card first. How to stop Canon 5D Mk IV from switching to SD card automatically when CF card is removed?
+How do I work out the read and write speed of the card in all the adapters (and from then if I will experience any buffering)?
+Yes you can use a 64GB Micro SD Card, because the Maximum supported storage on the 70D is 64GB, you will need to use a micro SD card adapter in order to fit the card within the camera, speed will be no different to using an equivalent SD Card.
+
+dxo, fungus, fm, growth, spore, zeiss, benchmark, fungal, ze, slrgear
+4 (2011) — slrgear | DxO | FM | TDP Carl Zeiss Distagon T 28mm f/2 ZE (2009) — slrgear | DxO | FM | TDP Carl Zeiss Distagon T 35mm f/1.
+Fungus spores are already everywhere, so your DSLR and its lenses are already infected (and probably were since construction).
+Fungal spores are everywhere. It's true that an active fungal growth gives off more spores, so it's good to keep equipment you know is affected in quarantine.
+The spores that cause fungus to develop are in the air around us at all times, only "clean rooms" are likely to be free of airborne spores.
+It is said that spores don't die and fungus may regrow. Also it is said that if we keep fresh lens with infected lens, fungus will spread.
+I've been reading up on how to avoid fungal growth in camera lenses. I came across an article that suggested that fungal growth is uncommon in this modern time because the construction of lenses have improved over the past few decades.
+I am not sure if you are a member on Flikr, but if you are, I would recommend joining a local Flikr group.
+The aim is to: dry any condensation kill fungus through exposure circulate the air and avoid fungus growth.
+Then it is exposed to fungal spores. Whether those spores have had an effect or not can be done by visual inspection.
+It might, however, not be fungus itself, but etching on the glass as a result of fungal growth.
+
+flash, shot, lens, get, different, shutter, camera, light, try, take
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+mini, instax, aurora, asset, warmth, motorcycle, borealis, spectrum, latex, cooler
+I simply enter the serial numbers of the asset into my asset register instead. This is sufficient as the asset register is just a means of tracking fixed assets owned by your company and serial numbers are a valid way to do this.
+However, Instax mini seems to be much more popular than the Instax wide format.
+Given the fact that Nikon D5600 has a mini usb and the Galaxy S7 also has a mini usb, you need a mini usb to mini usb cable.
+I used to ride a motorcycle and in winter you need both warmth and 'feel'. Try popping in to a local motorcycle shop and trying on a few winter gloves.
+For all you pros out there, how do you handle asset tags on your equipment? It seems easy to apply them to computers, notebooks, external hardrives, and even camera bodies, but how do you handle asset tagging lens, memory cards and other fixed assets?
+I'm Googling around for an Instax Mini 25 unit, but I keep getting conflicting results.
+I'm planning to go to Alaska to see Aurora Borealis and I have a Panasonic Lumix DMC-FX35.
+You could buy a Fuji Instax Mini camera and Instax Mini film. Instax mini images are (not surprisingly) quite small, 46mm x62mm.
+com/questions/tagged/aurora-borealis See the Auroa-Borealis tag here for much more info - https://photo.
+You're welcome to give it a try: Aurora HDR for Mac. We've also released our own HDR software in November, called Aurora HDR.
+
+hood, shape, bokeh, corner, vignetting, flower, edge, blade, round, nbsp
+26 = 315 (rounded to 320) 315 * 1. 26 = 396 (rounded to 400) 396 * 1. 26 = 500 Note that numbers are rounded, considerably in some cases, for convenience.
+A few examples I pulled from gsmarena. 2MP Samsung Galaxy S5: Front 16MP;Back 2MP Huawei P9:Front 12MP;Back 8MP
+Now imagine placing a round lens hood atop that pyramid - there will be a large gap on each side, because the corners bump into the round opening first.
+Algebraically, we want to to solve the following equation: 2n = 1 / (1 / 4000) Taking log2 of both sides, we get n = log2(1 / (1 / 4000)) n ≈ 12 Indeed, shutter speeds are supposed to be powers of two, so 1/4000 should actually be 1/4096 (that is, 1/212); they're just rounded to make them more human-friendly.
+I have one lens hood for a 28-105mm lens that is petal shaped. If the purpose of the lens hood is to block stray light, then wouldn't fully round always block more?
+) electronic shutter = 1 second longest exposure silent mode = electronic shutter (no choice here!
+8) Jupiter-11A (135/4) Jupiter-21A (200/4) Tair-3A/3C (300 / 4. 3) ZM-5A (500/8) ZM-6A (500 / 6.
+I know that Nikon HB-1 and HB-15 hood work on this lens. But do you know any Nikon or third party Tulip Flower Hood?
+The common "petal" lens hood shape comes from this pyramid. You can imagine in the design of such a hood that they build an overly-long round lens hood, then project this pyramid out from the lens.
+The shape can be simply round and a tulip-shaped hood is usually only to prevent vignetting within the field of view.
+
+pixel, image, resolution, size, quality, mp, screen, detail, print, per
+4 / 36 Which gives you: 6 mp = 2117 ppi 7 mp = 2286 ppi 8 mp = 2444 ppi 9 mp = 2592 ppi 10 mp = 2733 ppi 11 mp = 2866 ppi 12 mp = 2993 ppi
+For 4500x3000 pixels, the print size depends on the dpi printed... If printed scaled to 12x8 inches even, then 375 dpi.
+To print 10 inches at 300 dpi needs 3000 pixels of image dimension. Screens are different sizes too, but you have to determine how large you want to see the image.
+200 pixels per inch might be acceptable quality, but not best. To print 8x10 inches at an optimum 300 pixels per inch is a size of (8 inches x 300 dpi) x (10 inches x 300 dpi) = 2400x3000 pixels.
+Using 100dpi, an 800x600 image will print at 8x6 inches. Using 200dpi, an 800x600 image will print 4x3 inches.
+If you want to print 8x10 at 300 dpi then you will probably need an image that is 2400 pixels (width) x 3000 pixels (height).
+I believe snapsort's "true resolution" means an image's actual pixel resolution without having such duplicated pixels.
+Printing requires much high resolution for acceptable quality. If they want a 300dpi image to be printed 3.
+You can print your images as big as you wish (which means lower dpi if pixel resolution of an image remains the same).
+You can scale up the resolution without too much quality loss though you won't gain any either.
+
+th, st, factory, urban, july, mar, cement, ny, kingston, day
+Patrick's Day - Albany, NY - 09, Mar - 03. Patrick's Day - Albany, NY - 09, Mar - 01.
+Patrick's Day - Albany, NY - 09, Mar/ St. Patrick's Day - Albany, NY - 09, Mar - 01.
+Patrick's Day - Albany, NY - 09, Mar/ St. Patrick's Day - Albany, NY - 09, Mar - 02.
+Patrick's Day - Albany, NY - 09, Mar/ St. Patrick's Day - Albany, NY - 09, Mar - 02.
+LTI Photographic Services, New York, NY Film Processing: BW, C-41 and E-6: 35mm to 16x20 push and pull processing available Printing: Optical BW and C prints Digital C prints Location: 30 East 30th Street, NY, NY 10016 Phone: (212) 685-6871 Email: info@ltiny.
+So if you have a 3 stop IS, and the shot is normally hand holdable at 1/160th of a second , you should be able to hand hold the sharp shot at 1/20th of a second.
+1/8000th on a 1/250th sync speed camera still takes 1/500th of a second to happen...
+Some with even shorter flash durations up to 1/224,000th of a second. Perfectly synced with actual shutter speeds up to 1/40,000th of a second.
+28mm is 1/6th larger than 24mm, and correspondingly, your selfie taken from the same position will be 1/6th wider.
+At 1/8th power, the duration increases to a still very quick 1/4,600th. net/2010/07/14/yongnuo-yn-560-speedlite-review/#Flash-Duration As you can see, at 1/16th power the duration of the light output is 1/5,600th.
+
+image, lens, light, sensor, point, camera, subject, focus, get, distance
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+electronic, food, dog, candle, crowd, signature, cake, bowl, heading, speaker
+GEICO, that electronic signature was upheld. Under UETA, the term means "an electronic sound, symbol, or process, attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+html Geotagger Pro: 3 axis electronic compass, output heading Geotagger N2: 2 axis electronic compass, output heading Some cameras have built in compass as well: Panasonic Lumix DMC-FT3 Sony Cybershot DSC-HX5V / HX7V / HX100V RICOH G700SE Sony Alpha SLT-A55 Casio Exilim H20G (Hybrid GPS - Trackins indoor movements using accelerometer and compass) I think for GPSDestLatitude, GPSDestLongitude and GPSDistance there is some software and manual processing necessary.
+Put a spoon or something in the bowl, your chocolate looks hard a spoon sunk in the chocolate would make it look like a liquid, a spoon in the process of sinking would make it look soft and fluid, so will a spoon above the bowl with chocolate dripping from it (but a spoon resting on top of the chocolate would make it look worse).
+What can be unusual POVs/angles for capturing the speaker and/or the crowds? Assumptions: The speakers are on a high (2 feet) platform.
+For bowl of cooked vegetables, a better POV will be from slight up the walls of the bowl.
+Some are capable of stemming regular plurals, but not irregular. While a few of the big ones do, most do NOT stem plurals or verb endings.
+As soon as I get down to dog's level, the dog instinctively comes up to me. Have the owner withold giving the dog water before the shoot.
+I used 3 candles on left side and 1 candle on the right. Used 1 candle in the center, and 3 candles somewhat far on a stool.
+I wish to shoot my own cooked foods. We know that it is important for the food to look fresh.
+If your food will be in a bowl, you can partially fill the bowl with paper, foil, rice, so that you only put the food on the very top, so use less of it, reserving more for later shots.
+
+lens, mm, focus, camera, af, aperture, zoom, nikon, body, use
+" If you mean less chromatic aberration, better sharpness, better contrast, less distortion, then maybe a lens upgrade can help you.
+4, nikon's best designs; for normal purpose you need the 35mm on DX (a good lens anyway for 200 $), the 50mm you can use for portraits.
+These lenses are designed in a way that the focus ring and the focus motor have a direct connection and turning the focus ring when AF is switched on results in forced movement of the focus motor.
+For getting the lenses you need cheaply, EF-s lenses require less of an initial investment and as you replace them with better EF lenses, you can build up a full set of the lenses you need and then move to a full frame camera without losing any capability.
+Sony's SLT DSLRs have AF that's much faster in live view than Mirrorless, as SLT design basically allows camera to fully utilize it's PDAF (Phase Detection Auto Focus) sensors all the time during live view.
+AF = Auto Focus; MF = Manual Focus If by non-AF lens, you meant a manual-focus lens, the answer is yes.
+Final Words If you need a low-cost, light, competent DX telephoto zoom and have one of the most recent low-end DX bodies (D3400, D5500), the 70-300mm f/4.
+Nikon has three types of autofocus motors: Camera body motors, AF-S lens motors, and AF-P lens motors.
+Sony makes lenses specifically for it, and has an adapter to use Alpha SLR/SLT lenses, but you can get 3rd party adapters to use virtually anything else you feel like, such as lots of truly classic lenses (e.g.
+While the slightly superior optical results of the Tamron would have been preferred the useful gains from stabilisation in eg e-mount use made the Sigma more attractive (to me).
+
+lens, get, image, mm, camera, one, photo, good, time, use
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+http, com, www, amp, site, photo, link, page, html, review
+You'll find tons of different kinds of setups if you look for "product photography" setups.
+cfm it's über expensive but i hope this helps. http://www. ch/xml_1/internet/en/application/d77/d122/f123.
+com/ Online magazine http://www. com/ tips http://www. try these:- photoblog for inspiration http://www.
+html The specific photograph you're referring to is http://photoarts. A site with his work is here: http://photoarts.
+Go to BH photo and video's website, and you can chat with them about how toget one.
+Try checking out the web site of your camera manufacturer as some have very good video tutorials which are free to view.
+com/ http://www. com/ http://www. com/ http://www. com/ http://www. com/ http://www.
+com/photos/malinthepix/5384563043/in/photostream Do you know some good tutorials?
+Here are a couple of software packages that I'm aware of: Express Digital Darkroom: http://www.
+com fame is also writing at http://www. com/. bythom. Thom Hogan of http://www.
+
+bird, wildlife, animal, hd, gopro, flight, underwater, fly, housing, hero
+The first camera is the GoPro HD Hero (2009). The second camera could be a Hero 3 (2012), 3+ (2013), or 4 (2014) - with the blackout housing.
+GoPro Hero 3 / 4 / 5). Is it the GoPro Hero HD Original 2012 in Number 1 in the pictures?
+This controller is compatible with the HD Hero, Hero 2, and Hero 3 White and Hero 3 Black, but it is not compatible with the Hero 3 Silver.
+So, assuming you had something like this: id_local | name | parent -----------+---------+-------- 12345 | animals | 73 12346 | birds | 73 12347 | eagles | 73 12348 | parrots | 73 12349 | falcons | 73 You could "fix" the hierarchy like so: UPDATE AgLibraryKeyword SET parent = (SELECT id_local FROM AgLibraryKeyword WHERE name = 'animals') WHERE name = 'birds'; UPDATE AgLibraryKeyword SET parent = (SELECT id_local FROM AgLibraryKeyword WHERE name = 'birds') WHERE name IN ( 'eagles', 'parrots', 'falcons' ); This would end up as Animals > Birds > Eagles, Animals > Birds > Parrots, and so on.
+As you will find on the GoPro HD Hero and GoPro Hero 2 FAQ at the EyeOfMine website: HD HERO2: IF you want to use all the advanced features (10 picture burst for example) with the HD Hero2, it is recommended you buy a class 10 SD Card.
+Scuba underwater photography: GoPro vs DSLR + Housing Why do GoPro cameras perform poorly for underwater photography?
+How do I take photos of birds inside cages (as shown in the picture below) and have it appear that there is no cage at the front, which blocks the bird.
+Most wild animals will regularly look around for predators, and if you are patient you can work out the pattern to it.
+I do a lot of wildlife photography - primarily birds. Black birds should not be 18% gray.
+Underwater housings completely contain both the body and the lens. It looks like the Nauticam setup has various lens housings that mate with the body housing, and you'll certainly need both parts.
+
+droid, g, lens, camera, image, get, would, body, light, also
+Droid X has the best camera in my opinion. I have a Droid X, I might be a skilled photographer, compared the image I got with my Droid X vs.
+What are the best photo editing applications for an Android camera phone such as the Nexus One, Droid, Droid Incredible, HTC Evo, etc...
+Does anybody know the exact chip which is built into the iPhone 3GS and iPhone 4?
+I sometimes use the GPS in my iPhone 3GS when I run. Plus I'd check to see if it works in your bag, the iPhone 3gs, does not seem to work as well when I slip it in a pocket or in a waist pack, I guess that some of the signal is blocked.
+This works on the 3GS and above. This trick should work in any app that can take pictures, too.
+The overall iPhone 3GS sensor area is about 9. The iPhone 4 uses the Omnivision OV5650, and the 3GS uses either the OV3650 or a very similar model.
+I was not able to find a prebuilt iPhone 3GS profile, so this is the next best thing.
+Now that the Gs are gone in favor of the Gx Xs it's going to be hard to find one.
+The best camera phone I ever used is the Droid X. In terms of skill and how to: shoot in good lightning condition know the limitation of your camera by experimenting (every camera has its own shortcoming and strengths, even the most expensive camera) Use flash more on phone camera
+the free app is not available on google play store but you can get it via f-droid or download it via https://f-droid.
+
+gaussian, heif, smoothly, smoothed, taper, hevc, hexagon, christian, examines, gesture
+It doesn't taper smoothly from the center to the edge like a Gaussian does. A bright point that's smoothed by a Gaussian will taper smoothly from a bright center to a dark edge.
+libheif-examples contains command-line utilities: heif-enc and heif-convert. GIMP and Krita support HEIF via libheif.
+Gaussian blur refers to a post-processing effect where parts of an image are intentionally blurred with a two-dimensional Gaussian function.
+An examination of Judeo-Christian art finds an ecclesiastical language that is concealed in metaphors and expressed by unique hand gestures.
+I am studying Gaussian blur and average blur. Or Gaussian blur (and the similar average blur) happens only with post-processing filters?
+Gaussian blur is a transformation that you apply to (pixels of) your digital image.
+It's chosen because the Gaussian kernel is linearly separable, meaning the blur is fast to compute.
+I'm pretty sure that bokeh is used to describe an area out-of-focus when you're taking the picture, can gaussian blur also be used when you're taking the picture?
+While Gaussian blur (or something closely resembling it) isn't "normal", it does occur optically in specific cases.
+Typical lens radiation was apparently approaching 1 mR/hr at the surface of the lens and tapers off rapidly with distance.
+
+star, grip, transformation, pi, diamond, co, blob, array, sin, celestial
+63941033766127 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a0 b0 c0 d0 e0 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0 Vm5 n"c__0001.
+I'd already done this assuming a linear transformation: (* convert RA/DEC to xyz coords on celestial psuedo-sphere of radius 1 *) radecxyz[ra_,dec_] = {Cos[ra/12*Pi]*Cos[dec/180*Pi],Sin[ra/12*Pi]*Cos[dec/180*Pi],Sin[dec/180*Pi]}; (* I no longer have any idea how this works *) astrosolve[x_,y_,z_,xwid_,ywid_] := Module[{a,m,ans,nullans}, m=Array[a,{2,3}]; temp=Solve[{ m.
+Box 14648 Portland, Oregon 97293-0648 Email: [lest I worsen their spam load, I refer you instead to the contact page on their website.
+(Shutterfly only allows glossy for in-store pickup, and Snapfish only allows matte for in-store pickup.
+5 carat diamond . I tried using jewelry wax to glue the diamond in place but I then get reflection of the wax inside the diamond and I can clearly see the gluing material under the diamond (macro lens) What I'm looking is a way to glue the diamond to the surface without seeing reflections of the gluing material inside the diamond.
+The Zeikos grip for the 60D lists for $90, while the Canon grip for the 60D lists for $270.
+co. nz/cameras/accessories-phottix-battery-grip-bg-7d-mkii/21975 I think I've had the odd time where the grip buttons wouldn't move the focus points, but powering the grip off and on again fixed it up.
+I used a perspective transformation on an image in GIMP, but not before I forgot to record the transformation matrix it used.
+So for those people who have grips, is it worth the money? I have a 60D and if I do get a grip I plan on getting the Canon brand grip unless anyone has had any good luck with other brands.
+Do you use the grip? I shoot with a grip, and I'd prefer not to have a grip that can loosen at inconvenient times.
+
+windmill, card, image, camera, photo, one, get, like, picture, lens
+What is going on with the left most windmill? Ok, check this shot out: These are the 3 windmills in Marshfield Massachusetts.
+If you push it enough you'll also get "halos" around the windmill silhouettes. So the border between the dark hillside and the brighter sky is emphasized by the use of the dehazing tool.
+Furthermore, the path from the windmill to the lens is different for each windmill, with constantly varying surface textures, with constantly varying reflective and polarizing properties.
+EDIT: To clarify, let's assume I have images sorted in collections as such:  Collection root  |- California | |- Surfers | |- Hipsters | |- Beaches |- Holland |- Windmills |- Stroopwaffels |- Coffeeshops |- Grachten I am looking for something that exports images into a folder tree identical to the one above, without any extra maintenance or work.
+Getting a kid to run around with a party handheld windmill. Local basketball courts can be fun.
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+
+file, lens, camera, raw, one, image, would, new, photo, length
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+camera, lens, get, photo, light, flash, use, make, need, good
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+image, photo, exif, file, data, number, tag, date, metadata, use
+Second, the first line needs to needs to have column headers indicating the Tags you want to import.
+GPX file or anything else that will let me use my usual tools (Geosetter or Photo Mechanic) to geotag the images, but I do have a CSV file of the image filenames and their lat/longs, like this: Date,File_name,Long,Lat 20150317,IMG_3672.
+Any ideas why Huawei adds a hexadecimal description tag into some images? Instead of Date and Time, I get underline instead.
+Also note this related, yet-unanswered question: Is there a way to batch-edit metadata in the Mac OS Photos app?
+In order to remove the tags, use the following command: exiftool -creatortool= -software= FILE If you are using the ExifTool GUI for Windows there is a button called Exiftool direct.
+As an update on the original answer, here is a modified sqlite3 query to get both the absolute path and the file name of the images in the collection: SELECT lrf.
+What I would like to do then is to insert the Date Digitised, Date Taken and Date Modified EXIF values based on the JPG file's Modified Date (which is correct to the time of taking the photo) and to also set the Make to Apple and Model to iPhone 3GS (although the process would apply to any JPG image which has no EXIF data, regardless of the source) I have looked at Exifer, IrfanView, ExifTool, Picasa and others and they either cannot set the dates at all or can only set them to a specific date/time.
+PNG metadata is poorly supported by most software, but it looks like in this case, Google has started supporting EXIF data in PNG, which it did not in my previous tests.
+For example, for a JPG, Windows will use Exif:DateTimeOriginal if it exists, followed by XMP:DateTimeOriginal, followed by CreateDate, followed by FileCreateDate (the system file create date).
+I could not find a perfect matching data field but I would suggest using the Keywords field, which is free text and then use specific and consistent description: competition_score:84 which would allow you to use regular expressions to search through all the scores in all images.
+
+lens, camera, mm, light, would, use, one, aperture, focus, like
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+usb, bandwidth, mbps, firewire, requesting, emulating, utilizes, dmii, pci, fw
+In USB, there's no guaranteed bandwidth available. Emulating Firewire over USB is quite difficult, as technology is so different.
+USB 2. 5 Mbps. Now, this is theoretical, because every USB or Firewire device connnected utilizes bandwidth.
+1 or USB1. 0 or you have a USB1. Of course with USB3. However, if your camera can do USB2.
+I've noticed (after extensively using USB, Firewire800 and eSATA) that USB is probably the least stable connection for an external drive.
+It seems it's all about the USB source - not the cable with my G7x M2. When trying my Apple iPhone 5V USB adapter, it charges.
+Given the fact that Nikon D5600 has a mini usb and the Galaxy S7 also has a mini usb, you need a mini usb to mini usb cable.
+As a warning to anyone thinking of buying a USB battery pack, don't -- my NEX goes into USB mode when I plug in a USB cable, even if it's a charge-only cable.
+USB ports that only supply 5V/0. Since USB 3 is now blue, most of them made since USB 3 came out are red.
+Will it be faster if I buy and use a 5V/2A USB charger? Its USB charger is 5V/550mA and the manual says the following about charging the battery inserted in the camera through USB: About 4 hours and 30 minutes are required to charge a fully exhausted battery.
+this is a USB-2 cable, which means your photo transfers will only go at USB-2 speeds.
+
+lens, camera, get, want, image, may, one, use, would, need
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+display, monitor, device, screen, calibration, pro, hardware, calibrated, calibrate, software
+X-Rite iOne Display Pro NEC MDSVSENSOR NEC SpectraSensor Pro For Windows its: NEC MDSVSENSOR NEC SpectraSensor Pro X-Rite/GretagMacbeth iOne Pro and iOne Monitor X-Rite iOne Pro2 X-Rite/GretagMacbeth iOne Display V1 and V2 X-Rite DTP94 / MonacoOPTIX-XR X-Rite ColorMunki X-Rite iOne Display Pro ColorVision/Datacolor Spyder2 Datacolor Spyder3 Datacolor Spyder4 BasICColor Discus For Mac: NEC MDSVSENSOR NEC SpectraSensor Pro X-Rite/GretagMacbeth iOne Pro and iOne Monitor X-Rite iOne Pro2 X-Rite/GretagMacbeth iOne Display V1 and V2 X-Rite DTP94 / MonacoOPTIX-XR X-Rite ColorMunki X-Rite iOne Display Pro ColorVision/Datacolor Spyder2 Datacolor Spyder3 Datacolor Spyder4 BasICColor Discus So, yours is supported but should not be used on a wide-gamut display.
+The NEC MDSVSensor3 is the same colorimeter as the X1 i1 Display Pro. It is modified to work only on NEC wide gamut monitors.
+There are many solutions for monitors (as Datacolor Spyder, X-Rite i1 Display Pro, X-Rite ColorMunki) and paper printers (as Datacolor SpyderPRINT), but what hardware is needed to take color profiles for canvas printers?
+I am using the Spyder4pro to calibrate my MacBook pro retina display and it asks what my display's gamut and backlight are.
+To calibrate your monitor you need a calibration device like a DataColor Spyder or X-Rite DTP94, or a monitor with inbuild calibration device like the Eizo CG245w.
+The only way to calibrate a monitor correctly is using a device such as a Huey Pro.
+To calibrate the screen I plugged the colorhug and use Linux Mint built-in calibration software.
+Spectrophotometers are more expensive, but can calibrate both displays and printers.
+Yet when I calibrate the monitor with a Spyder 4 by DataColor, I can only get 79% of the RGB color gamut.
+Is it possible for the Spyder5Pro to take the measurements of monitor 1 and then calibrate monitor 2 to look as close as possible to monitor 1?
+
+oriented, spiral, cotton, polish, dip, bud, bread, emailed, rubbed, gmail
+When you have rotated the cotton bud once discard it so that you don't re-use the dirty portion of the cotton bud.
+You will have to use several cotton buds. Cotton buds (those intended for babies are best) 2.
+In the gmail preview, the image is oriented correctly. I took a photo with my iPhone of a package of bread, oriented in landscape.
+As I understand it, the main focus should be where the spiral gets smaller. How do I use the golden ratio/the fibonacci spiral to create better photos?
+Beside exhibition, what exactly can I do in Photokina? I plan to go to Photokina 2010 but a little bit unsure about what to expect.
+Is it because monitors are landscape-oriented or there are more subtle reasons?
+I would like to know what caused that spiral line? It was about 20 minutes of expo, star was out of focus (I really just tested the principles of this kind of photography) As you can see there is a darker spiral line on the bright line of the star.
+In addition, the pictures are enhanced through our knowledge of the many other spiral galaxies we observe around us.
+An "equiangular spiral" is another name for a logarithmic spiral. A spiral grid can be made by drawing squares enclosing arcs of this spiral.
+See the screenshot: Here we can see a deep dip in G and B channels but almost no lack of dark piixels in RawTherapee, with very mild dip in Entangle and a considerable lack of dark pixels.
+
+sun, hour, sunset, horizon, texture, rise, cube, astronomical, sky, twilight
+js/examples/textures/cube/skybox/pz. js/examples/textures/cube/skybox/py. js/examples/textures/cube/skybox/nx.
+The sun will rise in the northeast and set in the northwest. Two hours for the sun to go from 6 degrees below the horizon to the horizon.
+This would probably be a time when the sky is not overcast and the sun is behind you, such as in the hour after sunrise or the hour before sunset.
+Civil twilight is a good approximation with the sun being ±6° around the horizon.
+The post-sunset clouds in the picture appear to be some time in the civil (sun 0°–6° below horizon), or early nautical twilight (sun 6°-12° below horizon).
+PDT and the sun rises at 7:00 A.m. Astronomical twilight begins at 5:33 a.m. Astronomical twilight ends at 8:24 p.m.
+Shoot during blue hour, just after sunset. Try googling 'blue hour photography'.
+When it comes to the sun, objectivity is harder than that. tl;dr Start at 5,780 K before sunset and decrease it to your liking And remember - after sunset the sky is starting to get blue due to Tyndall effect - so after an hour after sunset your white balance should go up.
+Often the sun is included in vista. No problem, clouds and haze and low-in-the-sky sun is seen with diminished brightness.
+When exactly is golden hour? What is the history behind golden hour - e.g. I've heard that as a photographer, I should be taking advantage of time near sunset and sunrise called "golden hour".
+
+hat, cursor, staged, mirage, mountable, avchd, usefilm, vhd, staging, humongous
+In the case of Fata Morgana, there can be several inferior mirages, and superior reflections of those inferior mirages (creating the stacked mirages).
+Or, there is a low-vision mode which makes the cursor humongous. This is just a guess, but the cursor is often shoveled in by the hardware.
+usefilm. usefilm. usefilm. usefilm. usefilm. usefilm. None of the below are staged.
+Then right before the fireworks burst, take the hat off. There is a semi-famous trick known as the black hat trick.
+Remove the hat without disturbing the camera. With the hat still in place, release your camera's shutter.
+(the Green Hat) - The Critic's Hat. We take a photo (the Red Hat) - The Director's Hat.
+The AVCHD directory is for video files. Wikipedia's page on AVCHD lists this structure as well: Not sure where there is an official reference though.
+com/cursor-maker It's freeware and will allow you to design a dimmer cursor with a custom colour that will appear white on your monitor.
+please help me in resetting the cursor to 0 value permanently. "0" (cursor under 0) When I click outside pictures, the pictures are too bright-- "all white" and on checking the settings on live view screen I see the cursor moved to +2 value on left bottom corner.
+It can record in either AVCHD or MP4. Clearly RD was not allowed to spend the extra effort to span/chain for non-AVCHD formats over multiple files.
+
+signal, rate, frequency, pattern, wave, sampling, aliasing, hz, discrete, alias
+Aliasing is result of sampling, taking discrete samples or readings of a signal, at a low enough frequency that the frequencies in the input signal are confused for other frequencies, such that they cannot be distinguished from each other.
+The top plot in the figure below shows a 1Hz sine wave sampled at the Nyquist rate, which for this sine wave is 2Hz.
+now that your signal is sampled you won't know if the 500hz was actually there or if it's an alias.
+if you have a pattern beyond the Nyquist limit, you may experience aliasing — i.e.
+Two overlaying pattern causing combination patterns is what a moiré pattern really is.
+A phenomena that exhibits or arises due to signal interference as signals of similar frequency interact in a destructive manner.
+In digital sound recording, the highest frequency sound that you can possibly record is half of the sampling frequency.
+That sould provide anough patterns to be a useful aliasing test when framed properly.
+I believe this is what's called a Moiré Pattern. That's when two patterns--the background you're shooting and the camera's sensor--are overlaid and produce a third pattern.
+Moire is a kind of "aliasing" - an effect where something is seen (or heard) incorrectly because the frequency of the source is too high for the sensor (in a picture high frequency is caused by repeating patterns where the individual pattern is too small to be recorded).
+
+authenticity, spanish, fractionally, widen, greenness, var_max, purity, camera, range, lens
+I wouldn't restrict yourself to the Spanish speaking community (although I believe Spanish to have fractionally more native speakers than English, so it's a pretty big audience); Instead look at the picture agencies that operate in your area.
+So this is like most digital security issues, it will prove authenticity or monumental effort to circumvent it ;)
+If this is not possible, how does a photojournalist prove the authenticity of an original image?
+This will give authenticity to your photographs.. Of course you will need some photoshop touch before putting it online.
+Only 7 or 6 lenses, but using an adapter on the camera can widen the lens selections.
+q=spanish+law+conten, presure to close entire websites. SOPA, the spanish law "forcing" people to recive compensation https://www.
+{ S = del_Max / var_Max del_R = ( ( ( var_Max - var_R ) / 6 ) + ( del_Max / 2 ) ) / del_Max del_G = ( ( ( var_Max - var_G ) / 6 ) + ( del_Max / 2 ) ) / del_Max del_B = ( ( ( var_Max - var_B ) / 6 ) + ( del_Max / 2 ) ) / del_Max if ( var_R == var_Max ) H = del_B - del_G else if ( var_G == var_Max ) H = ( 1 / 3 ) + del_R - del_B else if ( var_B == var_Max ) H = ( 2 / 3 ) + del_G - del_R if ( H  0 ) H += 1 if ( H  1 ) H -= 1 }
+Is it in spanish or something else? net/el-bokeh-wall/ diyphotography. Example of using "El Bokeh Wall": http://www.
+If you widen your aperture you will get a soft glow like in your picture. 8 and your haziness will return.
+note that I am not looking for an 'absolute' measure of greenness, the scale and distribution of the number does not matter - it just has to provide a consistent relative measure of greenness.
+
+wps, blouse, camera, lens, use, one, image, mode, like, photo
+Then press WPS button on the camera. The camera uses WPS for WiFi security. Here's a page from user manual explaining how to press WPS button in camera settings.
+I've realised, indeed, that I can't use WPS the first time I establish the connection!
+First activate WPS on the Camera, then (within 2 minutes) press the WPS button on the phone.
+In urban areas (where there are Wi-Fi networks in range) you could use EyeFi Geo/Explore/Pro memory/WiFi cards which perform geotagging automatically using WPS data when uploading the data.
+This process is via the Adhoc mode only - do not use the 'add device' in windows WPS as you will need a local router.
+When I try to connect to D5300 built-in wifi from my Android phone (WPS password correctly entered), I'm asked to provide a password to complete the WPA2 connetion.
+Doesn't your camera display instructions after pushing the WPS button? Nikon D5300 manual, page 48 - WiFi.
+One of the photos has been flipped horizontally (see how the ends of blouse collar fold over each other).
+I was connecting with an iPad, so I didn't have the option to use WPS. Once you have done this, you should open the Wireless Mobile Utility app and go to the Settings menu > WMA Settings > Authentication and change it back to WPA2 (which will prompt you to set a password) to prevent other devices nearby from accessing your photos.
+Note that in this example, the woman's blouse is determined to be middle gray. In the previous example it was an average metering, not a white blouse metering.
+
+gt, lt, cat, asa, echo, tif, script, li, insect, txt
+@echo ----------------------------------------------------- @echo Generating Face_3 LEFT @echo p f0 w1500 h1500 v100 script.
+@echo ----------------------------------------------------- @echo Generating Face_3 LEFT @echo p f0 w1500 h1500 v100 script.
+XML" type="XML"/ RelevantInfo uri=". XML" type="XML"/ RelevantInfo uri=". XML" type="XML"/ RelevantInfo uri=".
+xml" image_file Here is how Lightroom write in XMP keywords for file: lr:hierarchicalSubject rdf:Bag rdf:liEdfu/rdf:li rdf:liEgypt/rdf:li rdf:liancient/rdf:li rdf:liarcheology/rdf:li rdf:liarchitecture/rdf:li rdf:libuilding/rdf:li rdf:lihistory/rdf:li rdf:limuseum/rdf:li rdf:lireligion/rdf:li rdf:litemple/rdf:li rdf:litourism/rdf:li rdf:litravel/rdf:li /rdf:Bag /lr:hierarchicalSubject And this is accepted in all major stock agencies (Adobe, GettyImages, Shutterstock) as well as photo sharing or/and selling sites like 500px, Flickr The command you can use to incorporate this info in image is something like: exiftool "-xmp=xmp.
+local/share/lensfun on Linux, I don’t know the path on Windows) with the following content: lensdatabase mount nameSony E/name compatDKL/compat compatGeneric/compat compatM42/compat compatSony Alpha/compat compatT2/compat compatMinolta MD/compat /mount /lensdatabase
+jpg Where w is original_image_width / 4 and h is original_image_height / 4 More crop usage with convert.
+jpg "$tmp" cat  "$tmp"  eof $p $m $o p0 y90 n"$1" eof "$nona" -m JPEG -z 95 -o "$1"-left.
+xml version="1. UFRaw Version='7' WBManual WB/WB WBFineTuning0/WBFineTuning Temperature5187/Temperature Green1.
+pl il-2014. pl il-2014. pl il-2014. nef | grep W 39) WB_GRBGLevels - 256 485 380 256 42) WhiteBalance - Auto1 56) WB_RBLevels - 1.
+We already went for a similar solution with our own field name and no use of rdf, but just to close this question here is the Lightroom solution as exported by exiftool: XMP-lr:HierarchicalSubject rdf:Bag rdf:ligeneral|mission|ISAF/rdf:li rdf:liArmy|vehicle|Fennek/rdf:li rdf:liArmy|personnel|troops/rdf:li rdf:ligeneral|mission/rdf:li rdf:liArmy/rdf:li /rdf:Bag /XMP-lr:HierarchicalSubject
+
+chimp, camera, flash, use, lens, nikon, canon, one, take, photo
+All this talk of chimps and keepers makes me sound like I work at the zoo. With digital, a quick chimp at the histogram and blown highlight warnings, adjust, and you're ready to go.
+Chimp then say "Wow, that is great, you look amazing!". Always smile when you chimp even if you don't mean it becasue your subject will be watching you.
+Take a picture, chimp, adjust. The other way is to use a handheld light meter. Repeat until lighting is what you want.
+ofcourse, if you have a big chimp dancing on the street and you click a picture of someone standing in the corner, the attention will still be diverted to the chimp.
+From my understanding, the only real benefit of it is, that you have to chimp less often.
+) Both of your cameras have a mode that desaturates the image before storage, which would let you chimp it on the LCD after shooting it.
+If nothing else, bring something like a Hoodman loupe along, and chimp your photos with several different shutter speeds.
+5 ISO 200 Bulb mode The advice I read was to chimp a lot, which I agree with. Here is what I produced (f/8, 2-3 seconds exposure), if that's useful.
+Don't chimp, you might miss a shot, like I did with a whale breach that was maybe 30 feet behind our boat.
+The same is true when you chimp on the back of the camera - you are not looking at the raw file because that is not an image yet.
+
+lens, aperture, mm, camera, shutter, element, would, go, one, battery
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+face, lighting, rembrandt, xqd, compactflash, comic, chiaroscuro, distinguishes, gbps, pci
+The lighting The lighting The lighting The lighting The lighting The lighting The lighting The color grading of the lighting The lighting The lighting The lighting The differences in the contents of the backgrounds The lighting The lighting The lighting The difference between the light striking the subject and the light striking the background of the first image.
+Short Lighting Example: Broad lighting can add weight to a thin face, but it does this by 'adding' roundness/thickness to the face, so it is not a good style of lighting to use with bigger subjects (or even 'normal' subjects with rounder faces.
+it can be done in broad lighting and more rarely in short lighting. Here is a summary of the main lighting schemes : paramount, rembrandt, split, etc.
+What is Rembrandt Lighting? One-light with reflector Rembrandt Lighting setup: When do I use Rembrandt Lighting?
+Is it possible to force face detection and/or face recognition to just a single photo?
+What is Rembrandt Lighting, and When do I Use It? What is 'short' lighting? What is split portrait lighting?
+Face detection simply detects the face in the frame and then it set the autofocus and exposure settings to give priority to the face.
+fr/Lighting%20Studio%20Photo/studio%20lighting. This is a good free lighting diagrams software : http://rienquepourlesyeux.
+The mood of Rembrandt lighting is more serious, dignified, mysterious and dark.
+What is Split Lighting? Whereas Short Lighting and Rembrandt Lighting are 'everyday' lighting choices and the vast majority of portraits will use one of these lighting setups, Split Lighting is an 'accent' lighting choice...
+
+container, hunting, associate, duck, synonym, fishing, infer, trait, swimming, fungi
+Owls Horned ... Most of my subject-related tags are therefor plural. Containers of Subjects with Traits Personally, I use the container approach...
+I've spent some time in Lightroom setting up tag synonyms and hierarchies to get a structure I'm happy with: And I really want to include most of these synonyms in the exported images.
+A fish mannequin [perhaps a fishing lure] placed in the specimen container may aid in setup.
+I keep my mixed chemistry in transparent containers in a cardboard box. Keep it in a dark place: the transparency or otherwise of the container then does not matter.
+Where are the synonyms being stored in the exported images? So when Lr imports that list, it treats the synonyms it finds as a new keyword.
+For classical portrait it's usually something around 80mm, but for environmental portraits (think an old fisherman in his fishing hut with all his fishing equipment and fish tropies around) you'll have the most success with wide-angles around 28mm.
+As in, photographing the object inside the container at different angles is the same (or almost) as outside of the container.
+The was duck at my feet and given that I was standing and I'm 1. The Autofocus couldn't "find" the head of the duck anymore.
+Also, it doesn't need electricity (which was crucial as there was none at the fishing cabin).
+My other lenses, flash, props, and other accessories are kept in clear plastic storage containers.
+
+beam, electron, retro, styling, nod, labelling, ebc, moniker, luminous, walked
+For the uninitiated, it stands for “Super Electron Beam Coating” – a moniker devised in the days when men walked on the moon and words like “electron” and “beam” conjured up visions of a Jetson-like futurama.
+The AF-Beam is is used while the camera focuses but before it meters. In any type of Continuous AF this is not usually the case, so , the AF-beam must be turned off.
+The wide beam is going to fill the umbrella more completely than the narrower beam, creating a better spread.
+You can disable the actual flash firing but keep the beam. Perhaps, if you really want to focus on bland surfaces you can try the flash assist beam from a speedlite.
+You can't use AI servo and have the assist beam. You can also use an ST-E2 to provide an autofocus beam to assist with focusing.
+Can I use this beam as a sort of night vision device, such as the M3 carbine? As far as I know, you can see an infrared (IR) beam by pointing a camera at its direction and take a photo or video of it.
+AF ASSIST BEAM AND FLASH FIRING where you can fire the AF assist beam, without firing the flash, so that it enables the camera to focus better in dark situations.
+A couple reviews or shots (there are many of them on the net :-) ): Photo-Analogue Rollei Retro 80s Rollei retro 80 S My affair with Fuji Acros 100 | Efraín Bojórquez Film diaries: Postcards from Fukuoka, and thoughts on Fuji Acros 100
+Will the laser beam damage a turned off CCD? It is clear that a strong laser beam will damage CCD while it is in use(filming), but what about if the camera is not taking pictures?
+When the electron beam pass, it produces visible light. I want give beam image with CCD camera (1.
+
+picasaweb, image, camera, lens, would, take, one, focus, shot, photography
+PicasaWeb I've used PicasaWeb in the past and found it to be quite good. There are also controls to restrict who can see the photos.
+These are also available on Flickr and PicasaWeb. PicasaWeb provides great value for money with large capacity for little money.
+Please, bear in mind that I'm not looking for online gallery (photo sharing) like PicasaWeb or Flickr.
+I found "Jeffrey’s “Export to PicasaWeb” Lightroom Plugin" but it only uploads to Picasa.
+I'm looking for a photo management solution for windows or linux which is capable of managing my local collection and integrate the photos wich are stored on different cloud services (picasaweb/google, onedrive, flickr etc.
+It occurred to me that you really have two requirements in mind 1) backup - the Amazon S3 service would fulfill this requirement admirably 2) sharing selected photos with family and friends during your travels - here I would recommend Picasa on a netbook uploading to Picasaweb on the Internet.
+For example, Google Picasa lets you choose the size at which to send images to Picasaweb.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+
+camera, use, photo, get, would, shutter, one, iso, image, like
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+picture, would, need, camera, get, lens, take, image, like, shot
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+bpc, xps, bit, image, file, one, also, mm, channel, light
+You can also obviously use 10-bpc displays with 8-bpc or 16-bpc printers. the current 8-bpc printing).
+So here are my questions: Are there any printshops you can provide 10bpc files?
+An 8 bit-per-color-channel (bpc) image is 8x8x8: An 8bpc image can encode a maximum of 16,777,216 colors.
+But at 16bpc, that's not the case. jpg for web), a general rule of thumb is that it should be 8bpc sRGB.
+If you want minimal file size while still maintaining compatibility with Lightroom you should use TIFF (ZIP compressed for 16bpc, LZW compressed for 8bpc, as recommended here).
+Just by example, Photoshop's Info panel shows the following information: If I understand correctly, "8bpc" = 8 Bits/Channel.
+12 bpc+ is very common, and 14 bpc+ is possible with the best sensors. Any value a 7 bpc or 9 bpc variant of JPEG might have is wiped out by decades of historical inertia pushing us to stick with 8.
+An 8 bit-per-color-channel (bpc) image is 8x8x8: An 8bpc image can encode a maximum of 16,777,216 colors.
+Rig details - Canon 6D, Dell XPS-13 and Windows 10. There is no auto processing preset applied and modifying settings such as exposure or white balance have absolutely no effect on the displayed "image" (the yellow rectangle).
+So far I've been using old Dell XPS and I was very pleased until recent failure of LCD itself.
+
+pack, lp, rated, supplied, oem, bp, generic, camcorder, compatible, eh
+Battery Delivered Optional D30 BP-511 BP-511A D60 BP-511 BP-511A 10D BP-511/BP-512 BP-511A 20D BP-511A BP-511, BP-512, BP-514AC 30D BP-511A BP-511, BP-512, BP-514 40D BP-511A BP-511, BP-512, BP-514 50D BP-511A BP-511, BP-512, BP-514 5D BP-511A BP-511, BP-512, BP-514 60D LP-E6 n/a 7D LP-E6 n/a 5D mk2 LP-E6 n/a 5D mk3 LP-E6 n/a Note that there is no optional battery pack for the LP-E6 at the moment.
+The BP-511A is rated at 1390mAh. My experience with Sterling Tek BP-511A compatible batteries rated at 2200mAH was that they did indeed last longer than the OEM BP-511A supplied by Canon with the camera.
+e confermiamo che il modello EH 19L è utilizzabile SOLO con Corpo macchina + obiettivo 18-55.
+The BP-511/BP-512/BP-514, LP-E10, LP-E12, LP-E17, LP-E5, LP-E8, and NB-2LH have all been used with models in the Rebel line since the beginning of 2007.
+This is from the PCWorld Review: Canon upgraded the battery pack to the LP-E8 instead of the LP-E5 that powers the T1i.
+So, is the generic better than the original? Though I think the generic is better than the original: Generic: 7.
+Here is a link to the packs: HDR Source Pack Link I have posted some hdr source files packs on my DA account.
+BP-522 and BP-535 for example. The BP-511A are 1390mAh(higher capacity) than the BP-511 which is 1100mAh.
+Alternatively you could buy a third party non-OEM battery that is rated above the OEM battery in capacity.
+For any cam I owned I bough original batteries as well as generics. In the last 6 years I owned several Pentax and Nikon DSLRs and batteries, original and generics.
+
+heated, wr, steam, arctic, coast, supreme, ocean, skiing, pacific, sauna
+It extends from the pacific to the Atlantic, all the way north into the Arctic Ocean.
+Taking photographic equipment into a heated sauna, steam or no steam, is not advisable.
+If you can get the WR for the same price as the non-WR, buy it, smile and don't ask too many questions ;)
+Ensure that steam exists(I'm not confident with that being the case here) Add contrast to the background as you aren't going to see white steam on a white background Add depth to the steam with something other than flat lighting(i.e.
+I read that the WR-R10 and WR-T10 are compatible with specific Nikon D-SLRs. Remote control is more convenient with the D5200 due to support for the WR-R10 (transceiver) and WR-T10 (transmitter) that utilize electromagnetic waves.
+A lot of pictures you see with steam are composites of the photo + steam. First of all, the steam is hard to shoot on a photo.
+Is there any other reason why an image sensor gets heated? Also do live view function make the sensor more heated?
+You can either use Snapbridge, MC-DC2 remote cord or WR-1/WR-T10/WR-R10 wireless transmitters and receivers to control your camera remotely.
+I have no experience with reversed lenses an such but do have the MPE-65mm and have good results with it.
+For those who may not know what Retinex is, or how it's different from other processing algorithms (I didn't), you can find a full treatise on the technology and it's applications from the technology's inventors here: Processing Digital Imagery To Enhance Perceptions of Realism To briefly summarize what is admittedly a rather dense white paper, Retinex, or more correctly Multi-Scale Retinex with Color Restoration (MSRCR) is an algorithm that automatically "improves the perception of visual realism and the quantity and quality of perceived information in a digitized image.
+
+camera, get, lens, using, photo, one, picture, film, use, also
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+image, iso, camera, lens, one, use, light, flash, get, aperture
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+deviantart, ezprints, rafter, rochester, rafting, mm, lens, camera, image, good
+I have a friend who switched from Flickr to DeviantArt after shooting at a fetish photography workshop.
+More importantly, what if the photos include commercial rafting companies? Are there any legal issues involved with going to a public river and taking pictures of white water rafters coming down the river?
+com, that secretly uploads files to ezprints. With regards to resale, Smugmugs uses Ezprints as one of their print-sale vendors, so there is no way that Ezprints prohibits the resale of prints made with Ezprints.
+by contracting with the rafting companies. How exactly are you planning on selling the photos to the rafters?
+176 Anderson Avenue Rochester, NY 14607 Telephone: (585) 442-4820 Fax: (585) 442-7124 email: info@4photolab.
+I have seen other photographers use deviantart art work as backdrops in their photography with exotic outcomes.
+IMO, image theft is not a concern here and you should evaluate EzPrints on other criteria.
+I was reading the EzPrints. That sounds rather ludicrous, as there is no way in hell I am giving up my right to rework, print, distribute, and sell my own property simply because I printed it through EZPrints.
+Nothing will help you learn photography better than experimenting with the camera, then sharing the results on sites like flickr and deviantart.
+or try Deviantart, there are some photos with a free license, which can be used as stock photo, but they are mostly limited to noncommercial use.
+
+camera, lens, light, get, image, shot, much, like, mm, one
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+lens, dust, sensor, clean, cleaning, spot, remove, contact, use, cloth
+It has a small bottle of alcohol lens cleaner, but I'm not sure how to use it, should I apply it directly to the lens, or onto a cloth or tissue?
+Lens cleaning tools are a blower, a microfiber cloth, and lens cleaning fluid. Try to blow up dust off the lens with the blower or canned air.
+Use some lens cleaner fluid and either a lens tissue or a fine microfiber cloth to clean the surface of the lens' front element.
+I use one from my spectacles after blowing the lens surface with an air blower.
+It's a mixture of dilute ammonia, isopropyl alcohol, and a mild surfactant. , very sparingly) it removes greasy films easily and evaporates with no residue.
+Usually, we purchase a camera cleaning kit that comprise a cleaning solution, cleaning brush, cleaning cloth and a air blower.
+I use the microtex for the body and the microglass for the glass for a heavy clean, though I use those lens pens most often and occasionally lens fluid and tissue.
+Always brush first to remove an particles from the lens surface. There are sometimes marks which do not come off with the lens pen and for those I use a wet-solution but always after brushing away particles.
+Blow or lightly brush off loose particulate! A very soft brush, such as a camel hair brush or something like a lens pen, can be used to lightly brush off stubborn particulate Use a soft micro-fiber cloth to wipe up loose grimy residue Residue is often not that difficult to remove, and a very soft, clean, dry micro-fiber cloth is usually all that is necessary to remove Use a cleaning solution with lens cleaning tissues for tough grime Lens cleaning tissues are specially designed to pull up grime and leave no scratches They are cheap and disposable, and tough enough to handle use with cleaning solution Isopropyl alcohol is a good cleaning solution that evaporates without leaving behind its own residue Alcohol is not always effective, so more powerful cleaners may be necessary
+Here are a few tips per your request: Tools of the trade: Air blower Lens brush Microfiber cloth (nothing cheap or it will probably leave micro lint everywhere) Methyl alcohol wipes Smudges: Alcohol wipe - one to gently lay over and pick up any dirt/sand Alcohol wipe again to gently rub Microfiber cloth Dust: Alcohol wipe - one to gently lay over and pick up any dirt/sand Air blower Lens brush Alcohol wipe Microfiber cloth Sand: Alcohol wipe - one to gently lay over and pick up any dirt/sand Air blower Lens brush "Slime": I tend not to slime my lenses, but if it's more like ectoplasm than pond scum I suggest the following: Soft silicone spatula to scrape the bulk of the slime off (careful not to scrape the lens) Microfiber cloth to remove what is left of the heavy slime Alcohol wipe to cleanse the fine remaining slime Air blower to dry out the slime Alcohol wipe again New microfiber to clean what's left
+
+lens, use, get, shot, camera, one, canon, picture, see, pentax
+5x magnification is too close. This might be more suitable if you are mostly hand-holding, and will give you more versatility for larger insects for which 2.
+I'm curious how a bump can affect AF in the body itself. This is less a 'what do I do here' question than a 'how does autofocus work, exactly, inside' type of question.
+Almost all image manipulation software offer capabilities to define layers and adjust their opacity, that way you can use any number of overlapped images to simulate multiple exposures.
+I have not tried the Adorama, but I except them to be same. If you're going to shop online, I know BH has a great customer service and they will help you with choosing a bag, just give them a call (or email) and ask them to confirm whether you can fit your equipments in the bags you like, you can also try their live chat.
+How is it even possible to store the two images with the same file name in the same folder ?
+Being on Android platform, you also have accessibility to applications that can give you some plausible deniability in preliminary investigations by hiding/obscuring your pictures (keep in mind though that you can not solely rely on obscurity, for security).
+So in practice, dictionary attacks are far more likely to succeed than the original poster of this question would like.
+If you installed something to interpret your RAW files, I would uninstall it and get Adobe Camera RAW or Lightroom (if you want to manage your images too).
+When I click OK, I cannot detect any processing going on - there is no delay or change whatsoever to the image - so in my experience if you have the image at 100% you are seeing exactly what you will get.
+The originality validation function of this tool has been cracked, so I wouldn't trust this kit too much.
+
+temperature, water, weather, camera, bag, lens, air, inside, cold, plastic
+Moving a warm camera into colder air is not a problem, but moving a cold camera into warm air will cause condensation.
+Let the lens get down to the outside temperature. Just remember to put the lens back in the bag when you go back into the heated area, to prevent the warm wet air inside the house from condensing on the cold lens.
+Now, if I am shooting outside, is the camera interior air-proof? Is the air inside the lens and near the sensor warm?
+However condensation is not generally a problem when changing lenses outdoors. When changing lenses outdoors the cold air is dry and so condensation will not form inside the camera.
+So, if we put the camera inside a dry box / dry cabinet (to prevent fungi / mold), do we need to keep the lens cover / lens cap on the camera?
+I have significantly more issues changing lens in warm/humid environment on a camera that was seating in an air-conditioned room for sometime.
+Most important - Don't let the camera come in direct contact with salt water or sand When you change lenses go indoors (even inside a closed car will do) to prevent airborne sand and water from entering the camera.
+I toss an extra back lens cap and body cap in my bag just in case. I keep heavy lenses on my Black Rapid and keep smallers lenses in my bag.
+How can I know which lenses are weather sealed too? Can I somehow make my current lens "weather sealed" with some kind of plastic bag?
+Is it really working in heavy rain or is it only for few water drops? Weather sealing is not waterproofing.
+

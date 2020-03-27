@@ -1,0 +1,780 @@
+ball, red, cointegration, urn, egg, stationary, rural, urban, green, governance
+I use a Dickey-Fuller test to test for stationarity and concluded that both of my series are non-stationary.
+I might be wrong but from what you write, it seems you've been given a "classical" introduction to econometrics: You've covered IVs and Diff-in-diff but apparently only in passing, and causal inference does not look like it was the core of the classes you've taken.
+An urn contains equal number of green and red balls. The ball is then placed back in the urn, and the selection process is repeated.
+The expected number of superballs is the expected number of urns with a nonzero number of red balls.
+$good_2(good_1)$), which simplistically means solving $good_1= -a\times good_2 +b$ for $good_2 $; $$ good_2(good_1)=-\frac{1}{a}\times good_1 +\frac{b}{a}$$ i.e.
+Do I need to convert the governance indicators (-2. All indicators range from -2.
+Say I have $U$ urns, and some balls. Some urns will have more than one ball, some might have none.
+What you shall do is to test for stationarity of residuals obtianed from cointegration vector.
+It seems that the Coase Theorem presume that if a deal can be made, it will be made.
+50 / dozen and the minimum wage is \$15 / hr (eggs now cost 16% of the minimum wage).
+
+army, na, organization, meal, industrial, resident, prize, restaurant, weak, attack
+Although I am not a macroeconomist, I am confident to say that search models recognized as a key ingredient to explain unemployment in equilibrium.
+The other question is whether there is any effect colloquially similar to the 'magical chairs' game in which the latest resident to move into a region of increased popularity will not reap the rewards obtained by the prior residents?
+Similarly, Army 2 attacks ($A$) in both types in this case. Say, we have $\textbf{(A,NA)}$ as army 1's strategy and $\textbf{(A,A)}$ as army 2's strategy, it means, Army 1 attacks ($A$) when it is of type "Strong" and does not attack ($NA$) when it is of type "Weak".
+So far I have Eric Maskin (advisor) / Jean Tirole (student) Are there other pairs?
+His rationale is that it will save people from starvation and collapse due to resource exhaustion in a finite universe.
+I'm currently an undergraduate freshman looking for resources to self-read Industrial Organization.
+com/cje/article/43/3/527/5150014 Abstract This paper revisits the conception of heterodox economics advanced by Tony Lawson in 2006 and critically assesses its reception.
+And on top of that, I really enjoyed The Economics of industrial organization by Shepherd.
+This all being said, (except for a few articles on behavioural game theory) why has a large chunk of young game theorists decided to stay away from "behavioural" elements?
+Sources Nobel Prize Website Hansen Congratulatory Talk on Sargent/Sims Nobel Nobel Prize Advisor/Student Pair Another pair is Chris Sims (Nobel Memorial Prize in Economics in 2011) Shared with Thomas Sargent "for their empirical research on cause and effect in the macroeconomy" Lars Hansen (Nobel Memorial Prize in Economics 2013) Shared with Eugene Fama and Robert J.
+
+country, rate, currency, exchange, price, export, good, usd, u, foreign
+Assuming China has a 30% inflation rate, while USA and Lebanon have 0 inflation rate, then the fact that the inflation rate differential between China and USA is 30%, while the Chinese nominal exchange rate was devalued by only 20%, implies that in real terms, the Chinese currency (relative to both the USD and Lebanese Pound) has actually appreciated by approximately 10%=30%-20%, leading to Chinese exports looking more expensive to Americans and Lebanese, and American and Lebanese imports looking cheaper to the Chinese.
+Furthermore, before having a deficit, the US has had a surplus for a very long time, so it is natural it would eventually have a deficit.
+The Australian economy is almost tied to the hip to China – about one-third of its exports go to Greater China and, perhaps more importantly, two-thirds of its exports are products where China sets the price: coal, iron ore, wool, metals, etc.
+For this given nominal exchange rate, my purchasing power would decline if I exchanged all my pounds to dollars, as U.S.A.
+I know that if a country exports more than it imports (a "favorable" balance of trade), there is a greater demand for its goods - and thus, a greater demand for its currency - on the Foreign Exchange Market.
+This will have two effects: (a) this will shift the IS curve further to the right (because net exports have risen, and so Y has risen) and (b) this will shift the BP curve to the right (because net exports have risen, improving the current account balance).
+I'm reviewing a previous AP Macroeconomics exam and I saw the following question: The United States and South Korea are trading partners, and the United States has a zero current account balance.
+For this question, I feel like it would not be possible to derive a preference relation of the entire electorate because it seems that no one candidate is strongly/weakly preferred.
+In countries with high infant and child mortality rates, however, the average number of births may need to be much higher.
+if the home country's inflation rate is lower than that of the foreign country, then all else equal, the home currency should depreciate in real terms as the domestic consumption basket becomes cheaper relative to the foreign consumption basket some of the confusion abounds because of the different quoting conventions (X vs 1/X, foreign vs domestic, etc)
+
+price, market, agent, model, bid, asset, stock, auction, expectation, seller
+This is the very general statement that can be found from here and there: Investopedia: This principle is called the Efficient Market Hypothesis (EMH), which asserts that the market is able to correctly price securities in a timely manner based on the latest information available.
+In general, the difference between the fundamental value of an asset and its market price constitutes, to some degree, bubble behavior.
+For example: Buyers: Buyer 1: bid price = 30 cent Buyer 2: bid price = 25 cent Buyer 3: bid price = 20 cent Buyer 4: bid price = 15 cent And the ask prices of the sellers per item: Sellers: Seller 1: ask price = 25 cent Seller 2: ask price = 20 cent From what I understand is, that there would be just one clearing price and Buyers 1 and 2 will both purchase an item from Seller 1 and 2 for 20 cent, instead of 30 and 25 cent.
+In your example, the market clearing price is $25$ as there are two buying bids at that price or higher and two selling bids at that price or lower, and no other price achieves this match So Buyer $1$ and Buyer $2$ both pay $25$ and Seller $1$ and Seller $2$ both receive $25$ If you want actual examples, you could look at the shares of Tottenham Hotspur Limited (the football club) on Asset Match and the Auction results (almost every month) in the right hand column.
+Hence, the weights of all assets in the market portfolio must be non-negative as well.
+The key to problems like this is that it cannot be simplified to one representative buyer and one representative seller.
+In addition to this, complete or incomplete markets have always the so-called Arrow-Debreu sense of complete/incomplete markets?
+The new classicals sidestepped the problem of aggregation either by imagining an economy composed of identical individuals or by assuming that there is one individual who represents the whole economy, so that the solution to the optimization problem of this representative agent gives the aggregate relationships in that economy.
+Iterative Auction: The auctioneer repeats the auction and the traders submit bids/asks until a purpose (welfare maximization etc.
+In current mainstream macro practice, the representative-agent (RA) assumption (of DSGE models and nearly identified with them) side-steps the SMD: The theorems of Hugo Sonnenschein, Rolf Mantel and Gerard Debreu in the early 1970s established that the restrictions that generate well-behaved individual demand functions do not constrain aggregate demand functions to exhibit the same properties [...].
+
+career, bring, pursuing, frac, utility, anymore, mathbf, would, q_, p_
+So let's say career A will bring him a utility of 10 and career B a utility of 9.
+Here's the abstract: "The careers of MBAs from a top US business school are studied to understand how career dynamics differ by gender.
+(I cannot find a "career"-tag so I apologize if this question if off-topic) What are some common career paths that involve the combination of these topics, and what subtopics can one study to strengthen oneself further in these fields?
+So my career goal is that I want to pursue research in Economics and publish papers.
+Labor economists usually study topics such as career choice, returns to schooling, determinants of labor productivity, wages, gender and racial gaps.
+I couldn't find one for career. More importantly, would my current skills as an engineer help in such a career switch?
+Here's a paper that talks about it: "Security analysts’ career concerns and herding of earnings forecasts" in the RAND Journal of Economics.
+I imagine you have at been exposed to at least one, but having knowledge in multiple languages is very valuable to employers or to an academic career.
+Such family of games would capture many real-life games, such as career choosing (where the profit of becoming, say, a programmer, depends on the number of people studying programming, and it is not effected by the ratio of, e.g.
+For example, with enough people we can have an artisanal pencil sharpener and professional crossword puzzle maker but a smaller population couldn't sustain that as a career.
+
+theta, prime, varepsilon, sim, pr, lambda, rule, omega, receiver, domain
+\begin{align*} \int_{\underline{\theta}}^{\bar{\theta}}{u(\theta) dF(\theta)}  = \Big[ u(\theta)F(\theta) \Big]_{\underline{\theta}}^{\bar{\theta}} - \int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\bar{\theta})F(\bar{\theta})-u(\underline{\theta})F(\underline{\theta})-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\bar{\theta})-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \text{ since } F(\bar{\theta})=1, F(\underline{\theta})=0\\  = u(\underline{\theta})+(u(\bar{\theta})-u(\underline{\theta}))-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{u'(\theta) d\theta}-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{v_{\theta}(q(\theta),\theta) d\theta}-\int_{\underline{\theta}}^{\bar{\theta}}{F(\theta) v_{\theta}(q(\theta),\theta) d\theta} \text{ since } u'=v_{\theta}\\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{(1-F(\theta)) v_{\theta}(q(\theta),\theta) d\theta} \\  = u(\underline{\theta})+\int_{\underline{\theta}}^{\bar{\theta}}{\dfrac{1-F(\theta)}{f(\theta)} v_{\theta}(q(\theta),\theta) dF(\theta)} \\  = \int_{\underline{\theta}}^{\bar{\theta}}{u(\underline{\theta})dF(\theta)}+\int_{\underline{\theta}}^{\bar{\theta}}{\dfrac{1-F(\theta)}{f(\theta)} v_{\theta}(q(\theta),\theta) dF(\theta)} \\  = \int_{\underline{\theta}}^{\bar{\theta}}{\Big[u(\underline{\theta})+\dfrac{1-F(\theta)}{f(\theta)} v_{\theta}(q(\theta),\theta) \Big]dF(\theta)} \end{align*}
+$$ Then for $\varepsilon^{\prime}$ sufficiently small, $$x - \varepsilon (1, 1) + \varepsilon^{\prime}(-1, 1) \prec x \prec x + \varepsilon (1, 1) + \varepsilon^{\prime}(-1, 1)$$ by continuity (and for small $\varepsilon^{\prime}$ these points are once again contained in $X$).
+There are papers that propose social choice rules whose output is an incomplete social preference relation (or even an intransitive social preference relation), and their authors might still describe these rules as satisfying "unrestricted domain" because all they ever wanted was an incomplete (or even intransitive) relation.
+How can we use the same $\theta$ in the proof while the definition clearly states $u(\theta)\geq \theta q(\theta')-t(\theta'),\forall\theta,\theta'$?
+"Arbitrage of the First Type": There exists a portfolio $\theta$ such that $p' \theta \leq 0$ and $D' \theta  \vec 0$.
+Just integrate out $(t_i,t_{-i})$ in $\Pr(a_i,a_{-i},t_i,t_{-i},\theta)$ to get that joint distribution.
+I get something like this: $\int^\bar\theta_\underline\theta u(\theta) dF(\theta) = u(\theta)F(\theta)|^\bar\theta_\underline\theta - \int^\bar\theta_\underline\theta F(\theta)v_\theta(q(\theta),\theta)d\theta$ I can simplify this a bit further, but it does not simplify to the authors' expression.
+Similar argument for 2.8. By definition we have $$ \begin{align*} u(\theta)  = \theta q(\theta)-t(\theta) \\ \\ u(\theta + \delta)  = (\theta + \delta) q(\theta + \delta)-t(\theta + \delta) \end{align*} $$ By incentive compatibility (where $\theta + \delta$ is the true type, $\theta$ is the false type) we have $$ u(\theta + \delta) \geq (\theta + \delta) q(\theta)-t(\theta) $$ Using these (I used square brackets for clearer notation, there is no mathematical function to them) $$ \begin{align*} u(\theta + \delta) - u(\theta)  = \left[(\theta + \delta) q(\theta + \delta)-t(\theta + \delta)\right] - \left[\theta q(\theta)-t(\theta)\right] \\ \\ u(\theta + \delta) - u(\theta)  \geq \left[(\theta + \delta) q(\theta)-t(\theta)\right] - \left[\theta q(\theta)-t(\theta)\right] \end{align*} $$ This also holds if you divide by $\delta  0$.
+Can someone elaborate on this? After a subsidiary company spins off from its parent and becomes public, what happens when the subsidiary distributes its shares to the parent firm's shareholders at some later time?
+com/news-releases/new-startup-formed-to-commercialize-patented-usc-technology-that-uses-game-theory-to-intelligently-randomize-security-patrols-for-safer-airports-borders-municipalities-and-waterways-198028371.
+
+mathbf, vert, distribution, capm, cauchy, eu, member, dutch, component, matrix
+But do not take what i am saying for granted: if you really want to know how abusive maintaining your economic interpretations would be, it's all a matter of visualizing/diagnozing the relative weights of your components, e.g.
+$t(y,−\mathbf{x})+(1-t)(y,−\mathbf{x'}) \in Y \implies (ty+(1-t)y, -t\mathbf{x}-(1-t)\mathbf{x'}) \in Y \implies (y,-t\mathbf{x}-(1-t)\mathbf{x'}) \in Y $ Which is just equivalent of saying that: $t\mathbf{x}+(1-t)\mathbf{x'} \in V(y)$ because both $\mathbf{x}$ and $\mathbf{x'}$ are in $V(y)$.
+) Eurostat actually acknowledges the issue in a FAQ, but does not try to quantify it: The quasi-transit is known to impact mostly the Member States with big ports at the external border to the European Union and in particular the Netherlands.
+The special purpose vehicle is intended to enable European companies to do business with Iran, despite strict US sanctions.
+Assuming no errors in your math up to this point, you need to consider how your error terms $U_i$ behave asymptotically as well.
+Sequence Subsequences N(HH) N(HT) p(H|H) TTTT - TT.. TH 0 0 - TTHT - TT.. TT 0 0 - TTTH - TT..
+We need that $v$ and $\mathbf{x}$ are mutually independent so that $\log(v)$ and $\mathbf{x}$ are mutually independent.
+Let me begin with noting that models such as the CAPM have been extensively falsified, beginning with Mandelbrot in 1963 and ending with the Fama-MacBeth testing in 1973.
+Could you check if this is okay? Then, $\mathbf{M_xM_1} = \mathbf{M_x}(\mathbf{I} - \mathbf{P_1}) = \mathbf{M_x - M_xP_1} = \mathbf{M_x-[I-P_x]P_1} = \mathbf{M_x-[P_1-P_xP_1]} = \mathbf{M_x - [P_1-P_1]} = \mathbf{M_x}$.
+$\mathbf X\mathbf e_i \neq \mathbf 0$ is a $n \times 1$ vector, and equal to the $i$-th column of $\mathbf X$.
+
+p_s, coke, can, c_s, p_l, c_l, peter, alice, pln, foreign
+Could anyone help me understand the forward bid and ask for PLN/RON for the next 3 months.
+Calculate all initial endowments from which trades lead to $(C_S, C_L, P_S, P_L) = (3, 3, 3, 7)$ as the Walrasian equilibrium.
+The following is an excerpt from Montiel's Macroeconomics in Emerging Markets (1st edition): B: Privately owned bonds DC: Government bonds held by the central bank sB*: Bonds held by foreigners, valued in foreign currency P(G - T): Primary deficit i: Interest rate for privately owned bonds i': Interest rate for bonds held by foreigners sR*: Foreign reserves, valued in foreign currency Δ: Variation Foreign reserves are held by the central bank, not by the treasury.
+At time $0$, Alice lends $10$£ to Peter. Peter then decides to reimburse Alice the amount of $10$£.
+If both, Colin A and Colin B were considered, Rose should follow a mixed strategy of 8/9 for Rose A and 1/9 for Rose B, which leads to a security level of 20/9, but only if Colin A was considered.
+5U(w+1000)$$ Now, you're looking for a payment $p(w)$ such that $u(w - p(w)) = U_L(w)$.
+Both supply and demand share the same change in quantity as a result of the tax, so $$\Delta Q_S = \Delta Q_D$$ The amount by which the quantities changed is the derivative of that quantity wrt price, times the change in price that side experienced $$\frac{\partial Q_S}{\partial P_S}\Delta P_S = \frac{\partial Q_D}{\partial P_D}\Delta P_D$$ Multiply both sides by the equilibrium P/Q $$\frac{\partial Q_S}{\partial P_S}(\frac{P^*}{Q^*})\Delta P_S = \frac{\partial Q_D}{\partial P_D}(\frac{P^*}{Q^*})\Delta P_D$$ which of course is the formula for elasticity at the equilibrium $$\varepsilon_S \Delta P_S = \varepsilon_D \Delta P_D$$ $$\frac{\varepsilon_S}{\varepsilon_D}\Delta P_S = \Delta P_D$$ So then the producer's share is $$Incidence_S=\frac{P^*-P_S}{T}=\frac{|\Delta P_S|}{|\Delta P_S|+|\Delta P_D|} = \frac{|\Delta P_S|}{|\Delta P_S|+|\frac{\varepsilon_S}{\varepsilon_D}\Delta P_S|}$$ the price change cancels out and you get producer's share as $$Incidence_S=\frac{1}{1+|\frac{\varepsilon_S}{\varepsilon_D}|}=\frac{|\varepsilon_D|}{|\varepsilon_D|+\varepsilon_S}$$ So it all comes from the fact that this is the unique formula that produces the price-change ratios that generate identical quantity changes in both sides of the market.
+Specifically: $P(v) = \max_{c_s, w_s} \sum_s \pi_s [\bar{y}_s - c_s) + P(w_s)] \\ s.
+That is, you can afford more cans of coke when the price goes down. That is, you buy more cans of coke when, all else equal, its price decreases because coke is now relatively cheaper than Sprite and Pepsi.
+Say the store sells Pepsi and Coke. If the retailer drinks a bottle of coke from his own store, does that get counted into the GDP of a nation?
+
+apple, tariff, biggr, candle, i_i, clothes, kid, product, mu_u, xyz
+The Apple Airpods, Apple Watch and accompanying Apple Watch bands and the Apple Homepod are all products subject to the higher tariffs beginning Sunday.
+If so, what are the tariffs for importing 'candles' from these States? I am wondering where I can find information on tariffs when importing scented candles from States like China, India, Vietnam, Thailand into the U.S.?
+clothes} \cdot \ kids\cdot\ income + u_{clothes}$$ it is evident that you have "kids" and "income" as regressors, plus an interaction term
+Apple is an American company, and Iphone is its product. As the tariffs war getting escalating, I am curious about how the tariffs works on Iphone.
+clothes} * \ kids)$? clothes} + \gamma _{1. clothes} + \gamma _{1. clothes} * \ kids)* \ income + u_{clothes}$ $w_{food}= \beta _ {food} + \alpha_{food} * \ kids + (\gamma _{0.
+Take the total differential around the current state of the economy, using the rules above and setting $Y^v = (1 - t) Y$: $$\begin{align} dY  = d\left[ C((1 - t) Y) + I(i, E) + G \right] \\  = d\left[ C((1 - t) Y) \right] + d\left[ I(i, E) \right] + dG \\  = C_{Y^v} d\left[ (1 - t) Y \right] + I_i \, di + I_E \, dE + dG \\  = C_{Y^v} \left[ Y_0 d(1 - t) + (1 - t_0) \, dY \right] + I_i \, di + I_E \, dE + dG \\  = C_{Y^v} \left[ Y_0 (-dt) + (1 - t_0) \, dY \right] + I_i \, di + I_E \, dE + dG \\  = C_{Y^v} \left[ (1 - t_0) \, dY - Y_0 \, dt \right] + I_i \, di + I_E \, dE + dG \end{align}$$ References: Chiang, Alpha C.
+You have 10 apples. 2 apples tomorrow for every apple you save today. Let's say that with some optimization, you decided to eat 4 apples, saving the other 6 apples so that you could have 12 apples tomorrow.
+Apple has been doing significant stock buy-backs. My question is: Can Apple use its off-shore cash to do Apple stock buy-backs tax free?
+50 = 2000 apples. Then D has borrowed the equivalent of 1000 apples from C. ) Suppose that apples are the only good that is produced and consumed, and that on 1st Jan 2020, the price of each apple is \$1.
+Usually the end user pays the tariff. Is there a metric that is used to measure which stakeholder is impacted?
+
+sigma_, turnover, ldots, digit, coordinate, decimal, tenure, underlined, n_, monotone
+Is tech giants turnover cheap or unavoidable ? How do they manage turnover costs, generally speaking ?
+x^1_1x^2_1\ldots x^n_1x^1_2x^2_2\ldots x^n_2x^1_3x^2_3\ldots x^n_3\ldots$. The number $f(x)$ will start with the first few decimal digits of $x^1$.
+Q1: why they said that affirmation is obvious? This is if $s_{i}\in S_{i}$ is strongly dominated for some $\sigma_{i}$$\in \Sigma$ with $\sigma_{i}(s_{i})0$, $\exists$ $\sigma_{i}'\in \Sigma_{i}$ such that $\forall$$s_{-i}\in S_{-i}$$: \pi_{i}(\sigma_{i}',s_{-i})\pi_{i}(\sigma_{i},s_{-i})$.
+Since $(\sigma_1^*, \sigma_2^*)$ is the Nash Equilibrium of $G$, \begin{eqnarray*} \mathbb{E}(u_1(\sigma_1^*, \sigma_2^*)) \geq \mathbb{E}(u_1(\sigma_1, \sigma_2^*))   \forall \sigma_1 \in \Delta (A_1) \\ \mathbb{E}(u_2(\sigma_1^*, \sigma_2^*)) \geq \mathbb{E}(u_2(\sigma_1^*, \sigma_2))   \forall \sigma_2 \in \Delta (A_2) \end{eqnarray*} The above can also be rewritten as \begin{eqnarray*} \mathbb{E}(u_1(\sigma_1^*, \sigma_2^*)) + d_1 \geq \mathbb{E}(u_1(\sigma_1, \sigma_2^*)) + d_1   \forall \sigma_1 \in \Delta (A_1) \\ \mathbb{E}(u_2(\sigma_1^*, \sigma_2^*)) + d_2 \geq \mathbb{E}(u_2(\sigma_1^*, \sigma_2)) + d_2   \forall \sigma_2 \in \Delta (A_2) \end{eqnarray*} Because $d_1$ and $d_2$ are constants, we can take them inside the expectation and rewrite the above inequalities as: \begin{eqnarray*} \mathbb{E}(u_1(\sigma_1^*, \sigma_2^*) + d_1) \geq \mathbb{E}(u_1(\sigma_1, \sigma_2^*) + d_1)   \forall \sigma_1 \in \Delta (A_1) \\ \mathbb{E}(u_2(\sigma_1^*, \sigma_2^*) + d_2) \geq \mathbb{E}(u_2(\sigma_1^*, \sigma_2) + d_2)   \forall \sigma_2 \in \Delta (A_2) \end{eqnarray*} By definition of $v_1$ and $v_2$, \begin{eqnarray*} \mathbb{E}(v_1(\sigma_1^*, \sigma_2^*)) \geq \mathbb{E}(v_1(\sigma_1, \sigma_2^*))   \forall \sigma_1 \in \Delta (A_1) \\ \mathbb{E}(v_2(\sigma_1^*, \sigma_2^*)) \geq \mathbb{E}(v_2(\sigma_1^*, \sigma_2))   \forall \sigma_2 \in \Delta (A_2) \end{eqnarray*} Therefore, $(\sigma_1^*, \sigma_2^*)$ is also the Nash Equilibrium of $G'$.
+Putting "cues" on organic food products (e.g. Since the organic cues is less costly for the real organic food producers to produce (for instance, labeling non-organic foods as organic would face legal disputes, and hence a negative expected cost), these cues (or signals) are reliable.
+However, I am not sure based on what rule are the numbers underlined. It seems have something to do with the underlined numbers in the table.
+Some of them have negative turnover for one or more of the months. How does a negative turnover work?
+If $\sigma_1,\sigma_2$ are in the joint support of $s_1,s_2$ and $\tau$ is not, then (writing $P$ for the first player's payoff) you need $$P(\tau,s)\le P(\sigma_1,s)=P(\sigma_2,s)$$ where $s$ is a convex combination of the $s_i$.
+However, when it comes to IT - USA has Google, Facebook, Amazon, Dell, Cisco, Microsoft, Red Hat, HP, Apple etc.
+Has any of the tech giants - and specifically Facebook - looked into this? Facebook, notoriously, crowd-sources through the internet to improve their product - Facebook.
+
+discounting, sigma_a, sigma_b, r_d, commerce, hyperbolic, exponential, bob, wheat, interstate
+Section A gives a summary of this doctrine's development and states: Modern precedents rest upon two primary principles that mark the boundaries of a State’s authority to regulate interstate commerce.
+In footnote [7] of Marx's Capital, T. 1, Sec 1, after ... , p. c. Barbon, t. » (N.
+We wish to show that $w^2\sigma_A^2 + 2w(1-w)\sigma_A\sigma_B \rho_{AB}+ (1-w)^2\sigma_B^2\leq \sigma_A^2$ Note that $\sigma_A^2 = \sigma_A^2 (w + (1-w)) ^2 = \sigma_A^2 w^2 + 2w(1-w)\sigma_A^2 + \sigma_A^2(1-w)^2$ Since $\sigma_A \geq \sigma_B$ and $w$, $(1-w)$, and $\sigma_A$ are positive, this means that $\sigma_A^2 \geq \sigma_A^2 w^2 + 2w(1-w)\sigma_A\sigma_B + \sigma_B^2(1-w)^2$ And since the correlation has the property that $-1 \leq \rho_{AB} \leq 1$ and $w$, $(1-w)$, $\sigma_B$ and $\sigma_A$ are all positive, it must be the case that $\sigma_A^2 w^2 + 2w(1-w)\sigma_A\sigma_B + \sigma_B^2(1-w)^2 \geq \sigma_A^2 w^2 + 2w(1-w)\sigma_A\sigma_B\rho_{AB} + \sigma_B^2(1-w)^2$ Therefore $\sigma_A^2 \geq \sigma_A^2 w^2 + 2w(1-w)\sigma_A\sigma_B\rho_{AB} + \sigma_B^2(1-w)^2$ $\square$ In words, looking at the formula for variance of a convex combination of random variables, the variance is maximized if the correlation between the assets is 1.
+Sam is the other way around: He can mow his lawn in 2 hours and clean his gutters in 4.
+For instance, the stock market starts falling and worried baby boomers start cashing out their retirement accounts and then start spending it on things like medical care, prescription drugs, on retirement housing, vacations, RVs, ect?
+Let's address your question in a canonical manner. the interest rate or the cost of debt is denoted by $r_D$ (naturally $r_D  r$) the share of debt in the capital structure of the company is denoted by $X\%$ the corporate tax rate is denoted by $T_c$ It follows that the average cost of capital (average over equity and debt), $r'$, is such that $r' = X\% r_D (1-T_c) + (1-X\%) r$ In your case, $X\% = 100\% = 1$, then $r' = r_D(1-T_c)$.
+So then both would go for the evening. Two airlines, Airtouch and Windward, are scheduling flights for either morning or evening.
+In mixed strategies I found, that $(\sigma_A, \sigma_B)$ is a Nash-Equilibrium with: $$\sigma_A(1) = \sigma_B(1) = \frac{6}{13}$$ $$\sigma_A(2) = \sigma_B(2) = \frac{4}{13}$$ $$\sigma_A(3) = \sigma_B(3) = \frac{3}{13}$$ The problem sheet now asks to argue with an example why no further mixed Nash equilibrium can exist.
+If you can't afford it, you wont have it. The pricing of homes (or rent) is the strongest correlated factor to homelessness.
+In summary, the excerpt's argument for the superiority of exponential discounting over hyperbolic discounting does not hold water, in my opinion.
+
+wto, dispute, retaliation, certainty, concession, defendant, resolution, illustrate, nuance, panel
+) Following an arbitration, If defendant stays idle, or if a compliance panel (and/or the AB [Appellate Body], as the case may be) pronounce on the inadequacy of adopted measures, then defendant might be facing retaliation.
+200 dollars with 50% certainty or 100 dollars with absolute certainty both positevely and negatively.
+While studying globalisation, The subject of Trade Blocs was brought up, with hindsight, I wondered, aren't Trade Blocs fostering regionalism (as in devotion to the interests of one's own region) as opposed to globalisation?
+27 pounds for a yard of cloth in both places). He supposes that 20 yards of cloth takes the same amount of effort to make as 4 quarters of corn in England, but in Poland the effort to make 4 quarters of corn is the same as that to make 10 yards of cloth.
+Therefore the certainty equivalent must be $\geq 50$. The lottery you show is equivalent to having two lotteries, one where you get \$50 with certainty and one with the following payoffs: \$0 with probability 1/3 \$50 with probability 1/3 \$100 with probability 1/3 The first lottery has a certainty equivalent of \$50.
+So regionalism does not go against globalization. Although the verdict is not yet in, the evidence indicates that regionalism is broadly liberalizing.
+It depends on the importing country or bloc (X), and the country the import is coming from (Y), and the product category (Z).
+Last, but not least, an ad hoc panel can be established specially for given dispute.
+How does this subsidy not constitute dumping under the WTO guidelines? The WTO explicitly prohibits subsidies on export goods to prevent dumping and market distortion but the United States spends $2.
+What's the cheapest way I can get 6/3 months of Tesla market data at say 1-second resolution?
+
+df, np, h_t, missing, print, vegan, manufacturing, data, food, post
+You believe that after 2015, there is a stronger incentive to do something different at quarter end, so the average basis should be different on month end days during that period.
+” Electrical equipment, appliances and components makers noted that the “economy seems to be softening,” adding that “tariffs have caused much confusion in the industry.
+uk/government/publications/food-statistics-pocketbook-2017/food-statistics-in-your-pocket-2017-summary Page 7 of Rural productivity and Gross Value Added (GVA) statistics, DEFRA (2019) url: https://www.
+References Alesina rodrik paper Lecture notes Consider an extension of Alesina - Rodrik paper 'Distributive politics and economic growth' (1994).
+(*) \end{align*} $$ $$ $$ We are given that $$ \Psi(B) \epsilon_t = \psi_0 \epsilon_t + \psi_1 \epsilon_{t-1} + \psi_2 \epsilon_{t-2} + \dots + \psi_k \epsilon_{t-k} + \dots $$ so the RHS of $(*)$ is $$ $$ $$ \boldsymbol{\Psi(B) \epsilon_t - \psi_0 \epsilon_t = \psi_1 \epsilon_{t-1} + \psi_2 \epsilon_{t-2} + \dots + \psi_{k} \epsilon_{t-k} + \dots}.
+There are 110 medical workers and 90 natural gas workers in NY and IL combined, so you could try weighting the wage premium of medical workers by 110/200 and the wage premium of natural gas workers by 90/200 to give a combined wage premium of $45,500.
+51 \psi_{2}+ \psi_4 = 0$ 51 \psi_{1}+ \psi_3 = 0$ $L^4:-0. 51 \psi_{0}+ \psi_2 = 0$ $L^3:-0.
+summary()) df['xcube'] = df['x']**3 mod2= smf. DataFrame(d) df['xsqr'] = df['x']**2 mod = smf.
+) Now when salvage value is not given we use the following formula: $PW_n(i) = -P + A(P/A,i,n)$ Now how will this formula be modified when salvage value is also added?
+Read more about missing data here, and in this very approachable book. If this is the case (a situation called Missing Completely At Random, MCAR, you can simply discard the observations with missing values and run your model on the balanced panel.
+
+airbnb, price, hotel, rental, increase, rent, city, elastic, revenue, omega
+Simple supply and demand economics would suggest that the huge increase in the supply of rooms to rent by Airbnb should have reduced the price of rental significantly in those cities where Airbnb is most popular.
+1Associate head of the School for Aviation and Security at Buckinghamshire New University Note 1: This question does not belong on Aviation.
+We find Airbnb’s presence in a market has a negative effect on hotel occupancy rates, but a positive effect on total hotel revenue and the average daily rate they charge.
+But if that is the case, perhaps the demand for the short-term rental in that city has increased?
+Even though Romeo likes apples himself but he loves to see Juliet consume his favorite fruit twice as much.
+Some readers may want to know that an elastic demand can either be unitary elastic ($E_d = −1$) or relatively elastic ($−∞  E_d  −1$).
+) Out of convenience, the intermediate microeconomics student will often compute something called $MU_A$ and $MU_B$ and these can often be evaluated as actual numbers.
+My understanding is that when demand is elastic, a price reduction will increase total revenue.
+This is because the question is asking the MRS of soda for hotdogs not the MRS of hotdogs for soda.
+If we let $\omega^*$ be the index of the cheapest good, the indirect utility would be then $U^*(P(w))=1/P(\omega^*)$.
+
+pi, coffee, sugar, price, s_w, share, unit, broker, buy, one
+At coffee bar $B$ however, they only sell one unit of coffee with one unit of sugar in a bundle, the price of which is equal to $p_3$.
+Brokers might help set up such purchases, but historically they existed as a way to buy equities without using a broker.
+If a company buys back almost all of its shares the last individual or institutional owner (who ever owns the last outstanding share yet to be bought back) will will own all of the equity.
+(Assume that the price of each lemon is 20 and the price of a spoon of sugar is 1.
+$\Pi^c=\frac{\Pi^m}{n}$ $\Pi^{comp}$ suppose $\Pi^m \Pi^c \Pi^{comp} $. $\Pi^c$ is the profit under collusion.
+When I buy a stock I don't actually buy anything. My broker gives money to Goldman Sachs which gives a share at an arbitrary price.
+Both sell Toyotas and they buy their cars directly from the manufacturer, which is Toyota.
+The cartel has size $n_c$. $\pi_{j,m}(n_c-1)\leq \pi_{j,c}(n_c)$ $\forall n_c$ (ii) the higher is $n_c$ the higher is the profit increase from entering the cartel for any $n_c$, i.e.
+, McGraw-Hill 2005, for more on total differentials. For the first step, as in your previous question, simply use the rules of total differentials, specifically the product rule that states that for variables $X$ and $Y$, the total differential of $XY$ is given by $$d(XY) = Y \, dX + X \, dY$$ Assuming that $s_\pi$, $s_W$ and $\zeta$ are (constant) parameters (so that by the constant rule, $ds_\pi = ds_W = d\zeta = 0$), we can apply this to your equation: $$\begin{align} d\mu  = d \left[ s_\pi - v (s_\pi - s_W) + \zeta \right] \\  = ds_\pi - d \left[ v (s_\pi - s_W) \right] + d\zeta \\  = -\left[ (s_\pi - s_W) \, dv + v \, d(s_\pi - s_W) \right] \\  = -(s_\pi - s_W) \, dv \end{align}$$ Now divide both sides by $\mu$, noting that since $\dot v = \frac{ dv }v$, we also have $dv = v \dot v$: $$\begin{align} \dot\mu = \frac{ d\mu }\mu  = -\frac{ dv }\mu (s_\pi - s_W) \\  = -\frac v\mu (s_\pi - s_W) \dot v \end{align}$$ which is the desired result.
+In South Africa, the UK is expected to lose about USD\$240 million, equivalent to about 9 percent of its exports to South Africa.
+
+box, player, machine, z_, joe, s_j, s_i, choose, offer, envy
+The machine's only goal is to predict the player's move correctly, but it does not actually have a defined payoff for making the correct prediction.
+But with fairness preferences, player 2 will actually decline low positive offers as unfair.
+Thing is, many theories of utility (and behavioral economics experiments) expect that it can be nonlinear, and that "50% chance of +100 and 50% chance of -100" and "certain 0" are not equivalent, there can be a strong preference for one or the other depending on circumstances.
+After that period, State B also reverts to compliance Now, in their work Asheim et al.
+: $ Celia \succsim_R Barbara $ Here we see that since Barbara is not chosen over Celia , WARP is violated.
+You could add up the equations \begin{align} \delta(1-\underline{S})S_j=e_i(S_i+S_j)^2 \\ \delta(1-\underline{S})S_i=e_j(S_i+S_j)^2 \end{align} to get \begin{align} \delta(1-\underline{S})(S_i+S_j)=(e_i+e_j)(S_i+S_j)^2 \end{align} which simplifies to \begin{align} \delta(1-\underline{S})=(e_i+e_j)(S_i+S_j).
+$z_2$ is the decision variable of player 1 and $z_1$ is the decision variable of player 2 .
+Is it due to the preference over the timing of resolution? Is there some reason/intuition for taking a certainty equivalent of utilities rather than bundles that has something to do with Epstein-Zin?
+Label Ben’s MBB and Joe’s MBJ . (a) Are tornado sirens a public good? Label it SMB.
+For the second option, the machine's decision-making process needs to be clarified; what does it mean for the machine to be "almost always correct"?
+
+price, would, good, cost, one, market, model, example, also, question
+Having been around members of all these organizations, I found them all to be out of touch although I would say that ideally, Libertarianism makes more sense to me these days, but grabbing on to an ideology is never a good way to develop a full and healthy understanding of economics and our world today.
+Mises’s answer is that economics is the science of human action… It is this assessment of economics as an a priori science, a science whose propositions can be given a rigorous logical justification, which distinguishes Austrians, or more precisely Misesians, from all other current economic schools.
+Among the references in the paper hinted by indigo_luc, there's one (Mearman, 2011), which [was apparently the first that] has surveyed some (43) self-styled heterodox economists and applied factor analysis as well as cluster analysis to their ideas: [The first factor is addressed in the next para.
+So I do not think it is at all correct to define market failure as when "the production or consumption of a good or service causes additional positive or negative externalities on a third party not involved in the economic activity".
+The first is governed by uncertainty: the good’s value is what the customer is willing to pay, it difficult for the seller to calculate all the costs involved in selling the good, and without specialization there is no knowledge to calculate how much of items must be sold for price X to reach the certain profitability.
+Something like the effect of a rent ceiling, the role of adverse selection in a market, the potential benefits of free trade, or the static welfare effects of monopoly appear to be fairly well understood (at least by social science standards) because economists are in broad agreement, these things are not well-understood in society at large, and economists' views on these issues are generally bourne out empirically.
+One of the examples is Ricardo's theory of comparative advantage, which is used as a basis for major consensus in the economics profession, and a key driver of the free trade movement, was prepared before the existence of large scale trade data.
+the tools to do so were invented by Leontieff in the 60's he and his disciples had all the legitimacy they needed (Turgot, a disciple of Quesnay, eventually become finance Minister) The point I'm trying to make is that lack of mathematical rigor in classical econs does not necessarily mean that they are irrelevant.
+Clearly, unskilled worker's work is not worth that much, so at least one of two things must happen now: Skilled worker needs to agree to be paid less or If no skilled worker with x2 efficiency agrees to be paid less then the skilled worker will be replaced with even more skilled worker whose efficiency is higher than x2, so that the employer can maintain the same profit margin.
+George Stigler, also reviewing the 1988's Palgrave Dictionary of Economics: Even if one is prepared to concede (as I certainly am not) that this emphasis on Marx and Sraffa is justified by their importance in modern or earlier economics, that would not justify the frequent penetration of Marxian views into the treatment of what are surely non-Marxian subjects.
+
+price, producer, risk, would, utility, unit, demand, sell, dollar, p_
+From a Cato Institute article by Steve Hanke1 (emphasis added): The Economist’s most recent infraction on Zimbabwe’s hyperinflation appeared in the May 2016 issue.
+As you can see, there's an inverse relationship with the equilibrium price being right in the middle: Producing 5 units with 5 buyers buying each of them at 5 dollars per unit.
+I built an Input-Output table (IOT) with the industryXindustry format because I thought it was a building block to build a social accounting matrix (SAM).
+I've been reading about prospect theory lately and have read often that prospect theory predicts people will be risk averse in gains and risk seeking in losses.
+Can someone tell me how I can show with an example that the Heckscher-Ohlin result does not necessarily hold when preferences are not homothetic.
+I have read this paragraph in a book (Jehle, Reny: Advanced Microeconomic Theory): I don't quite understand why Hicksian demand curves aren't directly observable?
+could someone really help me out I would need to show a situation in which the Heckscher-Ohlin result does not necessarily hold when preferences are heterogeneous.
+In the second case, the easiest way to succeed is for consumers with $WTP  P_1$ to tell producers "I'll pay you more than $P_1$ (but still less than my WTP) if you promise you will sell your product to me rather than another consumer", which initiates an upward price-trend.
+This would create growth, allowing more doctors and nurses to come through but more importantly create additional bed space.
+Since the nature of trade is incomparable between the two regimes the value of time saved is hard to estimate.
+
+br, leftward, israel, shift, cyclic, lm, asian, rer, balassa, xx
+Are there any growth metrics on which Israel was ahead of either Hong Kong, Singapore, South Korea or Taiwan in the second half of XX century?
+In the next level i found the balassa samuelson adjusted rate of rer with linear regression, but for the next level i have to subtract balassa samuelson adjusted rate of rer from numerical value(Rer-BSRer), but i cannot conduct this on r that i cannot subtract value that was found by linear regression.
+Why does LM not shift at under full employment when the IS curve moves to the right, but suddenly move leftward when there is full employment?
+, either BR(L) = O, BR(O) = R, BR(R) = U, BR(U) = L, or BR(L) = U, BR(U) = R, BR(R) = O, BR(O) = L.
+BR(p)={D} BR(q)={U} BR(r)={D} BR(r)={U} BR(U)={p} BR(D)={s} The SPNE is (U, ps) Do you find the NE by finding the best response (BR) of a player to a specific strategy of the other player?
+And this point is termed as Full Employment Level How do we interpret that this is level of full employment ?
+What exactly is a modified IS-LM framework? Recently in a test I was asked to describe the modified IS-LM framework.
+A leftward shift of the supply curve is also an upward shift of the supply curve: Leftward shift: At every price, producers are willing to produce and sell fewer units of the good.
+The parking lots would want to get that first row filled up as icing on the cake, then let them sit there through the day as the cars they parked in the accessible ring arrived and left throughout the day.
+In particular, it shows a leftward shift in supply and a corresponding reduction in quantity supplied for any price.
+
+capitalism, m_r, wood, merchant, rice, ring, ph, corporate, argues, peasant
+1st-year: MWG's $\textit{Microeconomic Theory}$ An example for corporate finance would be lke: MBA-level: ~ Corporate Finance Theory-specific: ~ Ph.D.
+It led to a proto-industrialization, the development of a decentralized putting-out system coordinated by merchants, and later the establishment of (nonmechanized) factories, which introduced division of labor in the production procedure.
+C can cook 1 pot of rice per hour OR forage 1 rabbit per hour. B can cook 2 pots of rice per hour OR forage 3 rabbits per hour.
+Suppose we have a inner ring and a outer ring in a city where there is a university.
+It is correct that you must forego $600$ Lexus cars to produce $500$ Toyota cars.
+$$ $$ [\sigma^m_R(a') + \sigma^m_R(a'')] u( a''' )  \sigma^m_R(a') u(a') + \sigma^m_R(a'') u(a'').
+It seems the intra-ASEAN exports are 305bn USD while the intra-ASEAN imports are only 238 billion USD.
+Opportunity cost = 1500-1000 = 500 Toyotas What is the opportunity cost of producing 5000 Lexus?
+Max Weber argues that protestant/puritan work ethics are the precursor to capitalism.
+The scale of rating is from 1 until n ( Based on sum of Merchants). so the simulation would be merchant A (1) is the first position and merchant B(2) is the second position.
+
+treatment, service, member, article, gat, commitment, limitation, ijt, mfn, supplier
+The GATS covers four modes of supply: (1) cross-border supply; (2) supply through the movement of consumers to the location of the supplier; (3) supply though the establishment in a country of the commercial presence of legal entities from another country; and (4) the supply through natural persons of one country in the territory of another.
+As I understand it countries negotiate free trade agreements in services using the WTO GATS.
+If X is not a WTO member, and is not party to a trade agreement with Y, then tariffs can be set unilaterally.
+I am focusing on a scenario where an entity $A$ sell a service 1 to entity $B$.
+The four GATS "modes" are: Cross border (the most simple): a firm in country A supplies a service to customers in country B.
+Or is trade in services effectively unaffected by the traditional tariff model of the WTO?
+Quantitatively, there is a roughly equal split between goods-only agreements and agreements that cover both (153 for goods only and 154 combined agreements have been notified to the WTO as of December 2018).
+Your first approach (of having country dummies and no firm effects) is represented by the model $y_{ijt} = c_j + X_{ijt}\beta + v_{ijt}$, with $E(v_{ijt})=0$ and $X_{ijt}$ being uncorrelated with $v_{ijt}$.
+Check the references in the wikipedia article for WWW-II (the article itself is not very good), and maybe the book The Economics of World War II: Six Great Powers in International Comparison.
+For example, if the treatment was done in the year 2000, and your time variable is called time, the syntax is mark treatment if time = 2000  time .
+
+car, pool, fish, common, boot, cheap, durable, rival, couple, gdp_
+A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while the poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
+What Smith says about them makes them sound as if they are not nails. 004 oz , which sounds smaller than a nail.
+Unlike pure public goods, common pool resources face the problem of overuse (the tragedy of commons).
+Most cars have increased in price over the last 20 years, but some manufacturers will always have a cheap car in their lineup .
+e1 are the equilibria without intervention (price controls), e2 are the equilibria after price ceilings, and e3 show what I assume the markets would look like if Venezuelans supplied Colombia (by smuggling) where the Venezuelans' profit = [Colombia p-hat - cost of smuggling - Venezuela p-hat] The supply curve for Colombia becomes the sum of the Venezuelan and Colombian supply curves above the [Venezuelan price ceiling + cost of smuggling], while there is a movement along the Venezuelan supply curve to the point of [Colombian price ceiling - cost of smuggling].
+Common pool resources can be depleted by overuse. Wikipedia is a common good but are not a common pool resource - reading a lot of articles on Wikipedia does not reduce the number of articles available for everyone else to read.
+But fish is a natural resource and nobody is selling fish to the fishermen. So my doubt is that whether it is possible to sell a rival non excludable product(not a service)?
+5m, I would agree with that conditionally. BUT: you wrote that the suppliers spent the money to produce the car.
+Regarding the nature of the pins, the fact that one step is "to whiten" may suggest that they were indeed pins and not nails.
+In Albuquerque, it is possible that it's more relevant to invest in pools than in houses, hence all landowners invest in pools, hence, no more houses to rent without a pool.
+
+de, dealer, primary, york, n_u, transformation, la, s_, allowed, participate
+The following Treasury services enable various categories of investors to participate directly: TreasuryDirect accounts: Individuals and various types of entities including trusts, estates, corporations, partnerships, etc. ...
+) Ordinal data allows for any monotonic transformation of the data &mdash; also called "order-preserving" transformations.
+From my understanding symmetry will be no longer be satisfied, but does that affect other axioms as well?
+Sujets possibles : évolution du secteur bancaire, l'adaptation des services financiers à l'ère numérique, réglementations bancaires européennes et américaines, l'efficience de la supervision bancaire, convergence du secteur bancaire et assurantiel.
+Plus une zone sera attractive, plus il y aura de l'activité et de la croissance.
+Bien entendu, si le produit américain améliore la technologie du produit exporté, l'appréciation de l'importateur varie en fonction de ses besoins.
+monetary policy pursuant to the direction of the FOMC; provide the New York Fed’s trading desk with market commentary and market information and analysis helpful in the formulation and implementation of monetary policy; participate in all auctions of U.S.
+I researched several literatures related with Balassa-Samuelson effect and according to literatures, as Balassa samuelson effect increases, real exchange rate appreciates.
+Il faut comprendre pourquoi un taux d'intérêt est fort ou faible, comprendre pourquoi le volume des prêts professionnels est fort ou faible.
+If so, doesn't that create a problem for the Wall Street desks that broker such debt (participate in debt auctions), the so-called "primary dealers"?
+
+coalition, stagnation, secular, core, natural, steady, hart, ownership, cap, launched
+uk/articles/euets-fees-charges-and-civil-penalties International trading schemes depend on international law.
+The incomplete contracting approach to the theory of the firm (sometimes called the property rights approach or the GHM model) was developed in the following two papers: Grossman, S.J.
+(I know from S=1, that I can infer that $P_H = P_F$, but I'm confused about whether S=1 is the cause for $P_H = P_F$ or a consequence of $P_H = P_F$).
+Clearly, this last formulation has fewer assumptions than my first formulation.
+Acemogulu and Restrepo (2017) studied empirically whether aging population is causing secular stagnation, and they find that it didn't happen, i.e.
+I have looked at the delta method as a possible route but it's too convoluted for me
+I'm just wondering if there are specific and well-separated advantages and disadvantages to DSGE relative to BVARs -- for instance as regards certain diagnostic metrics or at certain horizons and certain situations?
+Sanford Grossman, Oliver Hart, and John Moore have developed a theory of the firm based on incomplete contracting (Hart was awarded the Nobel Prize in 2016 for this branch of the literature).
+The other company in the collaboration didn't think this was technically possible, until they discovered they were wrong.
+The Gumbel distribution is preserved over linear transformations so $$ \max_{j\in B_k}(Y_{nj}+e_{nj})=\lambda_kI_{nk}+\xi_{nk}$$ where $\xi_{nk}$ is iid $Gumbel(0,\lambda_t)$.
+
+fuel, airline, truck, flight, plane, passenger, price, airport, burn, macro
+Car prices haven’t gone up due to the majority of auto makers profits being from the truck and SUV market.
+) Question I hope I did not over-simplify the matter, and I would like to understand what is the regulation the article refers to and what is the logic behind the perceived "more prone to volatility?"
+Therefore, it might be a case that it is more efficient (or profitable) to take on board more fuel (even if it means that the plane will burn more fuel) than to buy fuel for a higher price, i.e.
+And that frankly is being kind by not mentioning a lot of the stuff "out there" that nonetheless influences some politicians, e.g.
+As the BBC describes it: "planes are filled with extra fuel, usually to avoid paying higher prices for refuelling at destination airports".
+Utility functions and indifference curves are the same object considered from different visual/conceptual angles.
+The only shock to the starch market comes from the decrease in supply of starch that results from the decreased harvest of potatoes.
+nber. sciencedirect. NBER Working Paper version: https://www. com/science/article/abs/pii/S0304393207000529
+For instance, say I have a roll of quarters and a roll of dimes. I can use the dimes and quarters in a parking meter, but 50 cents in dimes gets me less time than 50 cents in quarters.
+I mean, even in the US, the ability of a school to offer sports scholarships is determined by what athletic conference(/division) they belong to: Division III schools are forbidden from offering athletic scholarships.
+
+oilinos, changer, tonne, would, inflation, rate, example, delta, good, growth
+In Oilonia the currency is oilinos and the main moneychanger is Bancoilio. "Could we borrow the 4 million oilinos?
+However, if the government takes away from the market 1,000 tonnes, then the supply curve will shift left by that amount, resulting in a new equilibrium with 4,000tonnes @ \$2.
+the two money changers would not sell currency out of their inventory at all, but would only do the deal so far as they could lay it off immediately.
+50 per tonne. Some possibilities: (1) farm owners lack the capital to buy mechanical harvesters (2) human labor is cheaper (3) regulatory or legal obstacles are blocking the use of harvesters
+In the case, does the 8133 tonnes gold reserves in US include the gold liability to other countries?
+The aggregation of this sort of situation over many households can explain the coexistence of poverty and saving on a significant scale.
+Which means we devote more and more to services... But as farm productivity increases more, we eat the same, but it costs less and less to produce it, so we devote less and less of or budget to it.
+But 'ill add that given that we live on a world economy and the price of gold is fixed by international exchanges betweeen coutries a theoritical calculation of the real price involves currency exchanges and more theory.
+If the investors are abroad, they would be less affected by a slow down or a crash or the economy, and thus ask for higher prices to compensate for the risk of defaults.
+And there's broader literature on industrial policy and regulation too. Frank Geels of Manchester does a lot of work on the theoretical side of this.
+
+s_i, cheese, sigma_i, s_, lambda_i, sandwich, eating, pi, p_, cheaper
+In this example, we can think of cheese (x) and crackers (y) as perfect complements, but cheese will be a perfect substitute for a cracker and cheese sandwich.
+By linearity of the payoff function you have, $\forall s_{-i}\in S_{-i}$: $$ \pi(\sigma_i',s_{-i})=p_{s_i}\pi(s_i',s_{-i}) + (1-p_{s_i})\pi(\Lambda_i,s_{-i})  p_{s_i}\pi(s_i,s_{-i}) + (1-p_{s_i})\pi(\Lambda_i,s_{-i}) = \pi(\sigma_i,s_{-i}) $$ where $\Lambda_i$, loosely speaking, denotes the residual combination of strategies played in $\sigma_i$, apart from $s_i$, inherited by $\sigma_i'$ too.
+for $s_i, s_i' \in S_i$ $$u_i(s_i \vee s_i', s_{-i})+u_i(s_i \wedge s_i', s_{-i}) \geq u_i(s_i , s_{-i})+u_i(s_i', s_{-i})$$ Or For $i \in I$, $u_i$ is upper-semicontinuous, i.e.
+Player $i$'s payoff function is: $v_i(s_i,s_{j})=$ $-s_i$ if $s_is_{j}$ ($\frac{1}{2}-s_i$) if $s_i=s_{j}$ ($1-s_i$) if $s_is_j$.
+This seems that we distinguish $\sigma_i^2$ from $\hat{e}_i^2$. Does this imply that $\sigma_i^2$(the sample variance) is equal to $\hat{e}_i^2$?
+Where can I get info on dairy products like cream cheese? I would like to know the market commodity price of cream cheese.
+Then by definition, $$ u_i(s_i^*,s_{-i})u_i(s_i,s_{-i}) $$ for all $i$, all $s_i\ne s_i^*$ and all $s_{-i}$.
+But then $$\sum_{i=1}^A \frac {S_i(t)}{C(t)} =1 $$ and (I presume), $S_i(t) \geq 0,\; \forall i$.
+Then the supposed inequality can be written as $$\frac {\partial L^s_i(w)/\partial w}{L^s_i(w)}\cdot w  \frac {\sum_{i=1}^n\partial L^s_i(w)/\partial w}{\sum_{i=1}^n L^s_i(w)} \cdot w,\;\;\; \forall i$$ Simplify and rearrange $$\frac {\partial L^s_i(w)/\partial w}{\sum_{i=1}^n\partial L^s_i(w)/\partial w}  \frac {L^s_i(w)}{\sum_{i=1}^n L^s_i(w)} \;\;\;\forall i$$ But this cannot hold, because the left side as well as the right side both sum up to unity over $n$.
+Pure strategy $s_i^*\in S_i$ is weakly dominant for player $i$ if every other strategy $s_i\in S_i\setminus\{s_i^*\}$ is weakly dominated by $s_i^*$.
+
+dealer, tau_, gambling, db, θ_, rf, tractor, da, h_u, car
+So knowing $GDPc = \frac{GDP}{pop}$ you can write: $$ \tau_{GDPc} = \frac{\frac{GDP(t)}{pop(t)} - \frac{GDP(t-1)}{pop(t-1)}}{ \frac{GDP(t-1)}{pop(t-1)}}$$ With the definition of the rate of change, you write $$pop(t)= pop(t-1)*(\tau_{pop}+1) $$ You can then simplify the $pop(t-1)$ term in the previous equation and you get $$\tau_{GDPc} = \frac{1}{\tau_{pop}+1}\left[\frac{GDP(t)-GDP(t-1)}{GDP(t-1)}-\tau_{pop}\right] $$ $$\tau_{GDPc} = \frac{1}{\tau_{pop}+1}\left[\tau_{GDP}-\tau_{pop}\right]$$ It is indeed different than Brandon marcus answer.
+Also note how the input of unskilled labor in the manufacturing sector has been replaced by $H_u^m=H_u-H_u^f$, that is to say, the manufacturing sector uses all the unskilled labor that is left over from the farming sector (we assume that the stock of unskilled labor ($H_u$) is fixed for the period of study).
+Why is DB being subtracted from DA? 01 x (DA-DB)=0. 01 x (DA-DB)=0. 03 x rf x V).
+You also know that these car dealers are exactly the same... Now that we're done with the car dealer, let's step in Toyota's shoes.
+I assume the following ranking $θ_1  θ_2  θ_3$. If I assume all IC's and PC's bind in equilibrium ($=$ instead of $\geq$), then I get $θ_1 = θ_2$.
+In that case the decision of the individual to use online gambling rather than conventional gambling has an unintended effect on the production possibilities for the government.
+By the maximum principle optimality requires that the Hamiltonian \begin{align} H_1(k,\tau_1,\tau_2^*,\lambda_1) := F(k,\tau_1,\tau_2^*) + \lambda_1 f(k,\tau_1,\tau_2^*) \end{align} is concave in $(k,\tau_1,\tau_2)$ (sufficient condition).
+So the total tax rate on capital is $$\tau_c = \tau_d+\tau_{\pi}-\tau_d\tau_{\pi}$$ In your case $\tau_d\tau_{\pi} = 0.
+Lets imagine a hypothetical scenario where you buy a capital good of a tractor.
+I was thinking about how online gambling could cause numerous governments to face a reduction in tax revenue from conventional gambling, upon which taxes do apply in most countries.
+
+p_x, p_y, l_, r, frac, omega, refugee, c, p_z, change
+Suppose we have two goods, price changes in the two are independent; having seen this question I am considering why the change in total Consumer Surplus is the sum of the change in Consumer Surplus for the two goods separately (if this is true)?
+I get that the Hicksian and Marshallian demand functions are $x^* = \frac{p_y}{p_x} y = \frac{I}{2 p_x} $ respectively.
+Now suppose I increase $p_x$ to $p_x'$. Suppose I have the utility function $$U(x,y) = \sqrt{x} + y$$ subject to budget constraint $$p_x x + p_y y = m$$ Then $$x_M =\frac{p_y^2}{4 p_x^2}$$ $$y_M = \frac{m}{p_y} - \frac{p_y}{4 p_x}$$ where $M$ denotes Marshallian.
+He exhausts his wealth (his endowment): $4 p_x + 1 p_y = w = x_d p_x + y_d p_y$ We can use this to solve for $y_d = (4 p_x + 1 p_y) / (p_y + 2 p_x)$ (eqn 1) and $x_d = 2 (4 p_x + 1 p_y) / (p_y + 2 p_x)$ (eqn 2).
+Imagine I have a continuum of different goods indexed by $\omega \in [0,1]$. That is, defining $$U(C) = \int_{0}^1 C(\omega) \delta_{\omega} d\omega$$ where $\delta(\omega)$ is a ``function'' which is equal to $+\infty$ at $\omega$ and $0$ everywhere else.
+1p_y}-\frac{p_x}{p_y}x \end{equation} where the relative price is still $\frac{p_x}{p_y}$.
+Suppose, price of $x$ is $p_x$; price of $y$ is $p_y$ . So, the income of the consumer = $10 p_y$ And the corresponding budget constraint will be: $x p_x + y p_y = 10p_y$ Vertical intercept $(0, y) = (0,10)$ and horizontal intercept $(x, 0) = \left( \displaystyle\frac{10p_y}{p_x}, 0\right)$ Now suppose $p_y$ is increased to $p_y'$.
+(Changes in) Hicksian demand is related to the substitution effect from the Slutsky decomposition.
+Suppose I have a Marshallian demand function $x_M(p_x^0,p_y,m^0)$. As I understand it, Slutsky compensation is defined as $$T_S = \Delta p_x \cdot x_M(p_x^0,p_y,m^0)$$ Can someone explain why this compensation overcompensates the consumer?
+How do I derive the demand function from $$U=y + 2\sqrt{x}$$ Currently I have $MRS = \frac{1}{\sqrt{x}} = \frac{P_x}{P_y}$, so, $P_y = P_x\sqrt{x}$ Using the budget line: $$I = xP_x + yP_y \implies I = xP_x +y(P_x\sqrt{x})$$ Which simplifies to $$x = \frac{2I + y^2 P_x \pm y\sqrt{Px(4I+y^2P_x)}}{2P_x}$$ I'm not sure if this is correct, should I have did $MRS = \frac{1}{\sqrt {x}} = \frac{P_x}{P_y}$, so, $P_x = \frac{P_y}{\sqrt{x}}$ instead and substitute $\frac{P_y}{\sqrt{x}}$ into budget line?
+
+token, z_t, q_t, buy, meme, sell, curve, λ_, enthusiast, sa
+I just taught my students that signalling is useless in Matching Pennies and Rock, Paper, Scissors.
+Ultimately, whilst this game is being played, these memes are also being curated themselves: more tokens bonded to a meme is a signal that is a funnier meme than a meme with fewer bonded tokens.
+Note: Here, only $q_t^e$ is the only variable and expected utility function is maximized subject to $q_t^e$ For simplification, I denoted M= (1-$q_t^e$)$w_t$ + $q_t^e$$w_t$$z_t$ This made $C_{1,t}$ = nM and $C_{2,t}$= (ARθ/$z_t$)M I also broke down constraint iii into two constraints $q_t^e$≤1 and -$q_t^e$≤0 I set up the legrange: L = (1-π)[${(nM)}^{-γ}$]/(-γ) + π[${((ARθ/z_t)M)}^{-γ}$]/(-γ) + $λ_1$(1-$q_t^e$) + $λ_2$(0+$q_t^e$) Differentiating with respect to $q_t^e$ (1-π)[${(nM)}^{-γ-1}$][n($z_t$-1)] + π[${((ARθ/z_t)M)}^{-γ-1}$][(ARθ/$z_t$)($z_t$-1)] = $λ_1$ - $λ_2$ $λ_1$(1-$q_t^e$) =0; $λ_1$≥0 $λ_2$(0+$q_t^e$) = 0; $λ_2$≥0 Case 1: $λ_1$=0 and $λ_2$ I got (1-π)[${(nM)}^{-γ-1}$][n($z_t$-1)] + π[${((ARθ/z_t)M)}^{-γ-1}$][(ARθ/$z_t$)($z_t$-1)] =0 Which boils down to M=0 which gave me - - > $q_t^e$ = 1/(1-$z_t$) But solution provided is of the following form - My answer doesn't match the solution provided.
+I don't have a SAS license so I'm looking to reproduce it in Python. However, as a convenience to users, we have included on the SCF web site a program written in the SAS language That SAS program defines net worth as: NETWORTH=ASSET-DEBT; IF (NETWORTH=.
+Enthusiasts are willing to pay \$800; laymen are only willing to pay \$600. This is higher than the maximum achievable with a uniform price (120,000).
+an increase in the supply of of park visits a decrease in the demand for park visits c.
+}  q_t^e \in [0, 1]\end{eqnarray*} This is an objective that is linear in choice variable $q_t^e$, which is increasing in $q_t^e$ when $z_t  1$, decreasing in $q_t^e$ when $z_t  1$, and is a constant for $z_t = 1$.
+Disneyland takes in about \$8 billion a year --- not all of it through tokens, but let's say they sell, oh, \$4 billion a year worth of tokens.
+Consider they sell it for €1 instead of the typical €2 or €3 on other amusement parks.
+To use the marketplace the user however needs to buy company’s tokens. The new users would have to pay high costs (buying the tokens) just to enter the platform.
+
+seed, framing, chance, richer, certain, choice, random, thaler, today, imagine
+I therefore suggest instead the following, because it retains the symmetry of imagining in both framings: Positive framing of certain outcome Imagine you are \$50 richer than you are today.
+These functions are deterministic algorithms that produce numbers that can pass for random.
+For some outcomes random effects are supported, for others fixed are. For the main table of results in my paper would it be acceptable to report the results of the fixed effects models for those outcomes that the Hausman suggests should use a fixed effects estimator and the results of the random effects estimator for those outcomes that a random effects estimator is suggested for?
+So if markets can make mistakes, but not in a way that allows anyone to make disproportionate rewards except by random chance, then they can be highly efficient.
+Try in Stata: clear all *** Generate data set obs 10 set seed 1 gen x = rnormal() gen y = 1+x+rnormal()  0 replace y = .
+You'll find much Stata, a bit Matlab, and nothing else. From long personal observations, economists' preferences are ranked like this: Stata (none) Matlab Python, R SAS, Gauss Java, C#, C, Julia are used when performance is important (heavy simulations, combinatorics, etc.).
+Since there is no upside to this event and E(gain) = 0. A person with a current wealth of 100,000 who faces the prospect of a 25% chance of losing his or her 20,000 automobile through theft during the next year.
+I find it hard to imagine it is just sloppiness. What is the meaning of the numerical designation for ISO 427 labels on currency?
+Assuming that the consumers relative risk aversion is constant and equal to 1, that is $R_r(w)=1$ for $w0$, the consumer is facing a lottery that gives him 50% chance to win 1000 and 50% chance to lose 1000.
+For $n = 2$, the chance of your valuation being the largest valuation or less is just the chance that the other bidder has a valuation lower than you, or exactly $x$.
+
+ethical, hospital, charity, affordable, patient, visit, colony, organization, coordination, care
+Accountable Care Organizations were created by the Affordable Care Act in 2011 in order to improve quality of care and reduce costs for patients and are part of a change from fee-for-service payments towards value-based payments in healthcare.
+The guiding objectives are grounded on moral and altruistic behavior, but as humans are collectively more selfish in reality, this does not work too well.
+[Haiti] created more wealth than any other colony in the world. In 1789 French trade with Saint Domingue amounted to £11 million, while the whole of England's colonial trade totaled only £5 million.
+Why are there no non-profit brands of, e.g. breakfast cereal, whose goal is to simply provide consumers with a healthy and affordable morning meal, but not to make a profit?
+If one were to start a church that had all the qualifications of a church such as member, a place of worship and a doctrine, could the "church" act as an investment company for non-church members that avoids paying tax?
+a decrease in the demand for park visits c. an increase in the supply of of park visits
+Remark: I did not define good/bad doctor here, as it could be many different things; a bad doctor could just be a lazy doctor or a badly trained doctor.
+2 - Coordination/Cooperation between groups within any context. Can anyone provide references for research that focuses on coordination between groups of decision makers rather than within group coordination with individual decision makers?
+e x'$\not=$x''), then x'' cannot be affordable under budget B'. As you can see, x' is not affordable at budget B'' and bundle x'' is not affordable at budget B', so WARP is satisfied.
+His income is 1,000 per month and his visits to the gym cost $4 per visit. Draw Hulk's budget line for visits to the gym and all other goods, show the consumption bundle that maximizes his satisfaction, and draw the indifference curve through that point.
+
+sargent, alpha_, hansen, lars, robustness, thomas, gun, delta, cesdata, ln
+I would like to have a primer on how the current slowdown of the German economy is affecting its partners, for instance France, Spain and Italy.
+Lars Hansen and Thomas Sargent, two leading macroeconomists, push the field forward as they set about answering this question.
+Valerie Ramey gives a good discussion of the definition in "Macroeconomic shocks and their propagation" in the Handbook of macroeconomics, vol.
+price is then:$$MPL = \alpha_1 A L^{\alpha_1-1}N^{\alpha_2}K^{1-\alpha_1-\alpha_2}$$ Simulate this model with various factor values.
+Sources Nobel Prize Website Hansen Congratulatory Talk on Sargent/Sims Nobel They both worked closely with Lars and contributed to his development.
+Lars Peter Hansen and Thomas J. Sargent wrote the book "Robustness", which is an attempt to apply robust control to economics.
+Let $$ f(x) = \frac{\alpha_1 r^1 x}{\alpha_1 x - \alpha_2 x + \alpha_2 r^2}. In between you have $$ \frac{d \ f(x)}{d x} = \frac{\alpha_1\alpha_2r^1r^2}{\left(\alpha_1 x - \alpha_2 x + \alpha_2 r^2\right)^2} $$ and $$ \frac{d^2 f(x)}{dx^2} = 2 \cdot \frac{(\alpha_1\alpha_2r^1r^2) \cdot (\alpha_2-\alpha_1)}{\left(\alpha_1 x - \alpha_2 x + \alpha_2 r^2\right)^3}.
+Recursive Macroeconomic Theory By Lars Ljungqvist and Thomas J. Sargent Assuming you want rigor, it's better to try this graduate-level textbook early and pick later things you need to understand it.
+A point that is in the interior of S is an interior point of S. ] If S is a subset of a Euclidean space, then x is an interior point of S if there exists an open ball centered at x which is completely contained in S.
+What are some other applications of fractals to economics? One of his first discoveries was finding a fractal pattern to fluctuations in cotton prices.
+
+demanded, quantity, dp, price, dq, change, elasticity, demand, inelastic, perfectly
+Then $\varepsilon_p$ is not well-defined (you divide by zero), but you can think of a sequence of very flat declining lines that approach the horizontal demand such that $dP/P\rightarrow 0$ and $\varepsilon_p \rightarrow \infty$.
+6 %ΔQDm = -6% Pm2 = £55 QDm2 = 940 Import Spending = £51,700 Trade balance = +£300 In this case if the sum of the elasticities equals 1, there has been an improvement in the trade balance, but I would have expected the trade balance to have been unchanged.
+The treausury accepts the competitive bids in ascending order of yield until the accepted bid reaches the offering amount.
+Existing user-written commands (adocomp, shapley, shapley2 or DSAP package) are quit limited as they only decompose specific poverty measures offered by those packages.
+We know that Elasticity of Demand Coefficient = Change in Quantity Demanded / Change in Price $x$ If we change price by $x$, how do we get what the change in quantity demanded is if there is no quantity demanded at the new price?
+Management sets the quantity of ressources and intermediate goods the striking employees have at their disposal to use as inputs.
+Hence, for any change in quantity, $\% \Delta P=0$. $$\epsilon_D=\frac{\% \Delta Q_D}{\% \Delta P}$$ A perfectly elastic demand curve is horizontal, meaning we quantity demanded can change by any amount without changing price (any quantity can be sold at the price corresponding the vertical intercept).
+When a change in price results in an infinitely large response in quantity demanded, demand is perfectly elastic.
+5, the percentage change in quantity demanded is half the percentage change in price.
+This is the same as saying that the market price changes by $dP$ and is why you get the same number.
+
+remittance, exclude, bad, individual, unable, noise, com, excludability, public, w_i
+It is pretty clear to me what $W_{i,j}$ is (for instance, the weights in kernel matching).
+For a public good, non-excludability is normally taken to mean that the provider of the good is unable to exclude individuals from benefiting from the good .
+ehat, noconstant or dfuller ehat, lags(10) and what is the difference here? ehat, noconstant However, "Time series" (document from Princeton Uni) says I should use: regress b f predict ehat, resid dfuller ehat, lags(10) So I am unsure about the last commands here.
+To do this, I have been performing Levin-Lin-Chu unit root tests in Stata with the -xtunitroot llc- command.
+India Remittances: https://tradingeconomics. com/india/foreign-exchange-reserves Remittances do help (avg.
+Eg if build public roads, can count as G; if build factory, can count when factory produces goods and those goods are sold.
+pdf (page 14, in the little map of Europe with average prices on the map) Since the mean of weekdays only is below the mean of all days in a given quarter, this implies that the weekends have higher mean prices than the weekdays.
+And what do you assume the noise is then specifically? When examining how Market Microstructure works and affects price formation, there is talked about the: "Assumed independence of of latent price and microstructure noise" From "On the Correlation Structure of Microstrucure Noise: A Financial Economic Approach", Diebold and Strasser, 2013.
+From Wikipedia: A remittance is a transfer of money by a foreign worker to an individual in his or her home country.
+625 ), ranked_balances as ( select date, balance, row_number() over (partition by date order by balance desc) as rank from balances ) SELECT date, -- (1 − 2B) https://en.
+
+glass, bottle, fund, manager, kahneman, daniel, typical, etf, helping, recycling
+I think this Quora discussion on the fund manager illusion of validity told most of the story.
+My understanding is, glass will breakdown into sand. Therefore could I make the case that not recycling my glass bottle is helping with employment.
+This might explain why you see versions with traditional funds, but not ETFs. 2) traditional funds (as opposed to ETFs) will always be promoted much more aggressively, because their providers earn high fees.
+By your formula, MKTCAP for ETF1 is equal to MKTCAP for ETF2 since both contain same weights (0.
+This reminds me of the Ponzi Scheme: A Ponzi scheme is a fraudulent investment operation where the operator, an individual or organization, pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned by the operator.
+I am not sure how much game theory you will learn from the recommended books by Kahneman or Roth (the Kahneman book is not about game theory; the Roth book is about matching and touches on game theory rather tangentially.)
+So what does one-sided polynomial on lag operator, $a(L)$, mean? In some time series texts, there are some talks about one-sided polynomial on lag operator $L$.
+I remember reading a study/paper saying that the AVERAGE bottle of french wine drunk in the US is better than the average bottle of french wine drunk in France, due to the fact that nobody bothers to ship the crappy stuff.
+I don't really see why you would price an ETF at fair value and not at last market price, given that those funds are very liquid.
+The mutual funds are worth less than liquidation value because the managers of the fund are in a position to block the liquidation and have an incentive to do so in order to protect their fees.
+
+interval, non, song, succsim, lagged, aggregator, rivalry, riding, offshore, excludability
+Yet there is also non-excludability: Even if someone loses the bidding war, they can listen to the song chosen by the other person.
+returns are excluded to avoid simultaneity problems” However what is the rationale for lagging?
+We can therefore assign to $a$ a non-degenerate interval of values satisfying the above inequality $I(a) = [u(0, a), u(a, 0)]$.
+ca/noftp/faculty/bergin/econ320/BOE. uk/-/media/boe/files/sterling-monetary-framework/annual-report-2017-18 Although the UK does not at present have a minimum reserve requirement, commercial banks nonetheless must be well capitalised in accordance with BoE regulation on the counter-cyclical capital buffer.
+ca/n1/en/pub/62-553-x/62-553-x2019001-eng. , the eight major categories used for calculating the rate of inflation (Consumer Price Index) are: Food and Beverages Housing (includes furnishings) Apparel Transportation Medical Recreation Education and Communication Other Goods and Services In Canada, the major groups are: Food and non-alcoholic beverages Shelter Household operations, furnishings and equipment Clothing and footwear Transportation Health and personal care Recreation, education and reading Alcoholic beverages, tobacco products and recreational cannabis Sources: U.S.
+I can understand how non-excludability results in free riding but I couldn't uderstand the effect of non-rivalry.
+Are there other aggregators that are also commonly used? Consider a production process with two distinct capital types such that there is a capital aggregator.
+ignoring more Myanmar intermediaries] through one of the there sources outlined in that slide.
+It was explained better than I could by Adam Townsend on Twitter: https://twitter.
+Because $\succsim$ is rational (preferences are complete) over $X$, we either have $x_i\succsim \bar{x}$ or $\bar{x}\succsim x_i$ or both.
+
+utility, function, preference, individual, choice, axiom, allocation, ordinal, m_, expected
+I’ve been trying to think of social welfare functionals which meet all of Arrow’s conditions–––unrestricted domain, weak Pareto, independence of irrelevant utilities, and non-dictatorship (see this entry for definitions)–––plus (invariance with regard to) absolute-scale full-comparability (AFC).
+WARP/SARP differ from GARP in that the former presumes the availability of infinitely many choice data to build a choice function with, whereas GARP only requires a finite set of choice data.
+For instance, if $()$ is a linear expected utility function representing a vNM-consistent preference, then $()=[()]^2$ is another utility function representing the same preference, except that it is a non-linear (or non-vNM) expected utility function.
+Suppose there are two agents $\{A,B\}$ with the following utility functions: $U_A(x_A,y_A)=x_A+f(y_A)$ and $U_B(x_B,y_B)=x_B+g(y_B)$ $f$ and $g$ are strictly increasing and strictly concave.
+Jonathan Levin in "Choice under Uncertainty" wrote in Theorem 1 " A complete and transitive preference relation on a set of lotteries P satisfies continuity and independence if and only if it admits as expected utility representation".
+Allocation in which A consumes everything and B consumes nothing: $(x_A, y_A) = (1,1)$ and $(x_B, y_B) = (0,0)$ is Pareto efficient, but $y_A \neq y_B$.
+The "family's" utility function is identical with that of one member, the head, because his concern for the welfare of other members, so to speak, integrates all the members' utility functions into one consistent "family" function...
+Formally Ellsberg paradox is defined in a different choice environment that expected utility.
+Let $x_A + x_B = 1$, $y_A + y_B = 1$. Let $U_A(x_A,y_A) = x_A + \ln(y_A)$, $U_B(x_B,y_B) = x_B + \ln(y_B + 1)$.
+Does a monotonic transformation of a homothetic utility function imply the preference relation on the set of consumption bundles is still homothetic?
+
+col, weighting, state, wage, mw, iota, r_m, singer, humane, aw
+I assume that weighting COL in MW particularly is better than weighting COL in average wage (AW), because, although there are few families with extremely high wages, their wages bias AW extremely upwards, while MW is less effected from such extreme cases.
+Note the projection matrix $P_{\iota} = \iota(\iota'\iota)^{-1}\iota'=\frac{1}{n}\iota\iota'$, and $P_{\iota}y=\bar{y}$.
+For portfolio (1), $$ r_i - r_f - b(r_m - r_f) = r_i + (b-1) r_f - b r_m $$ and for portfolios (2) $$ r_i - b r_m - (1-b) r_f = r_i + (b-1) r_f - b r_m.
+Usually for CAPM we have: $$E(R_i)-\gamma=\frac{cov(R_i,R_m)}{var(R_m)}\times E(R_m-\gamma)$$ We know that $$\beta=\frac{cov(R_i,R_m)}{var(R_m)}$$ When can we replace $\beta$ with $\left(\frac{E(R_iR_m)}{E(R_m)}\right)^2$ ?
+In particular, BDS provides information on Establishment openings and closings and Number of startups and firm shutdowns.
+Singer would have a disutility of $1$. If Singer buys humane meat then Foreman would do so too if $V-C'v-c$ (which may be possible since $C'C$).
+I run the following regression: $$r_i-r_f=a+b(r_m-r_f)+e $$ Now I see that the alpha is not zero and I construct two different zero cost portfolios: 1) 100% long in ($r_i-r_f$) and -b short in ($r_m-r_f$) 2) 100% long in $r_i$ -b short in r_m and borrow/short (1-b) on$ r_f$ I have problems determining the expected returns of the two portfolios and determining if they are the same.
+The architect writes to the builder suggesting that the profits be divided equally.
+These factors are in general not likely to be pecuniary, so they are usually treated as a residual - if MW/COL in state A is less than MW/COL in state B, then the difference must be due to improved amenities in state A.
+As you may already know, we can either regress the $(2)$ if we are interested on both $α_i$ and $β_i$ or alternatively we just use the formula $β_i=Cov(R_i,R_m)/Var(R_m)$, because $α$ should be close to zero (transaction costs).
+
+announcement, chapter, ic, state, realized, mwg, agent, compatibility, kehoe, incentive
+B introduces IC for truthful implementation Krishna (2010) chapter 5 is similar to the previous MWG chapter, but draws out more implications of IC.
+I am working with a Realized GARCH model. I have am having some trouble understanding a concept: Paper: Realized GARCH: A Complete Model of Returns and Realized Measures of Volatility, Hansen  Haung "A key feature of the Realized GARCH framework is a measurement equation that relates the observed realized measure to latent volatility".
+So I've seen this sort of thing where you basically differentiate with respect to each Y_j so the integral drops out (seen this in moral hazard chapter from MWG and Romer's endogenous growth model).
+I would suggest chapters 31 and 33 (and maybe chapters 32, 34 and 36). Bertrand/Cournot duopoly: chapter 27.
+For reference, here is a link to a recent 30-year bond announcement - PDF announcement, dated Feb 8, 2018
+But that is not a moral hazard. It's not a moral hazard if it is encouraging the intended behavior.
+You can find a complete description in "The Moral Hazard" chapter, section 4.2.
+These books might be of help: Sustainability of Public Debt Public Debt, Sustainability and Economic Growth Restoring Public Debt Sustainability Also, this chapter from the Handbook of Macroeconomics, Volume 2 (2016) might be of help: Chapter 32 - What is a Sustainable Public Debt?
+I've been reading about the Federal Open Market Committee's announcements of monetary policy decisions, specifically the time at which the announcements are made and then how the markets somewhat immediately respond.
+Quoting from MWG p. 519, Chapter 10: Pure Exchange, The Edgeworth Box ... " Does this mean that the endowment point can never be an equilibrium or that the crossing of offer curves there is not enough to guarantee that?
+
+meat, p_xx, p_yy, get, side, add, industrial, organic, insensitive, ration
+25/p_yy$$ Multiply both sides by $p_xx p_yy$, you get: $$0. 75p_xx$ to both sides, you get: $$0.
+As "Eco-meat-eater" you do vote with your wallet and maybe convince your grocery store to add more environmentally friendly meat to its assortment.
+Singer is a consequentialist and has as a goal to reduce the meat consumption. Foreman enjoys meat but he prefers humane meat (other things equal).
+So, I have heard non-meat eaters claim they make the most impact by not supporting the meat industry at all.
+Possibly, abundance could be available soon along these lines: organic food - abundance of edible insects and clean meat from meat breweries housing - abundant through abandoned rural areas and 3D printed homes, water and good air possible available there as well education - given you are okay with self-education Internet provides enough free/cheap learning resources
+groceries this will make sales man, farmer, ... employed so they pay taxes are buy groceries for their own.
+The minimization problem is $$\text{min}_{x,y}\,\,p_xx+p_yy \\ \text{subject}\,\,\text{to}\,\,\text{min}\{x,y\} \geq u$$ I know that if I had to maximize the sam utility function I had to impose the equality between the content of the curly brackets.
+An advice I often hear regarding our environmental impact is to 'stop consuming meat and dairy products'.
+What is a labor supply schedule $L(w)$ that would make the profit function insensitive to the wage?
+As the graph notes, the red segment of the demand curve is relatively inelastic, meaning that compared to the blue segment, the red segment of demand is relatively insensitive to price changes.
+
+hat, cohort, pd, red, g_x, pf, alpha_, ytm_n, security, steven
+"Returns paid to early social security cohorts. , and Ronald Lee. , Robert Gillingham, and John S.
+We've already found $\frac{\partial E(Y_1|N,I)}{\partial I}$ above, so we need to calculate $\frac{\partial E(Y_1|N,I)}{\partial N}$ $=\hat{\alpha_1}+2\hat{\alpha_2}N+\hat{\alpha_5}I$ From here $\frac{\partial E(Y_1|N,I)}{\partial I}|_{N=N^*,I=I^*}=\frac{\partial E(Y_1|N,I)}{\partial N}|_{N=N^*, I=I^*}$ $\hat{\alpha_3}+2\hat{\alpha_4}I^*+\hat{\alpha_5}N^*=\hat{\alpha_1}+2\hat{\alpha_2}N^*+\hat{\alpha_5}I^*$ $\rightarrow (\hat{\alpha_5}-2\hat{\alpha_2})N^*=(\hat{\alpha_1}-\hat{\alpha_3})+(\hat{\alpha_5}-+2\hat{\alpha_4})I^*$ $\rightarrow N^*=\frac{(\hat{\alpha_1}-\hat{\alpha_3})+(\hat{\alpha_5}-+2\hat{\alpha_4})I^*}{(\hat{\alpha_5}-2\hat{\alpha_2})}$ I bet the optimal irrigation and fertilizer decision would equate the marginal product of fertilizer per dollar spent on fertilizer with the marginal product of irrigation per dollar spent on irrigation which would be $\frac{\hat{\alpha_3}+\hat{\alpha_4}+\hat{\alpha_5}N}{P_{irrigation}}=\frac{\hat{\alpha_1}+2\hat{\alpha_2}N+\hat{\alpha_5}I}{P_{fertilizer}}$
+Due to common knowledge, 2 and 3 can reason: "1 knows there is at least one red hat, and since she doesn't know her hat color, 2 and/or 3 must have a red hat.
+$\displaystyle\implies CPN\times\frac{1}{YTM_n}\left(1-\frac{1}{(1+YTM_n)^n}\right)+\frac{FV}{(1+YTM_n)^n}FV$ $\displaystyle\implies CPN\times\frac{1}{YTM_n}\left(1-\frac{1}{(1+YTM_n)^n}\right)FV-\frac{FV}{(1+YTM_n)^n}$ $\displaystyle\implies CPN\times\frac{1}{YTM_n}\left(1-\frac{1}{(1+YTM_n)^n}\right)FV\left(1-\frac{1}{(1+YTM_n)^n}\right)$ --------------(1) $\displaystyle YTM_n0\implies 1+YTM_n1\implies(1+YTM_n)^n1\implies\frac{1}{(1+YTM_n)^n}1\implies 1-\frac{1}{(1+YTM_n)^n}0$ So, we divide both sides of (1) by $\displaystyle 1-\frac{1}{(1+YTM_n)^n}$ to get $\displaystyle CPN\times\frac{1}{YTM_n}FV$ $\displaystyle\implies\frac{CPN}{FV}YTM_n$ $\displaystyle\implies rYTM_n$ $\displaystyle\implies YTM_nr$ QED
+I do not know that 2 knows that 3 knows there is a red hat. 1 thinks: "If 2 knows 3 sees a red hat, then my hat is red.
+Everyone knows there is at least one red hat. Three girls are sitting in a circle, each wearing a red or white hat.
+In the model there is no depreciation so, $$ g_c = \frac 1{\theta}[r - \rho - \theta g_x] $$ $$\dot {\hat k} = f(\hat k) - \hat c - (n+g_x)\hat k$$ At steady state growth of $\hat k$ and $\hat c$ are both $0$.
+Moreover, evidently $\frac {\partial \hat k^*}{\partial g_x} 0$ so in all $$\frac {\partial \hat c^*}{\partial g_x} 0$$ Therefore, if $g_x \downarrow \implies \hat c^* \uparrow $.
+So, by construction, $$X\hat{\beta}+\hat{e}=X\hat{\beta}+y-X\hat{\beta}=y$$. We are replacing $y$ with $\hat{y}+\hat{e}$, which is the fitted value of $y$, given by $X\hat{\beta}$, plus the estimated value of the residual, given by $y-X\hat{\beta}$.
+If $X$ is a Giffen good for Steven, then $Y$ must be a normal good for Steven. Steven only consumes two goods: $X$ and $Y$.
+
+risk, xsp, cad, premia, recycling, hedging, manager, preferential, usd, personal
+, Lewis (1995)) Consequently, much of the literature has focused on explaining conditional currency risk premia by ruling out asymmetries (e.g.
+In this risk chart they show that XSP has both kinds of risks, because the hedging is imperfect so XSP still has currency risk.
+Given a multimarket model for staple agricultural commodities wheat, rice, maize and sorghum, in a low-income economy, Im trying to figure out how I can use the multimarket framework to look at the impacts of bringing in food aid to the economy as well as introducing improved agricultural technologies.
+In the chapter 4 of the graduate textbook Lectures on Macroeconomics there is "The Overlapping Generation with Money".
+I supposed it was to make things easier, so I checked it: 1 EUR = 1,3280 CAD (2) = 1,3280 CAD = 1 EUR 1 CAD = 0,6691 EUR (3) 1,3280 * 1 CAD = 1,3280 * 0,6691 EUR = 1,3280 CAD = 0.
+The interface was similar to this: Action: [ ] Buy [ ] Sell Currency: [ ] CAD [ ] USD So basically, in order to do what I wanted to do (convert CAD to USD), I had 2 options: A) Buy USD B) Sell CAD What's the difference between both actions ?
+The jobs gained by recycling are lost from other sectors and the jobs lost are gained.
+The wikipedia article about Homothetic preferences however defined a preference to be homothetic, if they can be represented by a utility function and the following is true: $$ u(kx_1, kx_2) = k \cdot u(x_1, x_2)$$ And I am pretty sure, that this is not true for Cobb Douglas preferences: $$ u(kx_1, kx_2) = (kx_1)^a (kx_2)^b = k^{a+b} x_1^a x_2^b \neq k \cdot u(x_1, x_2)$$ So what am I missing here?
+I´ve been trying to compute a volatility of invesment with currency hedging and I have a question.
+How can volatility swaps be used to reduce the risk of volatility in the markets (hedging strategies)?
+
+q_, firm, q_i, pi_, p_, response, best, profit, dq_, cournot
+Then, you solve Firm 1's profit maximization, with Firm 1 correctly anticipating the responses of the subsequent two firms: \begin{equation} \max_{q_1}\; \bigl(16-q_1-q_2^*(q_1)-q_3^*(q_1,q_2)\bigr)q_1.
+Let $\pi_1(q_1, q_2), \pi_2(q_1, q_2)$ denotes firm 1's profit and firm 2's profit respectively when firm 1 produces $q_1$ and firm 2 produces $q_2$.
+For $j = n$ the best response is given by \begin{align} b_n(Q_{n-1}) = \arg\max_{q_n}(1 - Q_{n-1} - q_n)q_n = \frac{1- Q_{n-1}}{2}.
+Likewise, from $(2)$ we get Firm 2's best response to Firm 1's output, $q_2^*(q_1)$.
+Case 2: signaling exist Consider the firm 2 $$\pi_2 = max [ (a-q_2-q_1)q_1]$$ By FOC, $q_2=(1/2)[a-q_1]$ Now consider the firm 1, $$\pi_1= max [ (1/2)(ah-q_1^H-q_2)q_1^H+(1/2)(aL-q_1^L-q_2)q_1^L]$$ S.t.
+Let me call it $\pi_1(q_1,q_2)=TR-TC=p\cdot q_1-c\cdot q_1$ for firm 1 and $\pi_2(q_1,q_2)=TR-TC=p\cdot q_2-c\cdot q_2$ for firm 2, then to check that P is the potential of this game you want to check that $\frac{\partial P(q_1,q_2)}{\partial q_1}=\frac{\partial \pi_1(q_1,q_2)}{\partial q_1}$ and that $\frac{\partial P(q_1,q_2)}{\partial q_2}=\frac{\partial \pi_2(q_1,q_2)}{\partial q_2}$.
+For firm 1, $$\pi_1=max[(a-b(q_1+q_2))q_1-cq_1]$$ FOCs for $q_1$ $$a-2bq_1-bq_2-c=0$$ So $$q_1={a-bq_2-c\over 2b}$$ For firm 2, $$max [(a-b(q_1+q_2))q_2]$$ FOCs $$a-bq_1-2bq_2=0$$ $$q_2={a-bq_1\over 2b}$$ So, $$q_1={a-b({a-bq_1\over 2b})-c\over 2b}$$ $$q_1^*={a-2c\over 3b}$$ And $$q^*_2={5a+2b\over 6b}$$ —- The question says that “* firm 1 maximizes profit and firm 2 maximizes revenue as long as shareholders are satisfied, which he achieves by keeping profits nonnegative.
+Incumbent firms face a production cost of $C_i (q_i) = 4q_i$ for $i= 1,2$. All firms face a market price of $P(Q) = 16-q_1-q_2-q_3$.
+This is because when $q_2  q_1$, $p'(q_1 + q_2 + q_3)(q_2 - q_1)  0$ and $c'(q_2) - c'(q_1)  0$, when $q_2  q_1$, $p'(q_1 + q_2 + q_3)(q_2 - q_1)  0$ and $c'(q_2) - c'(q_1)  0$.
+The demand is $p(q) = A − Bq$. My Workings I've tried to solve the problem using the following method: Leader ($q_1$) $$\begin{align} profit(q_1,q_2,q_3) = (A - B(q_1+q_2+q_3))q_1 -cq_1 -F \\  = Aq_1 - B(q_1+q_2+q_3)q_1 -cq_1 -F\\  = Aq_1 - Bq_1^2 - Bq_2q_1 - Bq_3q_1 - cq_1 -F\end{align}$$ The I took the derivative in regards to $q_1$ leaving me with this: $$profit(q_1,q_2,q_3)= A - 2Bq_1 - Bq_2 -Bq_3 -c$$ Finally I just tried finding $q_1$: $$q_1 = \frac{A-C-Bq_2-Bq_3}{2B}$$ To put $q_1$ into the equation and solve it for $q_2$ and then $q_3$ The Problem: The begining of the solution in the answer sheet looks like this: Solution For Stackelberg with two followers, after firm 1 made its move, agents 2 and 3 are making their move simultaneously knowing q1.
+
+j_, composite, neighborhood, tenant, province, bike, sharing, lot, spread, gentrification
+At first glance it would appear to be a horrible model: lots of liability, lots of maintenance, lots of criminality and endless opportunity for annoyance through dumped bikes causing inconvenience.
+Part of the process of gentrification is that (typically) younger, hipper bohemian types move into a formerly low-rent neighborhood, and in virtue of their mere presence (and those of the businesses they frequent/establish/work at) they make the neighborhood more desirable.
+Scottish notes aren’t legal tender in England or Scotland. Committee of Scottish Bankers: Scottish Bank notes are not Legal Tender, not even in Scotland.
+a) Anticipated, anticipated (b) Anticipated, unanticipated (c) Unanticipated, anticipated (d) Unanticipated, unanticipated My attempt: The answer is (d) unanticipated, unanticipated There is no nominal rigidity, so an expected demand shock would lead to a change in expected prices.
+, 1996, "Aggregation without Separability: A Generalized Composite Commodity Theorem," American Economic Review, 86, 524-543.
+Then, $$ \theta = q^{-1} \left( \frac{c}{J} \right)$$ $$ \frac{W_1}{W_0} = \frac{f(\theta_0)}{f(\theta_1)} = \frac{f \left( q^{-1} \left(\frac{c}{J_1}\right)\right)}{f \left( q^{-1} \left(\frac{c}{J_0}\right)\right)}$$ $J_1  J_0$, hence $\theta_1  \theta_0$ and $W_1  W_0$.
+As I understand it, Slutsky compensation is defined as $$T_S = \Delta p_x \cdot x_M(p_x^0,p_y,m^0)$$ Can someone explain why this compensation overcompensates the consumer?
+Check the correlation between health status variables and employment status. If there is visible explanatory power in employment status for health indicators, you may want to treat health indicators as endogenous variables and employment status as instruments.
+At first my regression was like this: $$ INCOME = \beta0 + \beta1STATUS $$ Now, I am going to do one with control variables like this: $$ INCOME = \beta0 + \beta1STATUS + \beta2EDUCATION + \beta3ZIPCODE$$ When I'm looking at the coefficient and standard error for immigration status, what does the regression of earnings on immigration status and all my control variables tell me compared to a regression of just earnings on immigration status?
+It is the sharing of the risk that matters. In general, Islamic banking, when fully complaint with sharia law, is the sharing of the risk arising from any financial transaction.
+
+voting, n_l, q_l, q_n, n_n, c_n, clarke, w_h, product, pi_n
+If $\pi_n(N-1, 1)  \pi_l(N, 0)$, each of the $N$ firms sells $q_l^* = Q_l(N,0)/N$ of product $l$ where $Q_l$ satisfies $(7)$ and no firms sell product $n$.
+As such a Vickrey-Clarke-Groves auction applied to a Cardinal Voting would provide incentive compatibility.
+principal: $\max_{w_h,w_l,e}p(e)v(q_h-w_h)+(1-p(e))v(q_l-w_l) $ subject to (IR) $~~~~~p(e)u(w_h-c(e))+(1-p(e))u(w_l-c(e))\geq \bar u$ (IC)$~~~~~~e\in arg\max_{\tilde e}p(e)u(w_h-c(e))+(1-p(e))u(w_l-c(e))$ Replace the IC with the FOC approach: (IC'))$~~~~~~p'(e)u(w_h-c(e))+p(e)u'(w_h-c(e))(-c'(e))-p'(e)u(w_l-c(e))+(1-p(e))u'(w_l-c(e))(-c'(e))=0$ Now consider the principal's foc wrt $w_h$: $p(e)v'(q_h-w_h)(-1)+\lambda(p(e)u'(w_h-c(e))+\mu [p'(e)u'(w_h-c(e))+p(e)u''(w_h-c(e))(-c'(e))]=0$ So the difference between this and first best is that third term in the FOC.
+org/external/pubs/ft/wp/2011/wp1131. imf. Read the paper at the link below - it goes through the UNDP, World bank and IMF classifications and it's an IMF working paper so i'd class that as referenceable.
+If they were to raise their prices, they might be perceived as blood-thirsty artists/restaurants/etc.
+org/external/pubs/ft/wp/2014/wp14129. The version I cite is an IMF Working paper from 2014.
+The problem to solve is \begin{equation} \max_{\{c_n\}_{n=0}^N}\;u(c_0)+p(1)u(c_1)+\cdots+p(N)u(c_N) =\max_{\{c_n\}_{n=0}^N}\;\sum_{n=0}^Np(n)\log(c_n) \end{equation} subject to a lifetime budget constraint: $c_0++c_1+\cdots+c_N=y$ where $y$ is the lifetime income.
+Costco basically offers two different memberships, the standard membership with an annual fee of \$55 and the Executive membership costing \$110.
+Say you have 3 voters, and consider 3 voting rules, one for each voter. A voter misreports only if both (a) there are no voting rules under which misreporting would hurt her and (b) there is at least one voting rule under which misreporting would help her.
+So in the above example, the C>A>B voters will be truthful and the A>B>C voters will lie (assuming the B>C>A voters are truthful).
+
+power, strong, d_i, calculator, plant, mwh, nbsp, form, news, problem
+The response to the two versions of problem 10 were markedly different: 68 percent of respondents were willing to make an extra trip to save \$5 on a \$15 calculator; only 29 percent were willing to exert the same effort when the price of the calculator was \$125. ...
+It's only when the spot price is negative for more than six hours, renewable power producers are not guaranteed the minimum price anymore.
+The “semi-strong” form says that no public information will help the analyst select undervalued securities.
+I'm collecting data on important business and economic news dates in the late 19th to early 20th century.
+Fortunately, this is easy. You should absolutely take into account the non-linear uncertainty when calculating the confidence interval.
+The Joker has rigged both to explode, and he has given the crew on each boat the detonators — only they have the detonator for the other boat.
+I am interested in the electricity delivered to final consumers in member countries of Nordpool Spot (Norway, Sweden, Finland, Denmark, Estonia, Latvia and Lithuania).
+For example: Sellers (asks) $4 / 20 MWh $5 / 10 MWh $6 / 10 MWh Buyers (bids) $9 / 10 MWh $8 / 10 MWh $7 / 10 MWh
+$$D_i(z)=D_i(w)=1$$ $$D_i(z)=D_i(w)=0$$ $$D_i(z)D_i(w)$$ $$D_i(z)D_i(w)$$. There are four possible values of $D_i(z)-D_i(w)$.
+The wind power is the zero point. However, in older plants, the generator is always coupled to the output of the plant.
+
+swiss, franc, pizza, textrm, pop, russia, broker, watch, u, forex
+Let's assume the Forex broker gives the ambassador some Swiss Francs and off he goes and gets the watch.
+It doesn't seem to me that there were any substantive differences between the Bretton Woods regime and the gold standard, as seen in the early 1970s, when Richard Nixon was forced to remove the US Dollar from its gold peg.
+I was travelling recently and realised that dollars, euros, British pounds and Swiss francs all have more or less the same worth (i.e.
+Think of this as a taste for variety: if I'm indifferent between 2 can of pop and 2 slices of pizza, then I will be strictly better off if I get a combo of 1 pop and 1 pizza than having only one of the goods.
+The Bureau of Statistics in the Department of Commerce and Labor was created out of the Bureau of Foreign Commerce (housed in the Department of State), and the Bureau of Statistics (housed in the Department of the Treasury).
+The Swiss Central Bank has a monopoly over the issue / production of Swiss francs.
+The last piece of advice I can give you - try to draw as many graphs as you can think of and then try to find a story that the graph is explaining.
+But my question was before this the Swiss Franc was pegged against the euro. So how is it the you could have place a bet the euro would rise against the swiss franc when the Swiss Franc was pegged against the euro .
+It is "convex to the origin" in the sense that if we "stand" at the origin, the point $(0,0)$, and "look towards" the graph, we will perceive it as convex.
+2 CHF : 1 EUR. Strictly speaking it was not a peg but a cap: the Swiss National Bank said it would sell unlimited Swiss Francs at the rate of 1.
+
+kkt, condition, ii, maximum, global, coal, qualification, theorem, slater, marriage
+Indeed, the KKT conditions (i) and (ii) cannot be necessary---because, we know (either by Weierstrass, or just by inspection as you have done) a solution to $(*)$ exists while (i) and (ii) has no solution in $\{ g \leq 0 \}$.
+I am looking for an overview as most of the introduction to matching talks about the work done in the Marriage market, Job Matching which is axiomatic.
+But that's not a global warming problem, they will happily build coal plants all day long.
+I am skeptical about claims against its effectiveness. I understand this question has political connotations, and that there are claims of obfuscation and misunderstanding from both command and market camps, but I am asking for the most perspicacious and academic assessment of the performance of the Soviet command economy.
+Every open neighborhood of $x$ contains some $x' \gg x$ and some $x'' \ll x$. (x)$ if every open neighborhood of $x$ contains some $x' \in \succeq\!\!
+Personally, I would call this block-jacknife or leave-one-block-out cross validation.
+Well done for spotting this one. Then the maximum of this expression is the maximum of $-C$ (Cost) which is equivalent to the minimum of $C$, and the equivalence with maximum profit holds under duality.
+Are there necessary conditions for the existence of an equilibrium? I got that in an exchange economy, conditions as preferences being continuous, strictly convex and strongly monotone and $\sum_i \omega_i\gg 0$ are sufficient conditions for the existence of a Walrasian (or competitive) equlibirum.
+)$ quasiconcave,so the set $X = \{x \in R^L: x \succeq x_0\}$ is convex. )$ is strictly quasiconcave and differentiable, by the supporting hyperplane theorem, there exists $p 0$ and $w \geq 0$ such that $ x = x(p,w)$ $\forall x$.
+Meanwhile, the university with the lowest world QS ranking in our area has sports scholarships.
+
+player, game, strategy, equilibrium, payoff, probability, t_, nash, theta, action
+If we consider the definition of a Nash Equilibrium,and carefully consider the strategy sets for each player, we can see there are at least 10 Pure Strategy Nash Equilibria: $$(s_1^*,s_2^*) \in \{(0,8),(1,7),(2,6),(3,5),(4,4),(5,3),(6,1),(7,1),(8,0),(8,8-s_1)\}.
+\documentclass{standalone} \usepackage{istgame} \begin{document} \begin{istgame}[font=\scriptsize] \setistmathTF*001{textsc} % input mode changer \setistgrowdirection{-45} % direction %% tree \xtdistance{10mm}{20mm} \istroot(1){1} \istb{Out}[l]{(1,0)}[b] \istb{In}[a] \endist \istroot(2)(1-2){2} \istb{Out}[l]{(0,2)}[b] \istb{In}[a] \endist \istroot(3)(2-2){1} \istb{Out}[l]{(3,1)}[b] \istb{In}[a] \endist \istroot(4)(3-2){2} \istb{Out}[l]{(2,4)}[b] \istb{In}[a] \endist \istroot(5)(4-2){1} \istb{Out}[l]{(5,3)}[b] \istb{In}[a] \endist \istroot(6)(5-2){2} \istb{Out}[l]{(4,6)}[b] \istb{In}[a]{(7,5)}[r] \endist \end{istgame} \end{document} For the another example: \documentclass{standalone} \usepackage{istgame} \begin{document} \begin{istgame}[font=\scriptsize] %% for arrows (optional) \xtShowArrows \xtShowEndPoints[ellipse node] \xtHideTerminalNodes %% some more optional settings \setistEllipseNodeStyle{15pt}[blue!
+style={font=\sffamily\small\scshape}] (1) edge node [above] {In} (2) edge node [left] {Out} (7) (2) edge node [above] {In} (3) edge node [left] {Out} (8) (3) edge node [above] {In} (4) edge node [left] {Out} (9) (4) edge node [above] {In} (5) edge node [left] {Out} (10) (5) edge node [above] {In} (6) edge node [left] {Out} (11) (6) edge node [above] {In} (13) edge node [left] {Out} (12); \end{tikzpicture} \end{document} Here is another example: Code for the above game is : \documentclass{article} \usepackage{tikz} \usepackage{bodegraph} \usepackage[printwatermark]{xwatermark} \begin{document} \begin{tikzpicture}[-,=stealth',shorten =1pt,auto,node distance=3cm, thick,main node/.
+2): perfect information here is modeled as a player function $P$ mapping each non-terminal history to a set of players, where [a] history in such a game is a sequence of vectors; the components of each vector $a^k$ are the actions taken by the players whose turn it is to move after the history $(a^\ell)_{\ell=1}^{k-1}$.
+It just sounds odd that all along, Harsanyi allows a player's type to be unknown only to other players, but in the end, no matter what, whether you have various types or not, the payoffs must be computed in expectation.
+Game trees are a great tool to present dynamic games such as standard sequential-move games with perfect and complete information (player 1 moves first, player 2 observes the move and reacts, and so on), and they can also be used to present games of incomplete information or games of imperfect information.
+By randomizing the payoff will be higher, but it will also be the case that with positive probability $y\neq x\neq x'$, since the behavior of all players is stochastically independent.
+labelling players, action labels, and payoffs decision nodes, chance nodes, terminal nodes various information sets various arrows on branches (backward induction) various continua of actions subgames signaling games With the istgame package, you can draw game trees like you draw them by hand.
+Consider the stage game in the infinitely repeated prisoner's dilemma game: The goal is to derive conditions on $\delta$ such that the symmetric tit-for-tat strategy profile is a Nash equilibrium.
+Since Player 2's beliefs have changed with respect to game 1, the mixed strategy given by $G$ is, in general, no longer optimal (unless $a$ and $b$ give the same payoff regardless of the action of player 1).
+
+tax, income, wealth, saving, rate, inequality, consumption, government, household, increase
+They also find that dropping the wealth taxes didn't change this pattern, however, they attribute this to an "equalizing force": One important confounding reason why wealth inequality has stabilized in Denmark (despite wealth tax cuts) is likely to be the sharp rise of pension wealth, from around 50% of national income in the late 1980s to 178% in 2014.
+A major concern is also that a substantial share of the private wealth of the top 1% is invested in productive firms which employ millions of people.
+That's why there's an "I" in "IRS": they're the Internal Revenue Service, as opposed to Customs, which collects taxes on external products.
+Stamp duty brackets used to be absolute rates: so when the purchase price crossed over the bracket threshold by £1, the marginal rate would be huge, as the whole purchase price was taxed in the higher rate.
+However, the personal tax allowance is clawed back at incomes above £100,000 at a 50% rate, so those with incomes above £122,000 don't benefit from the allowance at all.
+Exploiting recurring variation in household liquidity, this study shows that when low-income households have more liquidity, they partially catch up to higher-income households’ ability to use intertemporal savings strategies.
+Conceptually, as compared to a neutral taxation scheme, a progressive one shifts the tax burden more towards the higher segments of the income distribution, and a regressive one shifts the tax burden more towards the lower segments.
+So, to put it succinctly: Denmark has a public policy of taxing high earners in order to subsidize those at the lower end, while public and private pensions (which tend to be much larger than in other developed nations) are of primary benefit to the high earners.
+It will vary in value because trust in it will fluctuate just as trust in facebook fluctuates.
+If the bucket gets low, then we'll have to find other as-yet-unknown sources of income to fund these various projects.
+
+lifetime, unfunded, npv, technology, sf, funded, bedroom, arch, relocation, integrate
+When does the liability become funded or unfunded? And if it is unfunded, at what point does it become funded?
+Technology C, which has a lifetime of 25 years. Technology B, which has a lifetime of 20 years.
+IF there are no ARCH effects can I still use GARCH modeling? I am analyzing three time series returns for stocks, bonds and real estate, and have done prelimanary tests including Engle's ARCH test which came back as not rejecting the null hypothesis.
+There are 4 options: 1) remain without a fine, 2) go from no fine to fined, 3) fined less than you were the previous year, or 4) fined more than you were the previous.
+I have the following model for housing prices price = $\beta_0$ + $\beta_1$ sqrft + $\beta_2$ bedrooms + $\beta_3$ sqrft $\times$ bedrooms + $\beta_4$ bathroom, where sqrft is square feet.
+Almost all land is not reproducible, and does not have a finite lifetime. Physical capital is reproducible, and does have a finite lifetime.
+Considering these I think the strategy set of $i$ is $$ S_i={\sf X}^{T-1}_{t=0} A_i^{A^t}.
+I think one can make a reasonable argument that going from 1 bedroom (small house) to 2 bedrooms should have a larger impact on the price than going from say 5 bedrooms (large house) to 6 bedrooms because the marginal value of adding an extra bedroom is larger in that case.
+By the inverse function theorem, we have $$y = f(k) \implies k = f^{-1}(y) = f^{-1}[f(k)] \implies \frac {\partial f^{-1}(y)}{\partial y} = \frac {1}{f'(k)}$$ Keeping all these relations in mind, we also have $$\dot y = f'(k)\cdot \big[sf(k) - (n+g+\delta)\cdot f^{-1}(y)\big]$$ $$\implies \frac{\partial \dot y}{\partial y} \bigg|_{y=y^*} = \frac {\partial f'(k^*)}{\partial y}\cdot \big[sf(k^*) - (n+g+\delta)\cdot k^*\big]\\ + f'(k^*)\cdot \left[s - (n+g+\delta)\cdot \frac {1}{f'(k^*)} \right]$$ $$\implies \frac{\partial \dot y}{\partial y} \bigg|_{y=y^*} = 0 + sf'(k^*) - (n+g+\delta)$$ etc
+The problem to solve is \begin{equation} \max_{\{c_n\}_{n=0}^N}\;u(c_0)+p(1)u(c_1)+\cdots+p(N)u(c_N) =\max_{\{c_n\}_{n=0}^N}\;\sum_{n=0}^Np(n)\log(c_n) \end{equation} subject to a lifetime budget constraint: $c_0++c_1+\cdots+c_N=y$ where $y$ is the lifetime income.
+
+ice, cream, participant, reward, tau, cereal, time, rl, l_a, varepsilon_
+05, reward decay rate is 1 each turn and the tn = 30. First participant wins at t10 and claims a reward of (100 - 10 * 1) = 90.
+Should we set the seed in the random number generator in each period $\tau$, such that all $I$ iterations of evaluating $y_{\tau+1}$ use the same error term $\varepsilon_{\tau+1}$ when computing this forecast?
+Under ordinal utility you can only say that Lisa prefers ice cream to cereal, but you can’t say that she derives let’s say twice as big utility $u$(cerial)=10 and $u$(ice cream)=20.
+Ice Cream Peter’s Chocolate Ice Cream Chocolate Ice Cream Frozen Desserts Desserts For some reason I find this question very subjective.
+In turn, as ice cream prices rise, producers make more of it, and thus more skim milk.
+Your ice cream shop has some costs that vary depending on how many half-gallon ice cream packages are made, and some benefits, the revenue from selling ice cream.
+all ice creams are frozen desserts but not all frozen desserts are ice creams. if you wanted chocolate ice cream but none was available you are more likely to get vanilla ice cream than pork chops.
+Is there porn that's targeted at wealthier, paying customers that I am not aware of?
+5$ That would make the cost for a single cone with a scoop of vanilla ice cream exactly 1.
+Hint 1: So I think you are making a mistake by substituting their production technology into their utility: when you went from $\max 6(1-l_A)+c_A$ to $\max 6(1-l_A)+4l_A$, by doing this, you are assuming that $A$ only consumes what she produces.
+
+year, gdp, value, data, variable, would, price, capital, time, growth
+For example, in the release notes for quarterly GDP of the US economy (see link above), towards the end there is a section called "Updates to GDP", which contains: BEA releases three vintages of the current quarterly estimate for GDP: "Advance" estimates are released near the end of the first month following the end of the quarter and are based on source data that are incomplete or subject to further revision by the source agency; “second” and “third” estimates are released near the end of the second and third months, respectively, and are based on more detailed and more comprehensive data as they become available.
+For example, let: -INT is an 0/1 indicator variable to use in the interaction -AVG_Overall is an average value of variable X for all individuals in groups A and B -AVG_A is the average value of variable X for individuals in group A ONLY -AVG_B is the average value of variable X for individuals in group B ONLY -Y is the dependent variable Is it appropriate to estimate the following regression?
+First, for clarification, the definition of "change in inventories", taken from page 108 of SNA, version 2008: The basic principle underlying the measurement of changes in inventories of finished goods is that output should be recorded at the time it is produced and valued at the same price whether it is sold, otherwise used or entered into inventories for sale or use later.
+But in reality, in order to obtain an actual value for this price index (and hence also of inflation), we must specify a base period, against which we will evaluate the price index for the other periods (past and future).
+But when the topic is growth ("how much bigger is it now") the wrong calculation gives incorrect information ("The public debt remained fairly constant from the late 1940s through 1981") and may lead to serious or fatal errors in policy.
+GFCF is not a measure of total investment, because only the value of net additions to fixed assets is measured, and all kinds of financial assets are excluded, as well as stocks of inventories and other operating costs (the latter included in intermediate consumption).
+I'm trying to predict the income of graduates of certain Master's programs n years after graduation, using the American Community Survey individual level dataset to calibrate my equation.
+Obviously, the real value must decrease due to inflation, but I would like to see what is left from the original purchasing power of $1,000 in years-zero every year for 20 years.
+My humble opinion is that barring companies owning the shares of other public companies directly or indirectly, there is an upper limit at a fixed discount rate, once the x public companies account for all gdp, it is simply divide that gdp by the discount rate.
+The way I have understood is the following: For ROI, since it is negative, therefore the cost of the investment is way higher than the current value investment.
+
+monthly, percentage, f_t, decimal, mdp, formula, zone, target, yearly, expressed
+As far as i understand in the Krugman target zone model the following equation describes the behaviour of the exchange rate within and outside a target zone $s_t = f_t + \alpha E_t(ds_t/dt)$.
+The monthly payment formula is based on the annuity formula. Since the quoted yearly percentage rate is not a compounded rate, the monthly percentage rate is simply the yearly percentage rate divided by 12; dividing the monthly percentage rate by 100 gives r, the monthly rate expressed as a decimal.
+washington. I have been reading from this textbook which talks about CPI and inflation http://faculty.
+It uses three factors in production: capital K, which is acquired for price Pk at t=0 and last two periods, and labor in each period, L1 and L2, with respective spot prices PL1 and PL2; the firm acquires L1 at t=0 and L2 at t=1.
+So monthly percent should be 0. Why monthly present in on line monthly payment calculator calculated as annual percent divided by 12?
+What are the methods to treat the annual figures in to monthly and/or the monthly in to annual?
+If not, is there at least a micro theory textbook that heavily focuses on MDP's?
+For MDP without considering Microeconomics, (Indeed MDP is a decision-making process.
+I make those equal at a monthly discount rate of about $0. 122$, though it does depend on how you translate $10\%$ into a monthly interest payment Similarly for Dealer B, I would have thought the payments were $\$4000$ immediately followed by $36$ equal monthly payments of around $\$522.
+So I found this example in the net Compound interest formula (including principal): A = P(1+r/n)(nt) If an amount of $5,000 is deposited into a savings account at an annual interest rate of 5%, compounded monthly, the value of the investment after 10 years can be calculated as follows...
+
+err, ride, n_j, phone, trump, apple, donald, ytm, tariff, president
+Apparently Trump had personally promised Tim Cook back in June that Apple phones would not be affected.
+Suppose the shock to $n_j$ is totally exogenous for simplicity. Is there a causal framework that allows me to estimate the impact of $n_j=1$?
+What are other methods a president could undertake to weaken the dollar? United States president Donald Trump has publicly declared a desire to deflate the value of the dollar.
+If ERR > MARR, accept the project, else reject it. ERR is the rate of return of the project when I reinvest the cash produced at a rate RR (Reinvestment Rate).
+What is the YTM? If so, how does rrr affect YTM? ^That's a question I've been asked and have literally no clue about how to calculate the YTM.
+50 per ride when 9 million rides are offered. 50 per ride. 50 if 9 million rides are to be sold.
+Are there any studies that have objectively sought to measure worker productivity since the election of Donald Trump?
+50 per ride when 9 million rides are offered. 50$ dollars per ride, at $5. The x axis is quantity of cab rides per year, in millions of rides.
+) we can observe a trend that iPhones on average depreciate far less and slower than for example Samsungs (or other phones that lose their value even faster).
+If I were have to pay, I am willing to pay no more than \$5 for such ride. Therefore, I am not willing to pay \$10 for such a ride.
+
+one, rate, utility, market, price, good, currency, unit, government, would
+So there appears to be a discrepancy between two different measures of "economic profit".
+I would look at the financial economics, financial intermediation, banking, finance, handbooks.
+But 'ill add that given that we live on a world economy and the price of gold is fixed by international exchanges betweeen coutries a theoritical calculation of the real price involves currency exchanges and more theory.
+If the investors are abroad, they would be less affected by a slow down or a crash or the economy, and thus ask for higher prices to compensate for the risk of defaults.
+And there's broader literature on industrial policy and regulation too. Frank Geels of Manchester does a lot of work on the theoretical side of this.
+The aggregation of this sort of situation over many households can explain the coexistence of poverty and saving on a significant scale.
+In this paper, the first order conditions for capital and labor of the CES production function under cost minimization imply: $$ log(rk/wl) = -(1-\sigma)log(w/r) + (1-\sigma)log B + \sigma log (\alpha / (1-\alpha))$$ This doesn't seem to require any special non-linear estimation technique.
+The text of the excerpt does not give the functional form of the depicted curves.
+Eddy the exponential discounter is willing to lend the cash to Henry because is profits on that loan are high enough to compensate him, even though his rate of time preference for both 1 and 2 year loans is higher than Henry's.
+Benji (Here I'm just trying to understand the economic principles involved) Thanks!
+
+capitalism, industrial, agrarian, keynesianism, mercantilism, revolution, exploitation, century, th, difference
+What's the difference between "industrial capitalism" and "agrarian capitalism" and "mercantilism" and the "industrial revolution" and the 20th century ideas of "Keynesianism"?
+You are talking about the inverse of the exploitation rate. Surplus value = exploitation rate x use value Wages = (1/exploitation rate) x use value
+New Old Keynesianism delineates the differences between Old Old Keynesianism, Old New Keynesianism, New Old Keynesianism and New New Keynesianism such that "New" means “post Global Financial Crisis” and “Old” to refers to a belief that the economy can be in a long-run high unemployment equilibrium.
+) How did the creeping inflation linked to the price revolution cause the industrial revolution?
+It was the Industrial revolution that divided "work"(e.g. Until the industrial revolution came each household operated like a mini business.
+He does sometimes say things that contradict academic Keynesianism. The fact that corporations hoard less cash during recessions doesn't necessarily contradict Keynesianism or New Keynesianism, but it does require these theories to explain why corporations behave this way (which the theorists have not attempted).
+Each food worker produces 6 units of food and each clothing worker produces 3 units of clothing.
+Put simply, Mercantilism can be enunciated as: Mercantilism focuses on wealth accumulation through extraction of wealth which they believe is measured by the amount of gold bullions that the nation has in its possession.
+I can't confirm this is true but it's said by the president of one of the main agrarian organizations of Argentina, probably with statistics made by them and/or data of the national institute of agrarian technology.
+But in the present day what theory of value is used for other schools of thought that favor things such as mixed market economies, Keynesianism, socialism, etc ?
+
+money, rate, bank, interest, inflation, would, bond, government, debt, central
+Too low, and the opposite happens: sell bonds; less money; less excess reserves; more borrowers; higher interest rates; lower inflation.
+Or more aptly, they may believe the only way you can pay this interest is by printing money, decreasing the value of money and potentially leading to inflation or a runaway zimbabwe situation So the destruction of currency reduces the financial liabilities of a central bank, benefitting its balance sheet.
+Individuals who wanted to foolishly lend to banks without the backing of the Fed could do so if they REALLY wanted to, but few would as the banking system would burn up in a liquidity fire without Fed support to prop up maturity mismatching by constantly providing artificial levels of short term debt to the banking system.
+Now Bank A has an asset: a loan to B Bank A has a liability: Bank A owes money to Bank D Bank D has an asset: Bank A owes money to Bank D Bank D has a liability: C's deposit with Bank D Bank A now needs to settle with Bank D: this can happen through clearing if other customers are moving money to Bank A, but it is easier to imagine that Bank A tells the central bank to give some of A's reserve deposits there to Bank D.
+Since banks borrow money from the central bank, they must lend at higher rates than they are borrowing in order to turn a profit, so setting the interest rate is a potent means of encouraging or halting inflation.
+Most money only ever exists as accounting transactions, and most money is generally created by regular banks rather than the central bank.
+For example, the Federal Reserve "buys" X billion dollars worth of US 30-year T-Bills from JPMorgan by simply taking possession of the T-Bills and credits JPMorgan's deposit account X billion dollars.
+Since October 2008, the Fed offers banks 25 basis points per annum for their deposits (including excess deposits over the required reserves), but pays zero interest on deposits from nonbanks, especially GSEs.
+I am going to be reluctant to give someone my money for five years if, by the time I get it back, it is worthless—I'd rather spend the money now while it's still worth something.
+However, since the private bank is borrowing from the central bank, money is flowing from the private sector back to the central bank, reducing the money supply.
+
+currency, mathop, loc, usd, village, restriction, s_y, kr, quote, convertible
+Assume that the confidence the board does not reduce and neither does it ability to maintain USD reserves.
+Currency pairs quotes work such that one unit of the base currency can be exchanged for quoted amount of the quote currency (hence the name "quote currency").
+So can i use propensity score matching to evaluate this program? But the problem is the program itself (at the first year) implemented to almost all villages across countries.
+It makes clear that the "ease" you refer to typically refers to the lack of government restrictions.
+A) Unemployment fell because FT employment rose more than PT employment fell B) Unemployment fell because PT employment rose more than FT employment fell C) Unemployment rose because FT employment rose less than PT employment fell D) Unemployment rose because PT employment rose less than FT employment fell E) Unemployment rose because FT employment and PT employment fell The answer is A).
+7% county and 24% municipality tax): from 18,800 kr to 433,900 kr (~2,690 – 62,140 USD) 31% + 20%: from 433,900 kr to 615,700 kr (~62,140 – 88,180 USD) 31% + 25%: above 615,700 kr (88,180 USD and up)[4] Why is it said that it is regressive?
+Further, if $X$ and $Y$ are independent, then $\mathop{{}\mathbb{E}}[Y|X = x] = \mathop{{}\mathbb{E}}[Y]$.
+If $S_Y$ is the amount saved by $Y$ in the first period, and $T_X$ is the amount transferred by $X$ to $Y$ in the second period, then $X$'s payoff as function of his choice $T_X$, taking as given $Y$'s choice $S_Y$ is $$\ln(I - T_X) + a\left(\ln(I-S_Y) + b\ln(S_Y+T_X)\right)$$ $X$ will choose $T_X$ by solving the following problem : $$\max_{T_X \geq 0} \ \ \ln(I - T_X) + a\left(\ln(I-S_Y) + b\ln(S_Y+T_X)\right)$$ First-order condition for optimality is: $$\frac{1}{I-T_X} =\frac{ab}{S_Y + T_X} $$ Solving it for $T_X$ we get, $$T_X = \frac{abI-S_Y}{ab+1}$$ This is the best response transfer function of $X$.
+Suppose I have $$\text{apples} \succ \text{pears} \succ \text{pineapples}$$ I can map this onto the natural numbers as follows $$\text{apples}\mapsto 1$$ $$\text{pears}\mapsto 2$$ $$\text{pineapple}\mapsto 3$$ But for weak preferences we might have $$\text{apples} \sim \text{pears}$$ But this wouldn't map bijectively onto the natural numbers because then for example $$\text{apples} \mapsto 2$$ $$\text{pears} \mapsto 2$$ My Question: What do we map weak preferences on to?
+Average Price/Gram Year 2000: 81,21 kr Year 2001: 89,90 kr Year 2002: 96,54 kr Year 2003: 94,65 kr Year 2004: 96,89 kr Year 2005: 105,63 kr Year 2006: 144,82 kr Year 2007: 149,54 kr Year 2008: 179,83 kr Year 2009: 236,83 kr Year 2010: 279,83 kr Year 2011: 324,20 kr Year 2012: 363,68 kr Year 2013: 299,28 kr Year 2014: 275,83 kr Year 2015: 315,10 kr Yearly Inflation Year 2000: 0,98% Year 2001: 2,66% Year 2002: 2,08% Year 2003: 1,27% Year 2004: 0,28% Year 2005: 0,88% Year 2006: 1,64% Year 2007: 3,45% Year 2008: 0,90% Year 2009: 0,58% Year 2010: 2,34% Year 2011: 2,29% Year 2012: -0,05% Year 2013: 0,14% Year 2014: -0,31% Year 2015: 0,05% Now, I request nothing more than a methodology.
+
+carbon, vat, fee, strictly, prefers, price, year, indifferent, map, value
+0) // Carbon Fee SAFE_GUARD Carbon_Fee = Carbon_Fee + $10; -----HR 763 Default Worst Case Scenario Carbon Fee Worst Case Scenario Carbon Fee It seems to me that the price elasticity of demand for gasoline might be a good worst case scenario proxy for the price elasticity of demand for carbon.
+) A trivial example of a SCR that is incomplete or violates the unrestricted domain condition is that which maps each of profiles 1–8 to the preference "strictly prefer $B$ to $A$", but fails to map profile 9 to any preference.
+The other way to have multiple states defect in the same period is the interesting case.
+As most supplies have in some sense a service and a product component, general zero-rating of services would create huge incentives to artificially split out product and service compoments to save on VAT, leading to huge tax bureaucracy and litigation.
+) In addition, subscribe to the email alerts from the journals in your field/interest.
+For example, if a hairdresser cuts your hair, there were no intermediate persons in this process and the cost of the hair cutting service didn't rise because of them.
+The hairdresser has bought scissors, shampoo, etc. He may even heat his/her store and supply it with electricity.
+of no VAT Bahrain, Kingdom of no VAT Iraq no VAT Kuwait no VAT Libya no VAT Oman no VAT Saudi Arabia no VAT Syrian Arab Republic no VAT United Arab Emirates no VAT Yemen, Republic of Sub-Saharan Africa 1960 Côte d'Ivoire 1980 Senegal 1986 Niger 1989 Malawi 1990 Kenya 1991 Benin 1991 Mali 1991 South Africa 1993 Burkina Faso 1994 Madagascar 1994 Nigeria 1995 Gabon 1995 Mauritania 1995 Togo 1995 Zambia 1996 Guinea 1996 Uganda 1997 Congo, Republic of 1998 Ghana 1998 Mauritius 1998 Tanzania 1999 Cameroon 1999 Mozambique 2000 Chad 2000 Namibia 2001 Central African Rep.
+I'm a web developer (not an economist) and i'm working on a program that deals with value-added tax (VAT), maybe it is a stupid question but, is the value added tax obligatory?
+Carbon Fee Fail-safe and Safeguard Every Year once a year: if (Years_Behind Schedule > 1.
+
+bike, tuition, healthcare, mdash, pi_l, pi_h, offering, college, announce, company
+Sometimes, companies that are essentially still under the control of the founders &mdash; even though they have done an initial public offering and are now publicly traded &mdash; will do a secondary offering in which the company itself purchases stock from the founders, and sells that stock on the market, rather than actually issuing new stock.
+For as long as I can remember people in the US have complained about the high cost and trajectory of college tuition and healthcare expenditures.
+Is there a general rule of thumb in constructing an IC? Suppose we are interested in constructing an incentive compatibility constraint for an agent to announce his state truthfully.
+So why President Erdogan is conviced of the opposite? Is there a sound economic theory that would agree with Erdogan's initiative?
+This makes it easier to value the shares that are owned by the founders, as the shares are valued publicly in the stock exchange.
+My college tutor told me that demand for college admission at our institute is price inelastic.
+My college tutor told me that demand for college admission at our institute is price inelastic.
+I buy 100 bikes. Let's make an example: I start a bike share business. Here is the catch: To cover my liability (lost bikes, stolen, wrecked, etc.
+Why does China has to give approval to two US companies merging together? Why does in this case UTC need approval from China : https://edition.
+Suppose I attend college with 10k tuition fee per year meanwhile I have a part time job for 5k annually.
+
+cost, curve, tc, mc, production, function, leisure, labor, param, substitution
+"substitution patterns between exchange transplants and other transplant outcomes" would, I think, be better phrased as "patterns of substitution of exchange for other transplant outcomes".
+Suppose (for contradiction) that SR cost curve is above the LR cost curve at point $x$ on LR cost curve.
+I didn't work out the proof myself but found in Wikipedia another version of the CES production function that has the same shape as your cost production function by replacing $1-\sigma$ with $r$.
+To give some context the author says the following: "I analyze the substitution patterns between exchange transplants and other transplant outcomes" What does this mean in layman terms?
+First, in IS LM model where in classical case, when LM curve is vertical increase in government expenditures have no increase in output i.e.
+This might be in the form of job change (silica miner move to coal miner), or might be in the form of task redefinition (the book Prediction Machines describe how self-driving school bus might shift the main task of a school bus driver to an adult who oversees and "teaches" the schoolchildren.
+Then my costs will be function of both labor $L$ and quantity $Q$. If I have wage $w = 200$ and rental rate $r = 3050$ on short run, I can assume that $K=1$ and then get the total costs $TC = rK+wL = 3050 + 200L$.
+I am trying to give a puzzle from behavioral economics illustrating on the irrationality of thinking of costs in proportional rather than absolute terms.
+Hence, if $TC(q)$ is the total cost for the given level of quantity $q$, then $FC=TC(0)$ is the fixed cost, which is a constant independent of $q$; and $VC(q)=TC(q)-FC$ is the variable cost.
+In the answer to this question, the answerer said "the minimum point of a short run cost curve will be above the long run cost curve".
+
+nu, eta, exp, adequately, skipping, stealing, zimbabwe, startup, yielding, gravity
+9) is (I'm skipping the content of the $\exp()$ expression for brevity): $ \frac{1}{r+\nu+g_h + g_w} \left(\eta'(S)w(0) \exp(\cdot) + \eta(S) w(0) (r + \nu - g_w)\exp(\cdot)\right) \overset{!
+Natural resources and gravity determines trade. It is not fdi or portfolio investment and includes travel expenses and things not adequately tracked; For 5, any sort of anti western government expropriating assets, like Zimbabwe, uses that to fund it's balance of payments.
+Applying the chain rule we get: $\frac{\partial \Pi_t}{\partial Y_t(j)}=P_t \left(\int_0^1 Y_t(j)^{1-\nu} \ dj \right)^{\frac{\nu}{1-\nu}} Y_t(j)^{-\nu}-P_t(j)=0$ At this point, the trick of the trade is that $\left(\int_0^1 Y_t(j)^{1-\nu} \ dj \right)^{\frac{\nu}{1-\nu}}$ which is a part of the FOC, equals $Y_t^{\nu}$ (check the first equation) Setting $\left(\int_0^1 Y_t(j)^{1-\nu} \ dj \right)^{\frac{\nu}{1-\nu}}= Y_t^{\nu}$ in the FOC, and solving for $Y_t(j)$ will give the desired result.
+As the Frisch elasticity here is given by $\nu$, I would calibrate $\nu$ to be between 0.
+In this context, $\nabla_\nu \varphi_\nu(x)$ is a vector of size $n_\nu$. In this case, define the $\nu$-th player's strategy vector $x^\nu \in R^{n_\nu}$ and so $x=(x^1,\dots,x^N)^T$ of a size $n_1+\dots+n_N$ for a $N$ player game.
+The startup has a pre-money valuation of 1M. Let's say that the startup, after 1 year, raise a Series A round.
+] yields": $$w_t - p_t = \sigma c_t + \varphi n_t + \chi (\nu - \sigma) (c_t - (m_t - p_t))$$ with $\chi = \frac{ \vartheta^{\frac1\nu} (1 - \beta)^{1 - \frac1\nu} }{ (1 - \vartheta)^{\frac1\nu} + \vartheta^{\frac1\nu}(1 - \beta)^{1 - \frac1\nu} }$.
+$n$ might be properly measured in units of 15. Consider the leisure part of the utility function: $$ - \alpha \frac{n^{1 + \frac{1}{\nu}}}{1 + \frac{1}{\nu}}$$ We can rewrite it like this: $$ - (\alpha^{\frac{1}{1 + \frac{1}{\nu}}})^{1 + \frac{1}{\nu}} \frac{n^{1 + \frac{1}{\nu}}}{1 + \frac{1}{\nu}} = - \frac{(n\cdot (\alpha^{\frac{1}{1 + \frac{1}{\nu}}}))^{1 + \frac{1}{\nu}}}{1 + \frac{1}{\nu}} $$ Define $\gamma = (\alpha^{\frac{1}{1 + \frac{1}{\nu}}})$ and rewrite the utility function in terms of $\gamma$ instead of $\alpha$ $$ u(c, n) = \log (c) - \frac{(\gamma \cdot n)^{1 + \frac{1}{\nu}}}{1 + \frac{1}{\nu}}$$ Written this way, I see $\gamma$ and therefore $\alpha$ as serving as a unit shifter.
+Is it possile that central banks are secretly stealing from the economy by printing money when the the dollar deflates, so the dollar stay the same value and nobody notice it?
+However, his solution - in (4) - puts $\epsilon (t)$ in the first equation of (2) instead of $\nu (t-1)$, and $\nu (t-1)$ instead of $\epsilon (t)$.
+
+model, var, dsge, forecast, sample, amp, forecasting, parameter, chance, shock
+And the results of this paper are not amazing for DSGE: Two forecasting exercises have been implemented on US quarterly economy data: the first one considering a simple forecasting one-step-ahead strategy with different samples, and the second a h-steps ahead evaluation with a rolling forecasting estimation.
+To see this, consider the outcomes of the Allais paradox: $$M^T=\begin{bmatrix} 1  0  0  0 \\ 1  1  0  0 \\ 1  5  0  0 \\ 1  0  1  0 \\ 1  1  1  0 \\ 1  5  1  0 \\ 1  0  0  5 \\ 1  1  0  5 \\ 1  5  0  5 \\ 1  0  1  5 \\ 1  1  1  5 \\ 1  5  1  5 \end{bmatrix}$$ Where each column represents one of the four gambles.
+Or are they just good at "analyzing" the sample(through Granger tests, IRF's etc) and bad out-of-sample forecasters?
+I tested 4 different method but without achieving an ARMA-GARCH simulation with my data.
+I am awared of the following: Tobit (Tobin, 1958), Two-Stage Model (Heckman, 1979), Two-Parts Model (Duan et al.
+That paper has a highly accurate approximation for Tobin's Q using Compustat. If you are interested in Tobin's (average) q, you might find useful A Simple Approximation of Tobin's q (Chung and Pruitt (1994)).
+You then compare your forecast predictions to known data and to those of other forecasts.
+What about the forecast error. What will be the impact of estimating AR(P-1) on the estimated coefficients of $\phi_1 - \phi_{p-1}$, can they be consistently estimated.
+However in population forecasting, can ARIMA models be interpreted in a meaningful way?
+They generate different performances (e.g. DSGE models and BVARs are commonly used in academia and policy circles.
+
