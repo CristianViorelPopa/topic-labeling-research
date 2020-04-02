@@ -1,0 +1,200 @@
+dictionary, old, american, sound, see, sense, new, come, common, language
+In my reading today, I came across this phrase: Pardon the mixed metaphor, but you’ve brought a knife to a gun fight. [Link] The (longtime) columnist was saying the person was outmatched.
+Charles Mackay, A Glossary of Obscure Words and Phrases in the Writings of Shakespeare and His Contemporaries (1887) has an interesting but rather lengthy entry for "Brown study," parts of which I reproduce (with annotations) below: ...
+
+make, thing, correct, case, might, know, someone, want, context, form
+You have three verbs, each governing a particular time from a particular point of view: Some ideas (1) had been suggested previously*, but because something else (2) is happening, no idea (3) proved good enough.
+Non-native speakers of any language struggle with the flow of the adopted language. How do they pick up on this so easily?
+
+fall, size, rain, fell, falling, snow, loan, debt, winter, penny
+Snow pellets can also occur when a snowflake melts about half way then refreezes as it falls. Snow pellets have characteristics of hail, sleet and snow.
+A light, brief shower of snow. Flurries usually produce little accumulation (Definition from American Meteorological Society and National Snow and Ice Data Centre).
+
+voice, direction, speed, signal, button, format, technique, light, command, procedure
+How is the spelling of a hyphenated word usually read out loud? For example, with "Anglo-Saxon", do we say: "It is spelt as A-N-G-L-O---S-A-X-O-N".
+Iterate over what? I guess that is the point. To 'iterate' is to repeat something, say, an action, so we can iterate a procedure, or we can iterate over x, or iterate through x.
+
+car, american, water, british, party, president, corpus, million, hit, political
+I bought Toyota's car. or I bought a Toyota. or is there a better alternative? I bought a car manufactured by Toyota. How would you say "a car manufactured by Toyota"?
+There are a lot of vehicles: cars, buses, airplanes, trucks, excluding bicycles.
+
+name, computer, user, program, fish, plural, named, variable, programming, register
+Questions about English used for programming computers, but not about programming languages or the naming of programming constructs.
+It can lead to conflicting names of the variables. Scope is the part of the program where a particular identifier, such as a variable or a function name is accessible.
+
+company, money, product, service, business, pay, store, card, customer, data
+Are all of these options acceptable and in current use to denote payment with a credit card? E.g. Please charge this amount on me/my credit card/my (credit card) account.
+Every sale by a seller is a purchase by a buyer. The interaction is an exchange. The seller exchanges the good or service for the money.
+
+zero, facebook, null, grouped, elbow, trader, prevented, grease, slander, bakery
+I always use by, because in this context we mean "grouped by": PnL by trader = PnL results grouped by trader, PnL by day= PnL results grouped by day, VaR by asset = VaR results grouped by asset, VaR by portfolio = VaR results grouped by portfolio.
+How it is called (in the US) when you go to the bank or an ATM to add cash to your VISA/MasterCard debit card? That is, when you add cash to the bank account which is tied to that card.
+
+child, woman, law, family, mother, father, love, parent, wife, relationship
+"Brother/sister-in-law" is common U.S. English usage to refer to the spouses of your spouse's siblings. I have four brothers-in-law -- my sister's husband, my husband's brother, and my husband's sisters' husbands.
+The sister to a husband becomes the wife's sister-in-law. If the sister in-law was to marry a woman, would she also become the wife's sister-in-law?
+
+com, http, book, amp, google, content, university, ngram, college, chart
+Have you looked at the Google NGram graph for this? [Link]
+I really like Google's N-gram viewer. Look how a picture says more on the subject than a thousand books could :)
+
+great, removed, generation, cousin, uncle, aunt, ancestor, grandfather, atom, tolkien
+Kinship terms in English begin with the first common direct ancestors. It gets a bit tricky when people are of different generations.
+It's very easy to determine the relationship in English. First, find your common ancestor. Siblings have the same father, cousins have the same grandfather, etc.
+
+crime, center, institution, chain, prison, facility, prisoner, transformation, jail, custody
+Soft words allow society to accept holding fellow Americans captive under some bizarre theory of "rehabilitation" (another euphemism).
+In the United States, jails are operated by cities and counties (or equivalent). Prisons are operated by states and the federal government.
+
+paper, code, bag, corner, purchase, shopping, stuff, plastic, pole, economics
+"Enjoy a complimentary tote bag with every purchase of cosmetic goods" vs. "Enjoy a complimentary tote bag upon every purchase of cosmetic goods"
+While there is overlap, there is definitely domain unique to each. A nook could be an inside corner, but it connotes seclusion, and may denote "coziness".
+
+suffix, ending, brain, eye, perception, visual, experienced, breath, ic, historic
+It isn't just about vision. For instance, an optic nerve aids you visually... not optically. An optical illusion means that the optic mechanics of your eye/brain are illuded.
+It seems to me that "optical" relates more to the mechanics of light and vision, whereas "visual" is a much broader term.
+
+miss, void, kitten, compassion, deepest, prick, pitiful, rejoice, tug, emptiness
+You can rebuke the manipulator by telling them: "I can't be swayed by you plucking my heartstrings" or "I won't change my mind because of you playing my heartstrings".
+"I'm always late when I date you. So you're gone. You're my goal and I can't reach that goal. The more this happens the more I feel your absence."
+
+argument, ad, logical, attack, fallacy, toilet, beer, visited, delivery, accusative
+It is considered to be a fallacy. Such an attack is called an ad hominem. From wikipedia: Ad hominem (Latin for "to the man" or "to the person"), short for argumentum ad hominem, is where an argument is rebutted by attacking the character, motive, or other attribute of the person making the argument, or persons associated with the argument, rather than attacking the substance of the argument itself.
+From Wikipedia: "Argument from fallacy is the formal fallacy of analyzing an argument and inferring that, since it contains a fallacy, its conclusion must be false".
+
+dollar, clean, oldest, eldest, acme, warp, cleanliness, quartz, hygiene, stamen
+Wiktionary: to refurbish; To rebuild or replenish with all new material; to restore to original (or better) working order and appearance.
+People are not educated about cleanliness. That would mean that people aren't taught about hygiene. Whereas in this case, people aren't taught about cleanliness.
+
+black, red, white, green, stem, kitchen, wire, insect, oxymoron, schadenfreude
+I would use 'red buses and cabs, and black buses and cabs'. 'Red and black buses and cabs' to me means buses and cabs which are all painted in both red and black, perhaps red up to the bottom of the windows and black above.
+Red is the most popular colour? Red is the most commonplace colour? Red is the usual colour? Red is the norm? Red is the conventional colour?
+
+quote, letter, parenthesis, bracket, sic, correction, local, mercy, original, jinx
+A discussion of adjective ordering is the right approach here I think, but... To me, “local crumbed scallops” would be already-crumbed scallops obtained locally; “crumbed local scallops” would be scallops obtained locally and then crumbed after being obtained.
+What is the proper use of [square brackets] in quotes? Parentheses or square brackets? When I add information beside a word in a Bible verse, what bracket should I use?
+
+import, hunger, disgust, imported, export, mustard, nausea, yolk, nauseous, disable
+I don't quite understand how one should use the expression "exported from somewhere". What does it mean when an item is exported from a given place?
+"Queasy" means suffering from nausea, a stomach distress with distaste for food and an urge to vomit. "... if I eat any more meat, I'd vomit".
+
+ear, listened, headphone, onboard, ms, earphone, jquery, piel, rockin, affronted
+Earphones/earbuds are those worn in the ears without a headband. While they come in pairs, one can have an earphone/earbud in one ear, leaving the other dangling.
+Can you wear headphones (plural) in only one ear? Or would I have to use a singular form? I want to show that even though she has a set of headphones, she's only wearing a singular piece of it in one ear.
+
+tell, truth, lie, false, joke, pride, praise, speaks, deceive, falsehood
+We have a word for telling something that is not truthful, a.k.a. to lie, but why is there no conjugatable term for telling the truth?
+It can signify a number of things. You might be disappointed by what you hear: not being supported, not being complimented, not getting an answer, etc.
+
+room, unit, touch, owner, smell, map, apartment, rent, owns, dwelling
+But if a house was divided up into units, they would each be considered apartments. Condo, which is short for condominium, is mostly the subset of apartments where the individual living units are owned by different people.
+If you are a tenant, you would be "renting" an apartment. If you are a landlord, you would be "letting" an apartment. Sometimes landlords will use the word "rent".
+
+power, government, kill, approved, ruler, democracy, dictator, chauvinism, unlimited, authoritarian
+These words are related but might not refer to the same exact thing. However, an autocracy may be totalitarian or be a military dictatorship.
+"Dictator" is not merely negative as it describes a particular type of power. In the Roman empire the dictatorship was not badly rated as it could with certain leader like Nero.
+
+degree, lt, symbol, entity, scale, gt, range, temperature, arm, grade
+They do best in temperatures between 40 degrees and 125 degrees Fahrenheit (5 degrees and 52 degrees Celsius). ... So, there is no choice.
+Both Fahrenheit and Celsius use the same symbol, just as they both use the same word. immediately preceding "Celsius" or "C" or "Fahrenheit" or "F", not following each number.
+
+cloud, virus, amazon, trail, frankenstein, addicted, deployed, crumb, maze, othello
+"In the cloud" - You can use this phrase to say that a resource is part of the cloud. "On the cloud" - You can use this phrase to say that you're writing about a specific cloud.
+We say 'the application was deployed to the cloud' instead of 'in the cloud'. If you are going to say '... is running on the machine' , ' ... is running on the cloud' ...
+
+ship, row, copied, cargo, transit, spreadsheet, shipped, shipment, flippant, disgusted
+So in that respect it differs from cargo. For one thing, shipment can also refer to the goods themselves, as in "The shipment of machine parts was due to arrive yesterday".
+Your sentence is "This is a ship-shipping ship, shipping shipping ships". The last "shipping" is an adjective, describing what kind of ships are being shipped.
+
+earth, harry, package, orbit, satellite, nasa, packet, ron, cheeky, mischievous
+It is my understanding that, within the aerospace industry, "on orbit" means "in the correct orbit" (such as "on target" or "on path").
+What's the difference between 'the Earth' and 'Earth'? Why is there an article before Earth on the first sentence, and none on the second one?
+
+number, primary, jack, secondary, ate, chocolate, binary, disaster, ordinal, cardinal
+The terms are "Cardinal" and "Ordinal" and "Distributive". One, two, three, etc. are "Cardinal Numbers". First, second, third, etc. are "Ordinal Numbers".
+I was curious to know what comes after: Primary, secondary, tertiary, ... This Oxford website says it is "quartenary, quinary, ...
+
+mark, sign, punctuation, sc, inverted, issued, po, smiling, visa, gc
+Common Digits Although it was not always this way, at one point in the history of the Unicode Standard, they made explicit that a digit was only usable for a base-10 numeric character used to compose big-endian numbers.
+No, an emoticon is a symbol, not punctuation. Unicode clearly differentiates symbols such as math symbols and currency symbols, from punctuation, such as open or close punctuation.
+
+address, window, internet, shape, server, automatically, curve, bark, assign, spy
+Suppose a document is using the term "Internet Protocol" for the first time, along with its abbreviation, "IP". For example: ...
+How about ‘server address’? You could somewhere early in the document define that ‘server address’ denotes the concatenation ‘servername-hostname-port’ and then always refer to it as ‘server address’.
+
+microblog, coffeescript, sound, correct, vowel, however, seems, sure, thing, common
+Use microblog. Here are the various verbs out there that Twitter competitors and users are actually using and therefore would be meaningful.
+Microblog is the only verb that refers specifically to short public postings to social networking services like Twitter.
+
+drug, sauce, tomato, mexican, spaghetti, gravy, carnival, prepares, barker, cartel
+I googled "Gravy Etymology" and found this link which says that "gravy is a subset of sauces made from meat essence" and it goes on to say that Italian-Americans use the word to refer to tomato-and-meat sauce.
+In English it's usually an uncountable (mass) noun, with "piece of spaghetti" or "strand of spaghetti" used for the "singular", but in Italian spaghetti is plural (of "spaghetto"), and they freely use it as such.
+
+cheese, salad, chef, cracker, cod, tuna, taker, cheddar, flavored, ner
+Cheddar is both the cheese, and the city where the recipe originates. Speaking of corn fritters, I've never met a fritter that wasn't made with cornmeal; I'm TOLD they exist...
+Does pizza have mozzarella or Mozzarella on it? Is there a convention here, or is it a matter of taste? Does it depend on whether the word was originally a proper noun ("Cheddar"), a proper adjective ("Swiss"), or something else ("bleu")?
+
+dirty, proportion, gin, olive, kin, spade, vodka, martini, kith, estonia
+A "very dirty" martini would, I'm guessing, contain a lot of brine. It can be garnished with an olive or a lemon twist.
+Dirty refers to adding olive brine to a martini. I would presume that she considers adding all this extra olive flavour to be messing up a martini.
+
+clause, object, subject, preposition, head, complement, construction, gerund, tree, np
+In the first sentence, 'what the teacher taught' is a noun clause. 'What was left in the pot' as used in the second sentence is a noun clause.
+I haven't really used this form before, but I think possibly: (Sentence: He does more than necessary) (NP/N: He) (VP: does more than necessary) (V: does)(AdvP: more than necessary) (Adv: more)(Prep: than)(Adj: necessary).
+
+trip, summer, journey, vacation, euro, brass, ripe, parting, cyber, volcano
+The meaning is that Bloomberg was off having fun somewhere while the city endured a miserable blizzard. A jaunt is a short trip or excursion, usually for pleasure; an outing.
+The general convention for this is as follows: "this summer" means "the summer of this year". "Last summer" means "the summer of last year".
+
+eating, viz, append, cocaine, utensil, cutlery, housewares, escalator, mattress, silverware
+It's a noun vs. adjective thing -- PRAWN in "pasta topped with prawns" is a noun; PRAWN in "prawn cocktail" is an adjective.
+Not one word, but how about disposable dinnerware and flatware or disposable dinnerware and cutlery? Hence, it's not obvious one can do better than three words without inventing new words.
+
+god, belief, quot, proper, religious, church, capitalized, bible, court, christian
+'All believers respect God' means that if someone is a believer, then he respects God. Here, the word 'all' is used for emphasis, and the shorter 'Believers respect God' means essentially the same thing.
+I don't believe in any deities. Therefore I am an atheist. But if I were to just express that I don't believe in say Zeus, would it be correct to say "I am atheistic towards Zeus"?
+
+fruit, skin, vegetable, outer, peel, unravel, rind, poincaré, irregardless, suppletive
+Because the verb 'peel' is a negative connotation already, to have peel and unpeel exist is just redundant. So to prefix 'un' to 'peel' as its noun form makes perfect sense because you're explaining that you're removing the peel of a fruit or vegetable.
+As a noun, for external coverings of plants or animal parts (usually food), the three have their nuances: 'rind' is used more often for thicker or tougher things like citrus fruits and melons, and 'skin' or 'peel' for thinner things like apples, potatoes, or grapes.
+
+spice, latte, vitamin, chai, roe, thrives, moonshine, spiced, shipbuilding, tak
+The "chai tea" usage would be understood but frowned upon in India. My opinion: Chai (tea) is nothing but rechristening of the Indian chai for the export market under the name of chai tea.
+Spices are the something visible, spicy is where those things are used. Hotness is the effect of those things. and you know spices are always hot.
+
+house, level, small, big, building, ground, property, door, floor, flat
+The terms are different even though they can be interchangeably used a lot. Floor is where you get off or live. Story is a measurement of height.
+Sounds like you might be confusing terminology a little though. Story, floor or level. A penthouse isn't the top floor or top story in every building, only in residential/hotel buildings (and again, not all residential buildings have a penthouse).
+
+eat, morning, late, dinner, restaurant, tea, evening, meal, lunch, sunday
+I've seen cases where a noon-time meal is referred to as dinner, and the evening meal is called supper. There's also lunch around noon followed by dinner in the evening.
+The original meaning of dinner was a noon meal (the most significant meal of the day). In most dialects it now means the evening meal, but some folks still refer to the noon meal as dinner and the evening meal as supper.
+
+nut, bolt, wrench, ich, smash, suppress, fringe, probe, tighten, torque
+It either has a scale (analog or digital) or a clutch that is set to release at a certain torque. A Wrench (spanner in BE) is to tighten or loosen a nut.
+On the other hand, the noun "wrench" applies to things other than tools. See the Free dictionary definition of wrench. In my experience, which agrees with wikipedia, "torque wrench" means a wrench which gives a controllable torque, either through measurement of the torque applied or due to a mechanism which prevents a torque greater than a given amount.
+
+standard, measure, weight, gold, precious, sensor, purity, glitter, ieee, regulator
+From what I could find, the PMBOK is an IEEE standard, but it cannot be said that “IEEE has a PMBOK”. A Google search for “IEEE's PMBOK”, “IEEE's Project Management Body of Knowledge”, “IEEE PMBOK” and “IEEE Project Management Body of Knowledge” all returned few (and irrelevant) hits.
+I suppose that the wording "standards" is correct, since it refers to a list of standards and not only one.
+
+style, text, line, space, page, paragraph, document, sit, lay, html
+I'm working on a layout engine where I need to be able to do this, and I'd like to to be able to learn more about it if this is a thing.
+There are two standard ways for paragraphing - either leave a line between paragraphs or indent the first line of each paragraph.
+
+day, last, next, week, date, month, weekend, monday, th, tuesday
+For example, on Monday, October 11 and Wednesday, October 13, “next Tuesday” means October 19. Whereas on Monday, October 18, “next Tuesday” means October 26.
+This is always a contentious issue and it does come down to personal preference. I would take 'last Monday' to mean the previous Monday.
+
+dream, wood, identity, tower, scared, chuck, nightmare, ivory, woodchuck, twister
+And the cycle repeats once more. What's this phenomenon called? I don't know if anyone of you have these kind of dreams before; I'm dreaming then suddenly I dream that I wake up from that dream.
+When we refer to the most negative dream, we say it as worst nightmare. Is it right to use a negative adjective (worst) in its superlative form to describe the level of the negative term?
+
+hour, night, coin, pm, friday, midnight, noon, post, ante, compressed
+By most definitions, the date changes at midnight. That is, at the precise stroke of 12:00:00. However, for convenience, most people lump the 12:00:00 time with its nearest neighbour, 12:00:01, which IS AM or PM.
+The Passed hours is more specific than the Past hours, because all hours in the past are the Past hours. But the Passed hours are the hours in question: the hours spent waiting.
+
+crisp, carroll, mist, alumnus, burial, wonderland, tot, subtract, shroud, sundae
+A glade is a treeless area in a forest. A "glade in the mist" would be a treeless area in a forest that is in the mist.
+The difference is largely one of connotation. Because of this association, when you say that something is shrouded with or shrouded in, it connotes an atmosphere of mystery, gloom, or the numinous.
+
