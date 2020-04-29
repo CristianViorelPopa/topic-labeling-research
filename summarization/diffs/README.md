@@ -1,5 +1,5 @@
 This directory contains the diff files for labels extracted using different methods.
-The diff files directly compare 2 methods, where the **first** one is the name of the directory and the second one is the name of the file itself. They have the following repeating format:
+The diff files directly compare 2 methods, where the **first** one is the name of the directory and the **second** one is the name of the file itself. They have the following repeating format:
 * top-20 terms of the topic
 * ("===") common labels between the 2 methods
 * ("<<<") labels unique to the first method
