@@ -1,0 +1,6 @@
+﻿Model;Top-1 Average Rating;All-labels Average rating;nDCG-1;nDCG-3;nDCG-5
+BART-TL-regular;2.78;2.61;0.61;0.54;0.64
+BART-TL-ngram;3.31;2.79;0.75;0.79;0.74
+BART-TL-phrase;2.60;2.80;0.42;0.58;0.64
+NETL unsupervised;2.92;2.65;0.68;0.77;0.79
+NETL supervised;3.62;2.61;0.92;0.80;0.83
